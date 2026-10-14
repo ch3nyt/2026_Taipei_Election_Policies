@@ -1,0 +1,1216 @@
+[
+  {
+    "id": "shen-001",
+    "candidate": "shen",
+    "topic": "城市治理",
+    "title": "HEART 五大政見主軸",
+    "date": "2026-08-11",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "8/11 政策願景發表會公布五大主軸：Habitat 空間、Empower 培力、Accompany 陪伴、Resilience 韌性、Time 時間，範圍涵蓋居住、交通、育兒、長照、青年發展與城市治理。各主軸下的分項政見另列為獨立紀錄。",
+    "implementation": {
+      "method": "以五大主軸統整分項政見（見本資料庫其他沈伯洋紀錄）。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": "以「每天多出 30 分鐘」作為時間主軸的目標；其餘四年後的改變以質性描述為主。"
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-nownews-6864870"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s",
+      "vid-Q1i-llHNMqA",
+      "vid-ZcPKq6jgMeI"
+    ],
+    "related": []
+  },
+  {
+    "id": "shen-002",
+    "candidate": "shen",
+    "topic": "居住與都更",
+    "title": "婚育宅、青年宅、科技宅",
+    "date": "2026-06-17",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "HEART「空間」主軸列出推動婚育宅與青年宅。6 月談內湖交通時提出以科技宅、青年宅、婚孕宅等住宅規劃，讓工作與居住地點接近（住工合一）；8 月底受訪提到參考新加坡、讓工程師與在地居民混居的科技宅。",
+    "implementation": {
+      "method": "以住宅規劃拉近工作與居住地點（住工合一）；科技宅參考新加坡模式。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "ETtoday 報導：先前「住工合一」說法引發討論後，沈伯洋 6/17 發文說明並非要求市民搬到內湖。",
+      "日期為本資料庫最早來源的日期，住工合一說法更早已提出。"
+    ],
+    "sources": [
+      "src-nownews-6864870",
+      "src-ettoday-3185438",
+      "src-bt-202608240037"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
+    "related": [
+      "shen-013"
+    ]
+  },
+  {
+    "id": "shen-003",
+    "candidate": "shen",
+    "topic": "環境與韌性",
+    "title": "增加綠蔭覆蓋率與公園綠地",
+    "date": "2026-08-11",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "HEART「空間」主軸的子政見之一：增加城市綠蔭覆蓋率與公園綠地。",
+    "implementation": {
+      "method": null,
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-nownews-6864870"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
+    "related": []
+  },
+  {
+    "id": "shen-004",
+    "candidate": "shen",
+    "topic": "環境與韌性",
+    "title": "兩河流域計畫",
+    "date": "2026-08-11",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "整合淡水河與基隆河的清淤工作與親水設施（HEART「空間」主軸）。",
+    "implementation": {
+      "method": "整合兩河的清淤與親水設施規劃。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-nownews-6864870"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
+    "related": []
+  },
+  {
+    "id": "shen-005",
+    "candidate": "shen",
+    "topic": "運動與文化",
+    "title": "台北山徑計畫",
+    "date": "2026-08-11",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "串連城市周邊山徑，目標讓台北成為亞洲第一的登山城市（HEART「空間」主軸）。",
+    "implementation": {
+      "method": "串連城市周邊山徑。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": "以「亞洲第一的登山城市」為質性目標，來源中未見量化指標。"
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-nownews-6864870"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
+    "related": []
+  },
+  {
+    "id": "shen-006",
+    "candidate": "shen",
+    "topic": "運動與文化",
+    "title": "城市文化徑",
+    "date": "2026-08-11",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "以「城市文化徑」讓歷史文化走進市民日常（HEART「空間」主軸）。",
+    "implementation": {
+      "method": null,
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-nownews-6864870"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
+    "related": []
+  },
+  {
+    "id": "shen-007",
+    "candidate": "shen",
+    "topic": "育兒與教育",
+    "title": "家庭免費臨托與喘息服務",
+    "date": "2026-06-23",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "滿 6 個月至 6 歲的幼兒每週最多 4 小時免費臨托，作為家長的喘息服務；8/11 發表會也提到擴大藝文場館與大型運動賽事的臨托。鏡週刊報導估計近 10 萬名孩童的家庭可受惠。",
+    "implementation": {
+      "method": "每週提供固定免費臨托時數；藝文場館與大型運動賽事增設臨托。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": "每名幼兒每週最多 4 小時；估計近 10 萬名孩童。"
+    },
+    "context": [
+      {
+        "text": "鏡週刊報導描述現行北市臨托據點 45 處、每小時收費約 2 至 3 百元。",
+        "src": "src-mirror-20260622inv001"
+      }
+    ],
+    "responses": [
+      {
+        "by": "國民黨台北市議員（報導未具名）",
+        "text": "質疑臨托應用於緊急情況，每週固定使用並不尋常；沈伯洋回應，現代都市中育兒喘息是一般性需求，並說此政策延伸自親子同行卡、擴大喘息服務。",
+        "src": "src-newtalk-1042858"
+      }
+    ],
+    "notes": [
+      "鏡週刊報導內文另有「未滿 7 歲」的寫法，可能與「滿 6 個月到 6 歲」指同一範圍，待候選人陣營正式文件確認。",
+      "鏡週刊專訪於 6/18 進行、6/27 刊出。"
+    ],
+    "sources": [
+      "src-newtalk-1042858",
+      "src-mirror-20260622inv001",
+      "src-nownews-6864870"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
+    "related": [
+      "chiang-004"
+    ]
+  },
+  {
+    "id": "shen-008",
+    "candidate": "shen",
+    "topic": "育兒與教育",
+    "title": "家庭一站通",
+    "date": "2026-06-27",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "擴充家庭教育中心，在 12 個行政區各設一處服務據點，作為育兒資源的總窗口並設專線，比照 1999 市民專線的概念。",
+    "implementation": {
+      "method": "擴充現有家庭教育中心量能，各區設服務據點並設專線。",
+      "timeline": null,
+      "budget": null,
+      "authority": "以市府家庭教育中心為基礎擴充。",
+      "target": "12 個行政區各一處。"
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-mirror-20260622inv001",
+      "src-bt-202608240037"
+    ],
+    "videos": [],
+    "related": [
+      "shen-010"
+    ]
+  },
+  {
+    "id": "shen-009",
+    "candidate": "shen",
+    "topic": "育兒與教育",
+    "title": "增加到宅育兒指導與親職諮商",
+    "date": "2026-06-27",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "現行北市為未滿 2 歲幼兒的家庭提供最多 4 次免費到宅育兒指導，沈伯洋表示再加 2 次也不為過；中央現行補助每年 3 次免費心理諮商，他主張北市再加碼。",
+    "implementation": {
+      "method": "在現行到宅指導與諮商服務上加碼。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": "到宅指導可再增加 2 次；諮商加碼次數來源中未見。"
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-mirror-20260622inv001"
+    ],
+    "videos": [],
+    "related": []
+  },
+  {
+    "id": "shen-010",
+    "candidate": "shen",
+    "topic": "育兒與教育",
+    "title": "校園第三方調查機制",
+    "date": "2026-06-08",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "6 月提出：嚴重霸凌、毒品等校園案件導入第三方機制，由外部專業單位處理（他舉台北大學犯罪學研究所的橄欖枝中心為例），讓教師回到教學。6/27 刊出的鏡週刊專訪中，他也提到親師衝突案件交由外部專業調查，並由家庭教育中心事前預防。",
+    "implementation": {
+      "method": "嚴重案件交外部專業單位處理；家庭教育中心事前預防。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [
+      {
+        "by": "台北市教育局長湯志民",
+        "text": "表示已有類似機制：依教育部 2024 年的規定設有調和機制，第一線無法處理時先由外部委員調和。",
+        "src": "src-udn-9552731"
+      }
+    ],
+    "notes": [],
+    "sources": [
+      "src-udn-9552731",
+      "src-mirror-20260622inv001"
+    ],
+    "videos": [],
+    "related": [
+      "shen-008"
+    ]
+  },
+  {
+    "id": "shen-011",
+    "candidate": "shen",
+    "topic": "運動與文化",
+    "title": "運動驛站",
+    "date": "2026-08-11",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "在捷運站、登山口、公園設置提供寄物、更衣、沖洗的設施，讓通勤與運動的市民節省時間。8/31 今周刊、9/2 三立刊出的專訪中，他提到運用捷運公司場地（如北投會館、小巨蛋）與市有地，傾向公辦民營、以商業機制活化。",
+    "implementation": {
+      "method": "利用捷運相關場地與市有地設置；公辦民營。",
+      "timeline": null,
+      "budget": null,
+      "authority": "涉及台北捷運公司營運的場地。",
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-nownews-6864870",
+      "src-bt-202608240037",
+      "src-setn-1898889"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
+    "related": []
+  },
+  {
+    "id": "shen-012",
+    "candidate": "shen",
+    "topic": "交通",
+    "title": "TPASS 納入共享機車、串連自行車通勤路網",
+    "date": "2026-08-11",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "推動 TPASS 月票納入共享機車，並串起自行車通勤路網，補足最後一哩路、縮短轉乘時間（HEART「時間」主軸）。",
+    "implementation": {
+      "method": "TPASS 納入共享機車；串連自行車通勤路網。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-nownews-6864870"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
+    "related": []
+  },
+  {
+    "id": "shen-013",
+    "candidate": "shen",
+    "topic": "交通",
+    "title": "內湖交通方案",
+    "date": "2026-06-17",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "6/17 提出五項方向：鼓勵企業錯開上下班、推動彈性工時、加速捷運建設（民生汐止線、環狀線東環段）、以電動小巴補足最後一哩，以及住工合一的住宅規劃。8/31 今周刊專訪另提規劃松山與內湖之間的自行車橋。9/2 三立刊出的專訪中，他主張東環段施工時同步設計人行道與自行車道（他表示即使只解決 10% 的交通問題也好），民生汐止線先從汐止端施工、先做 4 站。",
+    "implementation": {
+      "method": "錯峰與彈性工時誘因、加速捷運、電動小巴接駁、自行車橋、住工合一。",
+      "timeline": null,
+      "budget": null,
+      "authority": "他表示曾與交通部討論民生汐止線先從汐止端做 4 站的構想。",
+      "target": null
+    },
+    "context": [],
+    "responses": [
+      {
+        "by": "台北市政府交通局",
+        "text": "交通局表示蔣萬安上任後成立專案小組推動內科交通改善，內科 7 條主要道路的午後尖峰旅行時間下降 6.07%。",
+        "src": "src-pts-822643"
+      }
+    ],
+    "notes": [],
+    "sources": [
+      "src-ettoday-3185438",
+      "src-bt-202608240037",
+      "src-setn-1898889"
+    ],
+    "videos": [],
+    "related": [
+      "shen-002",
+      "chiang-008"
+    ]
+  },
+  {
+    "id": "shen-014",
+    "candidate": "shen",
+    "topic": "居住與都更",
+    "title": "社子島開發調整",
+    "date": "2026-09-02",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "主張與居民重新溝通、先做管線等基礎建設；以老屋延壽讓居民不必搬遷；與居民討論約 9 個希望保存的聚落如何保存或先行修復；提供地上權住宅、平價住宅、只租不售等多種選項；並表示原規劃 3 萬人的人口目標（現住約 1 萬人）可以再討論。",
+    "implementation": {
+      "method": "重新溝通、基礎建設優先、老屋延壽、多元住宅選項。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "三立 9/2 刊出，專訪於刊出前數日進行。"
+    ],
+    "sources": [
+      "src-setn-1898889"
+    ],
+    "videos": [],
+    "related": [
+      "shen-015"
+    ]
+  },
+  {
+    "id": "shen-015",
+    "candidate": "shen",
+    "topic": "長照與高齡",
+    "title": "老宅延壽計畫與行動服務團",
+    "date": "2026-08-11",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "與中央合作推動「老宅延壽計畫」，成立行動服務團到宅說明，住戶可不搬遷參與；並主張北市除公有部分外，也應執行該計畫的專有部分。他引述北市有 8 萬多棟 30 年以上無電梯老公寓、近 6 成長輩住在無電梯公寓，並批評現行加裝電梯申請程序複雜、過去 3 年申請件數不到總量的千分之一。",
+    "implementation": {
+      "method": "行動服務團到宅說明；分兩階段（先讓住戶知道，再參與）；需組建築師團隊。",
+      "timeline": null,
+      "budget": null,
+      "authority": "與中央合作推動；他稱桃園、高雄進度較快。",
+      "target": null
+    },
+    "context": [
+      {
+        "text": "聯合報 7/2 報導市府資料：北市自 2015 年起補助老公寓加裝電梯，累計受理 180 案；其中 2023 年 4 月起的「電梯加碼辦」累計 103 案。",
+        "src": "src-udn-9601405"
+      }
+    ],
+    "responses": [],
+    "notes": [
+      "「不到千分之一」為候選人說法；來源中未見其計算基準。"
+    ],
+    "sources": [
+      "src-nownews-6864870",
+      "src-bt-202608240037"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
+    "related": [
+      "chiang-007",
+      "shen-014"
+    ]
+  },
+  {
+    "id": "shen-016",
+    "candidate": "shen",
+    "topic": "長照與高齡",
+    "title": "長輩陪伴：健身小巴、敬老卡升級、社區共照據點",
+    "date": "2026-08-11",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "以健身小巴、敬老卡升級、擴大社區共照據點等措施，搭配親子同行卡，讓長輩有動機出門、有人陪伴；並表示會同步推出育兒家庭、公務人員與教師的支持計畫（HEART「陪伴」主軸）。",
+    "implementation": {
+      "method": "健身小巴、敬老卡升級、擴大社區共照據點、親子同行卡。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-nownews-6864870"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
+    "related": [
+      "chiang-006",
+      "shen-017"
+    ]
+  },
+  {
+    "id": "shen-017",
+    "candidate": "shen",
+    "topic": "育兒與教育",
+    "title": "親子同行卡",
+    "date": "2026-05-30",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "5 月提出。報導描述：獨立書店可向市府申請「親子同行」認證，取得後較容易舉辦社區活動，目的是建立文化生態系、帶動在地消費，而非單點補助。8/11 發表會再提到以親子同行卡搭配長輩出門。",
+    "implementation": {
+      "method": "獨立書店申請認證後可舉辦社區活動。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "報導稱政策於 5/31 報導的前一天宣布，故日期記為 5/30。"
+    ],
+    "sources": [
+      "src-udn-9536572",
+      "src-nownews-6864870"
+    ],
+    "videos": [],
+    "related": [
+      "shen-016"
+    ]
+  },
+  {
+    "id": "shen-018",
+    "candidate": "shen",
+    "topic": "青年與就業",
+    "title": "城市青年基金",
+    "date": "2026-08-18",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "18 至 22 歲台北青年（父或母設籍台北、本人設籍一定期間），市府每月存入 1,500 元至專屬帳戶（弱勢青年 3,000 元），4 年累計 7.2 萬元；以長期基金投資，須完成金融素養課程才能提領；用途如研究所學費、出國、求職緩衝。他表示參考英國 Lifetime ISA 與首爾青年儲蓄帳戶。",
+    "implementation": {
+      "method": "市府按月存入專屬帳戶、長期投資、完成課程後提領。",
+      "timeline": null,
+      "budget": "每年約 18 至 20 億元（同篇報導另一處寫約 18、19 億元），由市府編列。",
+      "authority": "市府。",
+      "target": "約 10 萬名青年。"
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "報導描述：計畫期間若因毒品或詐欺判刑，僅退還個人存入的本金。",
+      "8/11 發表會曾提到「設立城市基金」，報導未說明是否即為此方案。"
+    ],
+    "sources": [
+      "src-setn-1891188",
+      "src-udn-9698355"
+    ],
+    "videos": [],
+    "related": [
+      "shen-019",
+      "shen-020"
+    ]
+  },
+  {
+    "id": "shen-019",
+    "candidate": "shen",
+    "topic": "青年與就業",
+    "title": "青年 AI 使用支持方案",
+    "date": "2026-08-18",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "建立「台北青年 AI 使用平台」統一串接各 AI 模型並管理額度，由市府與 AI 業者議價。第一階段：設籍台北、18 至 25 歲的大學與碩士生每月基本額度 300 元；AI 密集課程由教師或學校申請每月 500 至 1,000 元；專題、競賽等可單次申請 2,000 至 10,000 元。第二階段擴及畢業後至 45 歲市民，為期 2 年。",
+    "implementation": {
+      "method": "市府建置統一平台、以儲值方式提供額度、與業者議價。",
+      "timeline": null,
+      "budget": "兩階段合計 9 億元。",
+      "authority": "市府與 AI 業者協商。",
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-setn-1891188",
+      "src-udn-9698355",
+      "src-bt-202608240037"
+    ],
+    "videos": [],
+    "related": [
+      "chiang-010",
+      "shen-018"
+    ]
+  },
+  {
+    "id": "shen-020",
+    "candidate": "shen",
+    "topic": "青年與就業",
+    "title": "台北青年圓夢計畫",
+    "date": "2026-08-18",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "銜接教育部「青年百億海外圓夢基金」，支持青年出國、參與市政或研究，並提供後續諮詢、培訓、場地與創業資金；青年可自提海外或市政題目。8/11 發表會提到擴大圓夢基金、支持青年出國拓展視野。",
+    "implementation": {
+      "method": "銜接中央圓夢基金並提供後續支持。",
+      "timeline": "8 年。",
+      "budget": "8 年共 20 億元（每年約 2.5 億元）。",
+      "authority": "銜接教育部計畫。",
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "他表示城市青年基金、青年 AI 方案、圓夢計畫三者合計每年預算約 29 億元。"
+    ],
+    "sources": [
+      "src-setn-1891188",
+      "src-bt-202608240037",
+      "src-nownews-6864870"
+    ],
+    "videos": [],
+    "related": [
+      "shen-018"
+    ]
+  },
+  {
+    "id": "shen-021",
+    "candidate": "shen",
+    "topic": "產業與AI",
+    "title": "市府當新創第一個客戶、AI 課程補助、中年轉職陪跑",
+    "date": "2026-08-11",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "由市府帶頭與新創合作、成為年輕團隊的第一個客戶；補助 AI 課程與費用；為 45 歲以上想投入新創或轉職的市民設立陪跑計畫（HEART「培力」主軸）。",
+    "implementation": {
+      "method": null,
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-nownews-6864870"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
+    "related": []
+  },
+  {
+    "id": "shen-022",
+    "candidate": "shen",
+    "topic": "城市治理",
+    "title": "北士科都市研究院（台北研究院）",
+    "date": "2026-06-27",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "在北士科設立研究院作為市府智庫（參考首爾研究院），研究都市規劃、交通與 AI 演算法，並延攬海外人才回國；也提到議員索資流程 SOP 化。8 月底受訪稱規劃延攬 70 至 80 位博士級人才，並已與國科會接觸，構想研究院、國科會與新創基地同棟。",
+    "implementation": {
+      "method": "設立研究院、延攬博士級人才。",
+      "timeline": null,
+      "budget": null,
+      "authority": "稱已與國科會接觸。",
+      "target": "70 至 80 位博士級人才。"
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "6 月鏡週刊專訪中稱為「AI 研究院」。"
+    ],
+    "sources": [
+      "src-mirror-20260622inv001",
+      "src-nownews-6864870",
+      "src-bt-202608240037"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
+    "related": [
+      "chiang-013"
+    ]
+  },
+  {
+    "id": "shen-023",
+    "candidate": "shen",
+    "topic": "產業與AI",
+    "title": "北士科配套：變電所與園區最後一哩",
+    "date": "2026-08-31",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "他表示北士科變電所市府已同意推動並與台電洽談，規劃室內化加部分地下化；他進一步提議將公車總站整合為無人公車充電站，附近設 24 小時圖書館；另以園區內公車系統解決捷運站到園區的最後一哩。",
+    "implementation": {
+      "method": "公車總站整合無人公車充電站、設 24 小時圖書館；園區內公車。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-bt-202608240037"
+    ],
+    "videos": [],
+    "related": [
+      "chiang-013"
+    ]
+  },
+  {
+    "id": "shen-024",
+    "candidate": "shen",
+    "topic": "城市治理",
+    "title": "設計長、夜間市長、擴大永續長職能",
+    "date": "2026-08-11",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "設「設計長」負責城市美感、安全與無障礙的長期規劃；設「夜間市長」整合夜間經濟涉及的都市設計、女性安全、住商溝通與環境衛生等跨局處事務（公視報導他提到參考阿姆斯特丹，並表示不排除將紅燈區納入討論）；並擴大「永續長」職能。",
+    "implementation": {
+      "method": "新設跨局處協調職位。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [
+      {
+        "by": "國民黨台北市議員柳采葳",
+        "text": "認為城市治理不應照搬國外職稱、增加組織編制，應務實處理夜間治安與噪音等問題。",
+        "src": "src-pts-822643"
+      }
+    ],
+    "notes": [],
+    "sources": [
+      "src-nownews-6864870",
+      "src-pts-822643"
+    ],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
+    "related": []
+  },
+  {
+    "id": "shen-025",
+    "candidate": "shen",
+    "topic": "城市治理",
+    "title": "公務員核心工時",
+    "date": "2026-06-27",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "以公務員核心工時（只需在核心時段到班、其餘時間彈性安排，報導以東京為例）為例，說明上任後要先改善公務員工作環境、提升市府量能。",
+    "implementation": {
+      "method": null,
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-mirror-20260622inv001"
+    ],
+    "videos": [],
+    "related": []
+  },
+  {
+    "id": "shen-026",
+    "candidate": "shen",
+    "topic": "運動與文化",
+    "title": "運動政見：健身小巴、超級市民運動中心、國際級足球場",
+    "date": "2026-07-16",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "以「小、中、大」三個層次增加運動人口：健身小巴、超級市民運動中心、國際級足球場，並建立運動生態系與「無限城運動聯盟」。",
+    "implementation": {
+      "method": null,
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": "以增加運動人口為目標，報導未載明數字。"
+    },
+    "context": [],
+    "responses": [
+      {
+        "by": "蔣萬安",
+        "text": "表示市府已推動多項政策，目標將全市規律運動人口比例提升到 40%，各界好的意見都會參考。",
+        "src": "src-udn-9631389"
+      }
+    ],
+    "notes": [],
+    "sources": [
+      "src-udn-9631389"
+    ],
+    "videos": [],
+    "related": [
+      "chiang-009"
+    ]
+  },
+  {
+    "id": "chiang-001",
+    "candidate": "chiang",
+    "topic": "產業與AI",
+    "title": "松山機場遷移、打造台北 AI 園區",
+    "date": "2026-10-08",
+    "capacity": "市長／市府",
+    "status": "提議",
+    "summary": "10/8 於市府記者會宣布規劃遷移松山機場。原址約 300 公頃規劃為：AI 產業聚落約 100 公頃、台北中央公園約 110 公頃、約 90 公頃作國際永續生活聚落（聯合報描述為住宅與公共設施）。市府估計產值 12 兆元、6.5 萬個就業機會與 3.5 萬居住人口；並稱遷移後可解除周邊約 570 公頃老舊地區的航高限制、帶動都更。",
+    "implementation": {
+      "method": "規劃跨河廊道（聯合報、今周刊寫作基湖路、敬業三路、北安路；中央社寫作基河路、建業三路），以及民族東路向東延伸連接內湖科技園區、向西銜接建國與新生高架；並提出新捷運路線構想（聯合報示意圖註明係依市府描述繪製的概念圖）。",
+      "timeline": "未說明機場遷移的完成時間。蔣萬安表示還有 6 年時間，現在可以開始準備；市府引述桃園機場第三航廈 2027 年、第三跑道 2033 年完工，可承接松山機場運量。",
+      "budget": null,
+      "authority": "須與中央政府及相關機關協商；蔣萬安表示將與中央密切合作。",
+      "target": "園區產值 12 兆元；6.5 萬個就業機會、3.5 萬居住人口；周邊 570 公頃老舊地區另估 18 兆元產值。"
+    },
+    "context": [],
+    "responses": [
+      {
+        "by": "交通部",
+        "text": "表示松山機場具重要航空運輸功能（國際與兩岸航線、離島與東部航線樞紐、空軍與空勤總隊基地），任何影響國家中長期發展的政策須就國家整體角度審慎評估。",
+        "src": "src-cna-202610080126"
+      },
+      {
+        "by": "沈伯洋",
+        "text": "表示機場遷移跨黨派討論已久且涉及軍事考量，希望在市長辯論中討論。",
+        "src": "src-cna-202610080124"
+      }
+    ],
+    "notes": [
+      "數字寫法差異：中央社寫「6.5 萬就業、3.5 萬居住人口」，聯合報寫「10 萬人在此工作與生活」，兩者總數一致。",
+      "跨河道路名稱各媒體寫法不同，以多數報導的寫法為主，並列出中央社的寫法。"
+    ],
+    "sources": [
+      "src-cna-202610080124",
+      "src-udn-9802418",
+      "src-cna-202610080126",
+      "src-bt-202610080015"
+    ],
+    "videos": [
+      "vid-w8yObdiOzYM",
+      "vid-E2eL-qVqgUI"
+    ],
+    "related": [
+      "chiang-013"
+    ]
+  },
+  {
+    "id": "chiang-002",
+    "candidate": "chiang",
+    "topic": "育兒與教育",
+    "title": "第二胎起公托、準公托免費",
+    "date": "2026-03-31",
+    "capacity": "市長／市府",
+    "status": "已宣布",
+    "summary": "第二胎（含）以上子女就讀公托或準公托免費。蔣萬安表示約七成送托家庭可受惠，約 8 萬 5 千名孩童可享有此福利。",
+    "implementation": {
+      "method": null,
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": "約七成送托家庭、約 8.5 萬名孩童。"
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "市府當天宣布 5 項育兒政策。「約七成送托家庭、8.5 萬名孩童」目前只見於 TVBS 報導。"
+    ],
+    "sources": [
+      "src-tvbs-3166426",
+      "src-pts-801527"
+    ],
+    "videos": [],
+    "related": [
+      "chiang-003"
+    ]
+  },
+  {
+    "id": "chiang-003",
+    "candidate": "chiang",
+    "topic": "育兒與教育",
+    "title": "校校有公托",
+    "date": "2026-03-31",
+    "capacity": "市長／市府",
+    "status": "已宣布",
+    "summary": "在 12 個行政區各選定學校或公共空間增設公托，今年共 16 處、增加 620 個公托名額。",
+    "implementation": {
+      "method": "利用學校及公共空間增設公托。",
+      "timeline": "今年（2026）。",
+      "budget": null,
+      "authority": null,
+      "target": "16 處、620 個名額。"
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-tvbs-3166426",
+      "src-pts-801527"
+    ],
+    "videos": [],
+    "related": [
+      "chiang-002"
+    ]
+  },
+  {
+    "id": "chiang-004",
+    "candidate": "chiang",
+    "topic": "育兒與教育",
+    "title": "新生兒 8 小時免費臨托",
+    "date": "2026-03-31",
+    "capacity": "市長／市府",
+    "status": "已宣布",
+    "summary": "市府預計 2026 年 9 月起發放新生兒臨托券，6 個月至未滿 1 歲的新生兒可享 8 小時免費臨時托育。",
+    "implementation": {
+      "method": null,
+      "timeline": "2026 年 9 月起發放。",
+      "budget": null,
+      "authority": null,
+      "target": "8 小時；對象為 6 個月至未滿 1 歲的新生兒。"
+    },
+    "context": [
+      {
+        "text": "公視報導北市臨時托育據點由市長上任前的 4 處增加到 45 處。",
+        "src": "src-pts-801527"
+      }
+    ],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-pts-801527",
+      "src-mirror-20260622inv001"
+    ],
+    "videos": [],
+    "related": [
+      "shen-007"
+    ]
+  },
+  {
+    "id": "chiang-005",
+    "candidate": "chiang",
+    "topic": "青年與就業",
+    "title": "育兒減工時試辦",
+    "date": "2026-02-25",
+    "capacity": "市長／市府",
+    "status": "已上路",
+    "summary": "蔣萬安 2/25 宣布、3 月上路。有 12 歲以下子女、設籍台北且適用勞基法的受僱者，經雇主同意、在不減薪的前提下每天減少 1 小時工時（每月至少 10 天、持續至少 3 個月），市府補助減少工時對應薪資的 8 成。蔣萬安表示計畫屬試辦性質，保留後續擴大經費的彈性。",
+    "implementation": {
+      "method": "市府補助雇主減少工時對應薪資的 8 成。",
+      "timeline": "2026 年 3 月上路。",
+      "budget": "初估 550 萬元，由既有預算支應；每名受僱者最高 1.5 萬元、每家企業最高 10 萬元。",
+      "authority": "台北市政府勞動局。",
+      "target": "TVBS 3/5 報導時已有 30 家企業申請。"
+    },
+    "context": [],
+    "responses": [
+      {
+        "by": "勞動部長洪申翰",
+        "text": "表示關鍵在配套，若缺乏配套可能淪為較象徵性的試辦。",
+        "src": "src-tvbs-3142881"
+      }
+    ],
+    "notes": [],
+    "sources": [
+      "src-pts-796429",
+      "src-tvbs-3142881"
+    ],
+    "videos": [],
+    "related": []
+  },
+  {
+    "id": "chiang-006",
+    "candidate": "chiang",
+    "topic": "長照與高齡",
+    "title": "敬老卡升級：提高點數、擴大使用範圍",
+    "date": "2026-06-08",
+    "capacity": "市長／市府",
+    "status": "已上路",
+    "summary": "蔣萬安 6/8 於議會提出敬老卡升級：每月點數由 480 點提高到 600 點（2026 年 7 月起）；可折抵北市聯醫 21 處門診掛號費；未用完點數可留到下個月，並開放超商、超市、藥局、農會以每月 300 點兌換民生用品（這兩項預定 2027 年下半年實施）。9/14 他說明敬老卡可用於 12 種大眾運輸、71 處公共場館。",
+    "implementation": {
+      "method": "提高每月點數、擴大可使用的場域與通路。",
+      "timeline": "點數調高：2026 年 7 月起；點數保留與民生通路：預定 2027 年下半年。",
+      "budget": null,
+      "authority": null,
+      "target": "每月 600 點（原 480 點）；民生通路每月可用 300 點。"
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "本紀錄同時包含已上路與規劃中的項目，請見時程欄。"
+    ],
+    "sources": [
+      "src-gvm-128353",
+      "src-udn-9752760"
+    ],
+    "videos": [],
+    "related": [
+      "shen-016"
+    ]
+  },
+  {
+    "id": "chiang-007",
+    "candidate": "chiang",
+    "topic": "居住與都更",
+    "title": "電梯加碼辦（都更八箭第五箭）",
+    "date": "2026-07-02",
+    "capacity": "市長／市府",
+    "status": "已上路",
+    "summary": "2023 年 4 月啟動，加碼協助老公寓加裝電梯。據聯合報 7/2 報導的市府資料，「電梯加碼辦」累計 103 案，占北市自 2015 年起累計 180 案的 57.2%。",
+    "implementation": {
+      "method": null,
+      "timeline": "2023 年 4 月起。",
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "來源中未見補助金額。",
+      "日期為報導日；政策自 2023 年 4 月起實施。沈伯洋對此議題的說法見 shen-015。"
+    ],
+    "sources": [
+      "src-udn-9601405"
+    ],
+    "videos": [],
+    "related": [
+      "shen-015"
+    ]
+  },
+  {
+    "id": "chiang-008",
+    "candidate": "chiang",
+    "topic": "交通",
+    "title": "內科交通改善計畫",
+    "date": "2026-08-16",
+    "capacity": "市長／市府",
+    "status": "已上路",
+    "summary": "交通局說明蔣萬安上任後成立專案小組推動內科交通改善，內科 7 條主要道路的午後尖峰旅行時間下降 6.07%。",
+    "implementation": {
+      "method": "成立專案小組改善內科主要道路。",
+      "timeline": null,
+      "budget": null,
+      "authority": "台北市政府交通局。",
+      "target": "市府稱午後尖峰旅行時間已下降 6.07%（成效數據）。"
+    },
+    "context": [],
+    "responses": [
+      {
+        "by": "沈伯洋",
+        "text": "表示對市府所稱內科交通已緩解「毫無感覺」。",
+        "src": "src-bt-202608240037"
+      }
+    ],
+    "notes": [
+      "此為交通局主任秘書的說明，非蔣萬安本人發言。",
+      "來源中未說明 6.07% 的比較基期。",
+      "日期為報導日；專案小組於蔣萬安上任後成立。"
+    ],
+    "sources": [
+      "src-pts-822643"
+    ],
+    "videos": [],
+    "related": [
+      "shen-013",
+      "chiang-012"
+    ]
+  },
+  {
+    "id": "chiang-009",
+    "candidate": "chiang",
+    "topic": "運動與文化",
+    "title": "規律運動人口 40% 目標",
+    "date": "2026-07-16",
+    "capacity": "市長／市府",
+    "status": "已上路",
+    "summary": "蔣萬安表示市府目標將全市規律運動人口比例提升到 40%，已在多區設特色運動館、規劃國際級羽球場館，並推出 U-Sport。",
+    "implementation": {
+      "method": "特色運動館、國際級羽球場館、U-Sport。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": "規律運動人口比例 40%。"
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "日期為報導日。"
+    ],
+    "sources": [
+      "src-udn-9631389"
+    ],
+    "videos": [],
+    "related": [
+      "shen-026"
+    ]
+  },
+  {
+    "id": "chiang-010",
+    "candidate": "chiang",
+    "topic": "青年與就業",
+    "title": "青年 AI 工具補助計畫",
+    "date": "2026-07-29",
+    "capacity": "市長／市府",
+    "status": "已上路",
+    "summary": "青年局推出，補助 18 至 35 歲、設籍台北滿 6 個月、在學（含應屆畢業）且修習 AI 相關課程或參加青年局「以戰代訓銜接職場計畫」者的 AI 工具訂閱費。每人每年最高 4,000 元，低收與中低收入戶最高 8,000 元；補助期間 2026/8/1 至 10/31，每月訂閱期滿後即可申請。",
+    "implementation": {
+      "method": "補助 AI 工具訂閱費，須搭配課程。",
+      "timeline": "補助期間 2026/8/1 至 10/31。",
+      "budget": null,
+      "authority": "台北市政府青年局。",
+      "target": null
+    },
+    "context": [],
+    "responses": [
+      {
+        "by": "沈伯洋",
+        "text": "批評現行方案期程短、須綁課程且以訂閱制為主，較有利於原本就熟悉 AI 的使用者。",
+        "src": "src-setn-1891188"
+      }
+    ],
+    "notes": [
+      "此方案由青年局宣布，報導未提及蔣萬安本人。"
+    ],
+    "sources": [
+      "src-nownews-6861132"
+    ],
+    "videos": [],
+    "related": [
+      "shen-019"
+    ]
+  },
+  {
+    "id": "chiang-011",
+    "candidate": "chiang",
+    "topic": "育兒與教育",
+    "title": "AI 教育政策白皮書",
+    "date": "2026-07-03",
+    "capacity": "市長／市府",
+    "status": "規劃中",
+    "summary": "未來 4 年投入 92 億元推動 AI 教育：今年暑假完成中小學與高中職每間教室的智慧大屏；明年開始規劃、後年設立北士科 AI 教育中心；4 年內逐步提供每位教師 AI 電腦並升級學生數位設備；以「酷 AI」平台提供師生 AI 助理；開設機器人與無人機跨域課程、設置校園 AI 實驗室。",
+    "implementation": {
+      "method": "智慧大屏、教師 AI 電腦、酷 AI 平台、校園 AI 實驗室、北士科 AI 教育中心。",
+      "timeline": "智慧大屏今年暑假；AI 教育中心明年規劃、後年設立；設備 4 年內逐步到位。",
+      "budget": "4 年 92 億元。",
+      "authority": "台北市政府。",
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-udn-9605903"
+    ],
+    "videos": [],
+    "related": []
+  },
+  {
+    "id": "chiang-012",
+    "candidate": "chiang",
+    "topic": "交通",
+    "title": "無人自駕公車",
+    "date": "2026-06-22",
+    "capacity": "市長／市府",
+    "status": "規劃中",
+    "summary": "交通局表示今年招標、明年下半年實地測試，先在北士科、信義路等公車專用道進行沙盒試驗（信義路優先），其餘 14 條專用道先建置偵測設備成為智慧道路；初期在夜間或離峰時段試行。蔣萬安受訪表示明年下半年起在 15 條公車專用道逐步推動。",
+    "implementation": {
+      "method": "公車專用道沙盒試驗、智慧道路偵測設備。",
+      "timeline": "今年（2026）招標，明年（2027）下半年實測。",
+      "budget": "3 年 2 億多元。",
+      "authority": "須中央放寬法規才能核發無人自駕公車牌照，市府正與經濟部、交通部協商。",
+      "target": null
+    },
+    "context": [
+      {
+        "text": "公視 2/11 報導交通局表示，北士科無人駕駛公車面臨法規限制與基礎設施尚未完善，可能要到 2029 年才能商轉。",
+        "src": "src-pts-794980"
+      }
+    ],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-udn-9580326"
+    ],
+    "videos": [],
+    "related": [
+      "chiang-008"
+    ]
+  },
+  {
+    "id": "chiang-013",
+    "candidate": "chiang",
+    "topic": "產業與AI",
+    "title": "輝達北士科總部（T17、T18 地上權）",
+    "date": "2026-02-11",
+    "capacity": "市長／市府",
+    "status": "已上路",
+    "summary": "市府與輝達完成北士科 T17、T18 地上權簽約：權利金 122 億元、期限 50 年、最多可延長 20 年。報導稱建設期投資逾 400 億元，蔣萬安表示從興建到營運可創造逾 1 萬個工作機會；報導稱力拚最快 6 月動工。",
+    "implementation": {
+      "method": "地上權設定。",
+      "timeline": "2026/2/11 簽約；報導時目標最快 6 月動工。",
+      "budget": "輝達支付權利金 122 億元。",
+      "authority": "台北市政府與輝達簽約。",
+      "target": "逾 1 萬個工作機會（蔣萬安說法）。"
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "動工時程為 2 月報導時的目標，實際進度待補最新來源。"
+    ],
+    "sources": [
+      "src-pts-794980"
+    ],
+    "videos": [],
+    "related": [
+      "chiang-001",
+      "shen-022",
+      "shen-023"
+    ]
+  }
+]

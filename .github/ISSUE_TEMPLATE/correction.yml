@@ -1,0 +1,30 @@
+name: 資料更正
+description: 回報某筆紀錄的錯誤或遺漏
+title: "[更正] "
+labels: ["更正"]
+body:
+  - type: input
+    id: record
+    attributes:
+      label: 紀錄編號
+      description: 例如 shen-013 或 chiang-001（網站卡片左下角）
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 哪裡有誤或遺漏？
+      description: 請具體指出欄位與內容
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 正確的來源網址
+      description: 新聞、官方公告或影片（影片請附時間點）
+    validations:
+      required: true
+  - type: textarea
+    id: note
+    attributes:
+      label: 補充說明

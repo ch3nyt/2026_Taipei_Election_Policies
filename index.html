@@ -1,0 +1,396 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="使用 Claude Code 透過網路爬蟲，整理蔣萬安、沈伯洋的北市選舉政見，讓大家好比較雙方的異同。每則資訊都會附上影片、新聞的出處，如果有誤請不吝告知， 也祝大家支持的候選人都成功當選~">
+<!-- 本檔由 scripts/build_site.py 產生，請勿直接修改，改 site/page.html -->
+</head>
+<body>
+<title>台北市長政見對照</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@600;700&display=swap">
+<style>
+/* 版面概念：選舉公報式雙欄對照。每個議題一列，兩位候選人左右並排；手機改為上下堆疊，可切換只看一位。
+   兩位候選人使用完全相同的樣式，不使用任何政黨代表色。 */
+:root {
+  --paper: #f5f4f7;
+  --surface: #ffffff;
+  --ink: #1f1d24;
+  --muted: #625e6b;
+  --line: #dcd9e2;
+  --accent: #5a3e75;
+  --accent-soft: #ece6f3;
+  --empty: #8e8a97;
+  --warn: #8a5a12;
+  --warn-soft: #f6eddc;
+  --font-display: "Noto Serif TC", "Songti TC", "PMingLiU", serif;
+  --font-body: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --radius: 6px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #151419; --surface: #1d1c23; --ink: #ebe9f0; --muted: #a6a2b0; --line: #34323d;
+    --accent: #c4a8e2; --accent-soft: #2b2436; --empty: #85818f; --warn: #e2b874; --warn-soft: #2e2516;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #151419; --surface: #1d1c23; --ink: #ebe9f0; --muted: #a6a2b0; --line: #34323d;
+  --accent: #c4a8e2; --accent-soft: #2b2436; --empty: #85818f; --warn: #e2b874; --warn-soft: #2e2516;
+  color-scheme: dark;
+}
+*, *::before, *::after { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font-family: var(--font-body); font-size: 16px; line-height: 1.7;
+}
+img { max-width: 100%; }
+a { color: var(--accent); text-underline-offset: 2px; }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible {
+  outline: 2px solid var(--accent); outline-offset: 2px;
+}
+.wrap { max-width: 1120px; margin: 0 auto; padding-inline: 16px; padding-block: 28px 64px; }
+@media (min-width: 720px) { .wrap { padding-inline: 28px; } }
+
+/* 標頭 */
+.masthead { display: grid; gap: 10px; padding-block-end: 20px; border-bottom: 2px solid var(--ink); }
+.eyebrow { font-family: var(--font-data); font-size: 12px; letter-spacing: 0.08em; color: var(--muted); }
+h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 6vw, 40px); line-height: 1.25; margin: 0; text-wrap: balance; }
+.lede { margin: 0; max-width: 62ch; color: var(--muted); }
+.meta-row { display: flex; flex-wrap: wrap; gap: 6px 18px; font-family: var(--font-data); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.meta-row strong { color: var(--ink); font-weight: 500; }
+
+/* 候選人 */
+.cands { display: grid; grid-template-columns: 1fr; gap: 12px; margin-block: 22px; }
+@media (min-width: 720px) { .cands { grid-template-columns: 1fr 1fr; gap: 20px; } }
+.cand { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 16px 18px; display: grid; gap: 6px; min-width: 0; }
+.cand-name { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
+.cand-name h2 { font-family: var(--font-display); font-size: 24px; margin: 0; }
+.cand-name span { color: var(--muted); font-size: 14px; }
+.cand dl { margin: 0; display: grid; grid-template-columns: 4.5em 1fr; gap: 2px 10px; font-size: 14.5px; }
+.cand dt { color: var(--muted); }
+.cand dd { margin: 0; min-width: 0; }
+.cand .count { font-family: var(--font-data); font-size: 13px; color: var(--muted); }
+
+.notice { background: var(--warn-soft); border-radius: var(--radius); padding: 14px 16px; font-size: 14.5px; display: grid; gap: 6px; }
+.notice strong { color: var(--warn); }
+.notice p { margin: 0; }
+
+/* 工具列 */
+.toolbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--paper); padding-block: 12px; margin-block: 18px 6px;
+  border-bottom: 1px solid var(--line); display: grid; gap: 10px;
+}
+.chips { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 2px; scrollbar-width: thin; }
+.chip {
+  flex: none; font: inherit; font-size: 14px; padding: 5px 12px; border-radius: 999px;
+  border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer;
+}
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.chip .n { font-family: var(--font-data); font-size: 12px; opacity: 0.7; margin-left: 4px; }
+.controls { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.controls input[type="search"] {
+  flex: 1 1 220px; min-width: 0; font: inherit; font-size: 15px; padding: 7px 12px;
+  border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); color: var(--ink);
+}
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; background: var(--surface); }
+.seg button { font: inherit; font-size: 14px; padding: 6px 12px; border: 0; background: transparent; color: var(--ink); cursor: pointer; }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent); font-weight: 500; }
+
+/* 議題區塊 */
+.topic { padding-block: 22px 8px; border-bottom: 1px solid var(--line); }
+.topic h3 { font-family: var(--font-display); font-size: 22px; margin: 0 0 14px; display: flex; align-items: baseline; gap: 10px; }
+.topic h3 .n { font-family: var(--font-data); font-size: 13px; color: var(--muted); font-weight: 400; }
+.cols { display: grid; grid-template-columns: 1fr; gap: 18px; }
+.cols.two { grid-template-columns: 1fr; }
+@media (min-width: 860px) { .cols.two { grid-template-columns: 1fr 1fr; gap: 24px; } }
+.col { display: grid; gap: 12px; align-content: start; min-width: 0; }
+.col-head { font-size: 14px; font-weight: 700; letter-spacing: 0.04em; color: var(--muted); padding-bottom: 4px; border-bottom: 1px solid var(--line); }
+.col-empty { font-size: 14px; color: var(--empty); padding: 10px 0; }
+
+/* 紀錄卡 */
+.rec { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 16px; display: grid; gap: 10px; min-width: 0; scroll-margin-top: 140px; }
+.rec:target { outline: 2px solid var(--accent); }
+.rec-top { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: baseline; justify-content: space-between; }
+.rec h4 { margin: 0; font-size: 17.5px; line-height: 1.45; font-weight: 700; text-wrap: balance; }
+.rec-date { font-family: var(--font-data); font-size: 12.5px; color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.pills { display: flex; flex-wrap: wrap; gap: 6px; }
+.pill { font-size: 12.5px; padding: 1px 8px; border-radius: 4px; border: 1px solid var(--line); color: var(--muted); }
+.pill.status { border-color: var(--accent); color: var(--accent); }
+.rec p.summary { margin: 0; }
+
+.impl { display: grid; gap: 0; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+.impl-head { display: flex; justify-content: space-between; gap: 8px; align-items: center; background: var(--accent-soft); padding: 6px 10px; font-size: 13.5px; font-weight: 500; }
+.dots { display: inline-flex; gap: 3px; }
+.dots i { width: 10px; height: 10px; border-radius: 2px; border: 1.5px solid var(--accent); display: block; }
+.dots i.on { background: var(--accent); }
+.impl-row { display: grid; grid-template-columns: 5.6em 1fr; gap: 8px; padding: 7px 10px; font-size: 14.5px; border-top: 1px solid var(--line); }
+.impl-row dt { color: var(--muted); }
+.impl-row dd { margin: 0; min-width: 0; }
+.impl-row.none dd { color: var(--empty); font-size: 13.5px; }
+
+.sub { display: grid; gap: 6px; font-size: 14.5px; }
+.sub-label { font-size: 12.5px; font-weight: 700; color: var(--muted); letter-spacing: 0.04em; }
+.sub ul { margin: 0; padding-left: 1.1em; display: grid; gap: 4px; }
+.resp-by { font-weight: 500; }
+.srcs { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
+.srcs li { font-size: 14px; line-height: 1.5; padding-left: 12px; border-left: 2px solid var(--line); min-width: 0; overflow-wrap: anywhere; }
+.srcs .o { font-weight: 500; }
+.srcs .d { font-family: var(--font-data); font-size: 12.5px; color: var(--muted); }
+.srcs .vnote { font-size: 12.5px; color: var(--muted); }
+.rec-foot { display: flex; flex-wrap: wrap; gap: 6px 14px; justify-content: space-between; font-size: 12.5px; color: var(--muted); font-family: var(--font-data); }
+.rec-foot a { font-family: var(--font-body); }
+.verif { font-family: var(--font-body); }
+.verif.single { color: var(--warn); }
+
+/* 頁尾 */
+.about { display: grid; gap: 22px; margin-top: 36px; }
+@media (min-width: 860px) { .about { grid-template-columns: 1.3fr 1fr; gap: 36px; } }
+.about h3 { font-family: var(--font-display); font-size: 20px; margin: 0 0 8px; }
+.about section { min-width: 0; }
+.about p, .about li { font-size: 15px; }
+.about ol, .about ul { padding-left: 1.2em; margin: 0; display: grid; gap: 6px; }
+.timeline { list-style: none; padding: 0 !important; }
+.timeline li { display: grid; grid-template-columns: 6.5em 1fr; gap: 10px; font-variant-numeric: tabular-nums; }
+.timeline .t { font-family: var(--font-data); font-size: 13.5px; color: var(--muted); }
+.loading, .error { padding: 40px 0; color: var(--muted); }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+</style>
+
+<div class="wrap">
+  <header class="masthead">
+    <div class="eyebrow">2026 台北市長選舉 · 投票日 11/28（六）</div>
+    <h1>台北市長政見對照</h1>
+    <p class="lede" id="lede">整理蔣萬安、沈伯洋的北市選舉政見，讓大家好比較雙方的異同。每則資訊都附上影片、新聞的出處，如果有誤請不吝告知。</p>
+    <div class="meta-row" id="meta-row"></div>
+  </header>
+
+  <div class="cands" id="cands"></div>
+  <div class="notice" id="notice" hidden></div>
+
+  <div class="toolbar" role="region" aria-label="篩選">
+    <div class="chips" id="chips" role="group" aria-label="議題"></div>
+    <div class="controls">
+      <input type="search" id="q" placeholder="搜尋政見，例如：臨托、捷運、AI" aria-label="搜尋政見">
+      <div class="seg" id="view" role="group" aria-label="顯示方式"></div>
+    </div>
+  </div>
+
+  <main id="list"><p class="loading">資料載入中…</p></main>
+
+  <div class="about">
+    <section>
+      <h3>收錄原則</h3>
+      <ol>
+        <li>只收錄政策內容，以及候選人如何說明落實方式；人身攻擊、爭議指控與政治評論不收錄。</li>
+        <li>每一筆都附上可以點開核對的來源。摘要以我們自己的話改寫，不直接轉載報導內容。</li>
+        <li>「落實說明」五個欄位（具體做法、時程、經費與財源、執行單位與所需同意、量化目標）只填來源中確實提到的內容；沒提到就標示「目前來源未提及」，代表我們還沒找到，不代表候選人沒有說明。</li>
+        <li>蔣萬安是現任市長，他以市長身分宣布或執行的市政措施，會標示「市長／市府」，與參選人提出的政見分開。</li>
+        <li>數字以候選人或市府的一手說法為準；不同媒體寫法有出入時，會在備註中寫明。</li>
+        <li>「相關回應」只收錄對政策內容的回應，雙方適用同一標準；政治評論與人身攻擊不收錄，請見原始報導。</li>
+        <li>卡片上的日期是本資料庫來源中最早可查到提出或宣布的日期；若只能確定報導日，會在備註說明。</li>
+        <li>影片優先收錄完整版記者會或直播，而非剪輯過的新聞片段。影片內容尚未逐字核對時會註明。</li>
+        <li>筆數多寡反映候選人目前公開的政見數量與本專案的蒐集進度，不代表政見好壞。</li>
+      </ol>
+      <p>完整說明請見 <a id="method-link" href="#">METHODOLOGY.md</a>。</p>
+    </section>
+    <section>
+      <h3>發現錯誤？</h3>
+      <p>每張卡片右下角都有「回報錯誤」連結，會開啟 GitHub 回報表單，請附上正確的來源網址。所有修改都會留下公開紀錄。</p>
+      <h3 style="margin-top:18px">選舉日程</h3>
+      <ul class="timeline" id="timeline"></ul>
+      <p id="others" style="margin-top:12px"></p>
+      <p>原始資料：<a id="data-json" href="data/records.json">records.json</a> · <a id="data-csv" href="data/records.csv">records.csv</a> · <a id="repo-link" href="#">GitHub</a></p>
+    </section>
+  </div>
+</div>
+
+<script>
+(function () {
+  "use strict";
+  var IMPL = [
+    ["method", "具體做法"], ["timeline", "時程"], ["budget", "經費與財源"],
+    ["authority", "執行單位與所需同意"], ["target", "量化目標"]
+  ];
+  var TOPICS = ["居住與都更", "交通", "育兒與教育", "長照與高齡", "青年與就業", "產業與AI", "城市治理", "環境與韌性", "運動與文化"];
+  var state = { topic: "全部", q: "", view: "both" };
+  try { var saved = localStorage.getItem("view"); if (saved) state.view = saved; } catch (e) {}
+  var DB = null;
+
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function fmtDate(d) { return d ? d.replace(/-/g, ".") : "日期未載明"; }
+  function $(id) { return document.getElementById(id); }
+
+  function srcLine(s, isVideo) {
+    var parts = ['<span class="o">' + esc(s.outlet) + "</span>"];
+    parts.push('<span class="d">' + esc(fmtDate(s.date)) + (s.byline ? " · " + esc(s.byline) : "") + "</span>");
+    var html = parts.join(" ") + '<br><a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.title) + "</a>";
+    if (isVideo) html += '<br><span class="vnote">影片內容尚未逐字核對，以新聞來源為準。</span>';
+    return "<li>" + html + "</li>";
+  }
+
+  function card(r) {
+    var src = DB.src, name = DB.names[r.candidate];
+    var filled = IMPL.filter(function (k) { return r.implementation[k[0]]; }).length;
+    var dots = IMPL.map(function (k) { return '<i class="' + (r.implementation[k[0]] ? "on" : "") + '" title="' + k[1] + '"></i>'; }).join("");
+    var rows = IMPL.map(function (k) {
+      var v = r.implementation[k[0]];
+      return '<div class="impl-row' + (v ? "" : " none") + '"><dt>' + k[1] + "</dt><dd>" + (v ? esc(v) : "目前來源未提及") + "</dd></div>";
+    }).join("");
+    var h = '<article class="rec" id="' + esc(r.id) + '">';
+    h += '<div class="rec-top"><h4>' + esc(r.title) + '</h4><span class="rec-date">' + fmtDate(r.date) + "</span></div>";
+    h += '<div class="pills"><span class="pill">' + esc(r.capacity) + '</span><span class="pill status">' + esc(r.status) + '</span><span class="pill">' + esc(r.topic) + "</span></div>";
+    h += '<p class="summary">' + esc(r.summary) + "</p>";
+    h += '<dl class="impl" style="margin:0"><div class="impl-head"><span>落實說明</span><span class="dots" aria-label="五項中有 ' + filled + ' 項有說明">' + dots + "</span></div>" + rows + "</dl>";
+    if (r.context.length) {
+      h += '<div class="sub"><div class="sub-label">相關資料</div><ul>' + r.context.map(function (c) {
+        return "<li>" + esc(c.text) + ' <a href="' + esc(src[c.src].url) + '" target="_blank" rel="noopener">（' + esc(src[c.src].outlet) + "）</a></li>";
+      }).join("") + "</ul></div>";
+    }
+    if (r.responses.length) {
+      h += '<div class="sub"><div class="sub-label">相關回應</div><ul>' + r.responses.map(function (c) {
+        return '<li><span class="resp-by">' + esc(c.by) + "：</span>" + esc(c.text) + ' <a href="' + esc(src[c.src].url) + '" target="_blank" rel="noopener">（' + esc(src[c.src].outlet) + "）</a></li>";
+      }).join("") + "</ul></div>";
+    }
+    if (r.notes.length) {
+      h += '<div class="sub"><div class="sub-label">備註</div><ul>' + r.notes.map(function (n) { return "<li>" + esc(n) + "</li>"; }).join("") + "</ul></div>";
+    }
+    h += '<div class="sub"><div class="sub-label">來源</div><ul class="srcs">' + r.sources.map(function (s) { return srcLine(src[s], false); }).join("") + r.videos.map(function (v) { return srcLine(src[v], true); }).join("") + "</ul></div>";
+    if (r.related.length) {
+      h += '<div class="sub"><div class="sub-label">對照紀錄</div><div>' + r.related.map(function (id) {
+        var o = DB.byId[id];
+        return o ? '<a href="#' + esc(id) + '">' + esc(DB.names[o.candidate] + "：" + o.title) + "</a>" : "";
+      }).join("　") + "</div></div>";
+    }
+    var verif = r.sources.length > 1 ? '<span class="verif">多個來源</span>' : '<span class="verif single">單一來源</span>';
+    var issue = DB.meta.repo + "/issues/new?template=correction.yml&title=" + encodeURIComponent("[更正] " + r.id + " " + name + "：" + r.title);
+    h += '<div class="rec-foot"><span>' + esc(r.id) + " · " + verif + '</span><a href="' + esc(issue) + '" target="_blank" rel="noopener">回報錯誤</a></div>';
+    return h + "</article>";
+  }
+
+  function matches(r) {
+    if (state.topic !== "全部" && r.topic !== state.topic) return false;
+    if (!state.q) return true;
+    var hay = [r.title, r.summary, r.topic].concat(IMPL.map(function (k) { return r.implementation[k[0]] || ""; }), r.notes).join(" ");
+    return hay.toLowerCase().indexOf(state.q.toLowerCase()) !== -1;
+  }
+
+  function render() {
+    var cands = DB.cands.candidates;
+    var shown = state.view === "both" ? cands : cands.filter(function (c) { return c.key === state.view; });
+    var out = "";
+    var anything = false;
+    TOPICS.forEach(function (t) {
+      if (state.topic !== "全部" && state.topic !== t) return;
+      var cols = shown.map(function (c) {
+        var rs = DB.records.filter(function (r) { return r.candidate === c.key && r.topic === t && matches(r); })
+          .sort(function (a, b) { return a.date < b.date ? 1 : -1; });
+        return { c: c, rs: rs };
+      });
+      var total = cols.reduce(function (n, x) { return n + x.rs.length; }, 0);
+      if (state.q && total === 0) return;
+      anything = anything || total > 0;
+      out += '<section class="topic" aria-label="' + esc(t) + '"><h3>' + esc(t) + '<span class="n">' + total + " 筆</span></h3>";
+      out += '<div class="cols' + (shown.length > 1 ? " two" : "") + '">';
+      cols.forEach(function (x) {
+        out += '<div class="col"><div class="col-head">' + esc(x.c.name) + "</div>";
+        out += x.rs.length ? x.rs.map(card).join("") : '<div class="col-empty">本資料庫目前沒有這個議題的紀錄。</div>';
+        out += "</div>";
+      });
+      out += "</div></section>";
+    });
+    if (!anything) out = '<p class="loading">找不到符合的紀錄，請換個關鍵字或議題。</p>';
+    $("list").innerHTML = out;
+  }
+
+  function renderChrome() {
+    var cands = DB.cands.candidates, src = DB.src;
+    var last = DB.meta.last_updated;
+    var days = Math.ceil((new Date(DB.cands.election.vote_date + "T00:00:00+08:00") - new Date()) / 86400000);
+    $("meta-row").innerHTML =
+      "<span>最後更新 <strong>" + fmtDate(last) + "</strong></span>" +
+      "<span>紀錄 <strong>" + DB.records.length + "</strong> 筆</span>" +
+      "<span>來源 <strong>" + DB.sources.length + "</strong> 個</span>" +
+      (days > 0 ? "<span>距投票日 <strong>" + days + "</strong> 天</span>" : "");
+    if (DB.meta.description) $("lede").textContent = DB.meta.description;
+    $("cands").innerHTML = cands.map(function (c) {
+      var n = DB.records.filter(function (r) { return r.candidate === c.key; }).length;
+      var sl = src[c.slogan_src];
+      var ps = (c.platform_status_srcs || []).map(function (id) { return src[id]; }).filter(Boolean);
+      return '<div class="cand"><div class="cand-name"><h2>' + esc(c.name) + "</h2><span>" + esc(c.party) + "</span></div><dl>" +
+        "<dt>現職</dt><dd>" + esc(c.current_role) + "</dd>" +
+        "<dt>競選標語</dt><dd>" + esc(c.slogan) + (sl ? ' <a href="' + esc(sl.url) + '" target="_blank" rel="noopener">（' + esc(sl.outlet) + "）</a>" : "") + "</dd>" +
+        "<dt>政見進度</dt><dd>" + esc(c.platform_status) + ps.map(function (s) { return ' <a href="' + esc(s.url) + '" target="_blank" rel="noopener">（' + esc(s.outlet) + "）</a>"; }).join("") + "</dd>" +
+        '</dl><div class="count">本資料庫收錄 ' + n + " 筆</div></div>";
+    }).join("");
+    $("notice").innerHTML = "<p><strong>閱讀前請注意</strong></p><p>" + esc(DB.cands.election.order_note) +
+      "兩位候選人的政見發布時間不同，筆數差異主要反映這一點。所有紀錄都可點開來源核對，若發現錯誤請按卡片上的「回報錯誤」。</p>";
+    $("notice").hidden = false;
+
+    var counts = {};
+    DB.records.forEach(function (r) { counts[r.topic] = (counts[r.topic] || 0) + 1; });
+    $("chips").innerHTML = ["全部"].concat(TOPICS).map(function (t) {
+      var n = t === "全部" ? DB.records.length : (counts[t] || 0);
+      return '<button type="button" class="chip" data-topic="' + esc(t) + '" aria-pressed="' + (state.topic === t) + '">' + esc(t) + '<span class="n">' + n + "</span></button>";
+    }).join("");
+    $("view").innerHTML = [["both", "並列比較"]].concat(cands.map(function (c) { return [c.key, "只看" + c.name]; })).map(function (v) {
+      return '<button type="button" data-view="' + v[0] + '" aria-pressed="' + (state.view === v[0]) + '">' + esc(v[1]) + "</button>";
+    }).join("");
+
+    $("timeline").innerHTML = DB.cands.election.milestones.map(function (m) {
+      return '<li><span class="t">' + fmtDate(m.date) + "</span><span>" + esc(m.label) + "</span></li>";
+    }).join("");
+    var os = src[DB.cands.election.other_candidates_src];
+    $("others").innerHTML = esc(DB.cands.election.other_candidates_note) + (os ? ' <a href="' + esc(os.url) + '" target="_blank" rel="noopener">（' + esc(os.outlet) + "）</a>" : "");
+    $("repo-link").href = DB.meta.repo;
+    $("method-link").href = DB.meta.repo + "/blob/main/METHODOLOGY.md";
+  }
+
+  document.addEventListener("click", function (e) {
+    var t = e.target.closest("[data-topic]");
+    if (t) {
+      state.topic = t.getAttribute("data-topic");
+      document.querySelectorAll("[data-topic]").forEach(function (b) { b.setAttribute("aria-pressed", String(b === t)); });
+      render(); return;
+    }
+    var v = e.target.closest("[data-view]");
+    if (v) {
+      state.view = v.getAttribute("data-view");
+      try { localStorage.setItem("view", state.view); } catch (err) {}
+      document.querySelectorAll("[data-view]").forEach(function (b) { b.setAttribute("aria-pressed", String(b === v)); });
+      render();
+    }
+  });
+  $("q").addEventListener("input", function (e) { state.q = e.target.value.trim(); render(); });
+
+  function getJSON(p) { return fetch(p, { cache: "no-cache" }).then(function (r) { if (!r.ok) throw new Error(p + " " + r.status); return r.json(); }); }
+  Promise.all([getJSON("data/records.json"), getJSON("data/sources.json"), getJSON("data/candidates.json"), getJSON("data/meta.json")])
+    .then(function (res) {
+      DB = { records: res[0], sources: res[1], cands: res[2], meta: res[3], src: {}, byId: {}, names: {} };
+      DB.sources.forEach(function (s) { DB.src[s.id] = s; });
+      DB.records.forEach(function (r) { DB.byId[r.id] = r; });
+      DB.cands.candidates.forEach(function (c) { DB.names[c.key] = c.name; });
+      if (!DB.cands.candidates.some(function (c) { return c.key === state.view; })) state.view = "both";
+      renderChrome();
+      render();
+      if (location.hash) { var el = document.getElementById(location.hash.slice(1)); if (el) el.scrollIntoView(); }
+    })
+    .catch(function (err) {
+      $("list").innerHTML = '<p class="error">資料載入失敗，請重新整理頁面。（' + esc(err.message) + "）</p>";
+    });
+})();
+</script>
+
+</body>
+</html>

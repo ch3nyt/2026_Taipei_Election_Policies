@@ -1,0 +1,54 @@
+{
+  "election": {
+    "name": "2026 台北市長選舉",
+    "vote_date": "2026-11-28",
+    "milestones": [
+      {
+        "date": "2026-10-23",
+        "label": "候選人號次抽籤",
+        "src": "src-gvm-125951"
+      },
+      {
+        "date": "2026-11-12",
+        "label": "公告直轄市長候選人名單",
+        "src": "src-gvm-125951"
+      },
+      {
+        "date": "2026-11-28",
+        "label": "投票與開票",
+        "src": "src-gvm-125951"
+      }
+    ],
+    "other_candidates_note": "依中央社 9/4 整理的登記名單，台北市另有郭璽（台灣麻將最大黨）、蕭文乾（台灣SoR無法黨）、唐新民（三勢團結促進聯盟）、林志成（無黨籍）登記參選。本專案第一階段只收錄兩位主要候選人，資料量足夠時會擴及其他候選人。",
+    "other_candidates_src": "src-cna-202609045002",
+    "order_note": "號次抽籤（10/23）前依姓氏筆畫排序，抽籤後改依號次排序。"
+  },
+  "candidates": [
+    {
+      "key": "shen",
+      "name": "沈伯洋",
+      "party": "民主進步黨",
+      "current_role": "立法委員",
+      "slogan": "台北順起來",
+      "slogan_src": "src-udn-9669429",
+      "platform_status": "5 月起陸續發表分項政見，8/11 以 HEART 五大主軸統整。",
+      "platform_status_srcs": [
+        "src-bt-202608240037",
+        "src-nownews-6864870"
+      ]
+    },
+    {
+      "key": "chiang",
+      "name": "蔣萬安",
+      "party": "中國國民黨",
+      "current_role": "台北市長（爭取連任）",
+      "slogan": "臺北安可",
+      "slogan_src": "src-nownews-6879012",
+      "platform_status": "現任市長。連任辦公室 9/29 成立，競選總部預定 10/26 成立；截至本資料庫最後更新，尚未蒐集到完整的連任政見文件，因此目前的紀錄多為任內已宣布或執行中的市政措施，以及 10/8 宣布的松山機場遷移規劃。",
+      "platform_status_srcs": [
+        "src-nownews-6879012",
+        "src-ltn-5600980"
+      ]
+    }
+  ]
+}

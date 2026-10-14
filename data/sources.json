@@ -1,0 +1,335 @@
+[
+  {
+    "id": "src-cna-202609045002",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "2026九合一選舉 22縣市長登記參選名單一次看",
+    "url": "https://cna.com.tw/news/aipl/202609045002.aspx",
+    "date": "2026-09-04",
+    "byline": "中央社"
+  },
+  {
+    "id": "src-nownews-6864870",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "公布HEART五大政見！沈伯洋批蔣萬安沒心：推TPASS納共享機車",
+    "url": "https://www.nownews.com/news/6864870",
+    "date": "2026-08-11",
+    "byline": "陳佩君"
+  },
+  {
+    "id": "src-udn-9669429",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "影／公布競選標語與主視覺 沈伯洋：讓「台北順起來」",
+    "url": "https://udn.com/news/story/124652/9669429",
+    "date": "2026-08-04",
+    "byline": "曾學仁"
+  },
+  {
+    "id": "src-ettoday-3185438",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "搬到內湖就不塞車？ 沈伯洋再提「5大方案」正面反擊",
+    "url": "https://www.ettoday.net/news/20260617/3185438.htm",
+    "date": "2026-06-17",
+    "byline": "許力方"
+  },
+  {
+    "id": "src-bt-202608240037",
+    "kind": "新聞",
+    "outlet": "今周刊",
+    "title": "沈伯洋專訪／讓台北市民感受到「2500億用自己身上」！內湖塞車、降低生活隱形成本…最後一哩路藍圖曝光",
+    "url": "https://www.businesstoday.com.tw/article/category/183027/post/202608240037/",
+    "date": "2026-08-31",
+    "byline": "鄭鴻達、蘇芳禾"
+  },
+  {
+    "id": "src-mirror-20260622inv001",
+    "kind": "新聞",
+    "outlet": "鏡週刊",
+    "title": "時事焦點／拋北市各區設家庭一站通育兒據點 沈伯洋：週週免費臨托讓家長喘息",
+    "url": "https://www.mirrormedia.mg/story/20260622inv001",
+    "date": "2026-06-27",
+    "byline": "黃驛淵、曾盈瑜"
+  },
+  {
+    "id": "src-udn-9536572",
+    "kind": "新聞",
+    "outlet": "聯合新聞網（中央社稿）",
+    "title": "談租補經費分擔 沈伯洋：北市絕對有財源",
+    "url": "https://udn.com/news/story/7323/9536572",
+    "date": "2026-05-31",
+    "byline": "中央社"
+  },
+  {
+    "id": "src-setn-1898889",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "【2026綠點將1】再談捷運運動驛站 沈伯洋：滿身大汗降低騎單車意願",
+    "url": "https://www.setn.com/news/1898889",
+    "date": "2026-09-02",
+    "byline": "楊士誼、詹宜庭"
+  },
+  {
+    "id": "src-pts-822643",
+    "kind": "新聞",
+    "outlet": "公視新聞網",
+    "title": "參選人沈伯洋提內湖交通壅塞 北市府：已有階段性改善",
+    "url": "https://news.pts.org.tw/article/822643",
+    "date": "2026-08-16",
+    "byline": "葉霈萱、陳柏諭"
+  },
+  {
+    "id": "src-udn-9631389",
+    "kind": "新聞",
+    "outlet": "聯合新聞網（中央社稿）",
+    "title": "沈伯洋拋運動政見 蔣萬安：各界好意見都會參考",
+    "url": "https://udn.com/news/story/124652/9631389",
+    "date": "2026-07-16",
+    "byline": "中央社"
+  },
+  {
+    "id": "src-setn-1891188",
+    "kind": "新聞",
+    "outlet": "三立新聞網（鏡週刊轉載）",
+    "title": "沈伯洋拋青年政策：大學畢業存到50萬元",
+    "url": "https://www.mirrormedia.mg/external/setn_1891188",
+    "date": "2026-08-18",
+    "byline": "三立新聞網"
+  },
+  {
+    "id": "src-udn-9698355",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "影／沈伯洋三政策搶青年票 談普發1萬元：沒舉債、完全合憲",
+    "url": "https://udn.com/news/story/6656/9698355",
+    "date": "2026-08-18",
+    "byline": "黃義書"
+  },
+  {
+    "id": "src-cna-202610080124",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "蔣萬安宣布規劃松山機場遷移 打造台北AI園區",
+    "url": "https://cna.com.tw/news/aipl/202610080124.aspx",
+    "date": "2026-10-08",
+    "byline": "葉蓁芸、劉建邦"
+  },
+  {
+    "id": "src-udn-9802418",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "新聞幕後／松機遷移曝推動時機？這些條件都一一浮現",
+    "url": "https://udn.com/news/story/6656/9802418",
+    "date": "2026-10-08",
+    "byline": "楊正海"
+  },
+  {
+    "id": "src-cna-202610080126",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "蔣萬安提遷移松山機場 交通部：需就國家角度整體評估",
+    "url": "https://cna.com.tw/news/aipl/202610080126.aspx",
+    "date": "2026-10-08",
+    "byline": "余曉涵"
+  },
+  {
+    "id": "src-tvbs-3166426",
+    "kind": "新聞",
+    "outlet": "TVBS新聞網",
+    "title": "影音／率全國之先！ 蔣萬安：第二胎公托、準公托免費",
+    "url": "https://news.tvbs.com.tw/politics/3166426",
+    "date": "2026-03-31",
+    "byline": "楊沛緰"
+  },
+  {
+    "id": "src-tvbs-3142881",
+    "kind": "新聞",
+    "outlet": "TVBS新聞網",
+    "title": "影音／洪申翰評北市育兒減少工時 若無配套恐淪象徵性試辦 蔣萬安回應了",
+    "url": "https://news.tvbs.com.tw/politics/3142881",
+    "date": "2026-03-05",
+    "byline": "蔡秉宏"
+  },
+  {
+    "id": "src-udn-9752760",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "「圍蔣救賴」又來了？卓榮泰狂酸敬老卡點數 蔣萬安曝北市這一點最強",
+    "url": "https://udn.com/news/story/6656/9752760",
+    "date": "2026-09-14",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-udn-9601405",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "北市信義區老公寓裝電梯 長輩方便、房價漲",
+    "url": "https://udn.com/news/story/7323/9601405",
+    "date": "2026-07-02",
+    "byline": "林佳彣"
+  },
+  {
+    "id": "src-nownews-6861132",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "ChatGPT、Claude免費用！北市青年局推AI補助 申請方式一次看",
+    "url": "https://www.nownews.com/news/6861132",
+    "date": "2026-07-29",
+    "byline": "蘇柏銓"
+  },
+  {
+    "id": "src-udn-9605903",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "浪潮來襲 蔣萬安：4年92億 推AI教育",
+    "url": "https://udn.com/news/story/7323/9605903",
+    "date": "2026-07-04",
+    "byline": "林佳彣"
+  },
+  {
+    "id": "src-udn-9580326",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "獨／北市無人自駕公車細節公布了！ 還會攜手中央爭取發放牌照",
+    "url": "https://udn.com/news/story/7323/9580326",
+    "date": "2026-06-22",
+    "byline": "林麗玉、李承穎"
+  },
+  {
+    "id": "src-pts-794980",
+    "kind": "新聞",
+    "outlet": "公視新聞網",
+    "title": "輝達與北市府簽約 總部落腳北士科T17、T18",
+    "url": "https://news.pts.org.tw/article/794980",
+    "date": "2026-02-11",
+    "byline": "黃子杰、邱福財"
+  },
+  {
+    "id": "src-nownews-6879012",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "蔣萬安連任辦公室成立！28歲美女前主播掌兵符 競選小物限量曝光",
+    "url": "https://www.nownews.com/news/6879012",
+    "date": "2026-09-29",
+    "byline": "蘇柏銓"
+  },
+  {
+    "id": "src-ltn-5600980",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "蔣萬安讚競選曲正面、陽光 競總10/26成立「會邀蔡康永」",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5600980",
+    "date": "2026-10-09",
+    "byline": "孫唯容"
+  },
+  {
+    "id": "src-gvm-125951",
+    "kind": "新聞",
+    "outlet": "遠見雜誌",
+    "title": "2026九合一選舉/沈伯洋選北市戰蔣萬安、藍提名魏平政選彰化，過半縣市將換首長，藍綠白布局一文看懂",
+    "url": "https://www.gvm.com.tw/article/125951",
+    "date": "2026-05-13",
+    "byline": "曾彥維"
+  },
+  {
+    "id": "src-pts-801527",
+    "kind": "新聞",
+    "outlet": "公視新聞網",
+    "title": "北市推5項育兒新政 第2胎公托、準公托免費",
+    "url": "https://news.pts.org.tw/article/801527",
+    "date": "2026-03-31",
+    "byline": "黃姵涵、張國樑"
+  },
+  {
+    "id": "src-pts-796429",
+    "kind": "新聞",
+    "outlet": "公視新聞網",
+    "title": "「育兒減少工時計畫」3月上路 北市提供部分補助",
+    "url": "https://news.pts.org.tw/article/796429",
+    "date": "2026-02-25",
+    "byline": "黃姵涵、陳柏諭、詹淑雲、張國樑"
+  },
+  {
+    "id": "src-newtalk-1042858",
+    "kind": "新聞",
+    "outlet": "Newtalk新聞",
+    "title": "沈伯洋推每週4小時免費臨托：讓家長喘息、社交「是一般性需求」",
+    "url": "https://newtalk.tw/news/view/2026-06-23/1042858",
+    "date": "2026-06-23",
+    "byline": "高逸帆"
+  },
+  {
+    "id": "src-udn-9552731",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "沈伯洋盼導入三方機制減緩處理霸凌壓力 北市教育局長曝全台早在做",
+    "url": "https://udn.com/news/story/124652/9552731",
+    "date": "2026-06-08",
+    "byline": "洪子凱"
+  },
+  {
+    "id": "src-gvm-128353",
+    "kind": "新聞",
+    "outlet": "遠見雜誌",
+    "title": "2026全台敬老卡更新》台北市升級、各縣市點數優惠整理",
+    "url": "https://www.gvm.com.tw/article/128353",
+    "date": "2026-06-09",
+    "byline": "遠見編輯部（2/26 刊出，6/9 更新）"
+  },
+  {
+    "id": "src-bt-202610080015",
+    "kind": "新聞",
+    "outlet": "今周刊",
+    "title": "蔣萬安喊松山機場遷移做台北AI園區！選舉就談松機遷移，究竟搬到哪？沈伯洋：這10年不知蔣做哪些準備",
+    "url": "https://www.businesstoday.com.tw/article/category/183027/post/202610080015/",
+    "date": "2026-10-08",
+    "byline": "蘇芳禾"
+  },
+  {
+    "id": "vid-8WH53TUHS-s",
+    "kind": "影片",
+    "outlet": "沈伯洋Puma（候選人官方頻道）",
+    "title": "8/11 政策願景發表會（約69分鐘）",
+    "url": "https://www.youtube.com/watch?v=8WH53TUHS-s",
+    "date": "2026-08-11",
+    "byline": null
+  },
+  {
+    "id": "vid-Q1i-llHNMqA",
+    "kind": "影片",
+    "outlet": "台視新聞 TTV NEWS",
+    "title": "8/11 沈伯洋五大政見主軸記者會 完整版（約75分鐘）",
+    "url": "https://www.youtube.com/watch?v=Q1i-llHNMqA",
+    "date": "2026-08-11",
+    "byline": null
+  },
+  {
+    "id": "vid-ZcPKq6jgMeI",
+    "kind": "影片",
+    "outlet": "民視新聞網",
+    "title": "【直播完整版】0811 台北順起來！沈伯洋發表參選五大政見「HEART」",
+    "url": "https://www.youtube.com/watch?v=ZcPKq6jgMeI",
+    "date": "2026-08-11",
+    "byline": null
+  },
+  {
+    "id": "vid-w8yObdiOzYM",
+    "kind": "影片",
+    "outlet": "TVBS NEWS",
+    "title": "拋\"遷移松山機場\"新政策 蔣萬安:打造台北AI園區｜LIVE（約14分鐘）",
+    "url": "https://www.youtube.com/watch?v=w8yObdiOzYM",
+    "date": "2026-10-08",
+    "byline": null
+  },
+  {
+    "id": "vid-E2eL-qVqgUI",
+    "kind": "影片",
+    "outlet": "udn video",
+    "title": "【LIVE】1008 蔣萬安提出市政願景 規畫松山機場遷移做AI園區（約79分鐘）",
+    "url": "https://www.youtube.com/watch?v=E2eL-qVqgUI",
+    "date": "2026-10-08",
+    "byline": null
+  }
+]
