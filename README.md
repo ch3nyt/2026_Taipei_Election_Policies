@@ -1,10 +1,12 @@
 # 2026 台北市長政見對照
 
+**👉 網站：https://ch3nyt.github.io/2026_Taipei_Election_Policies/**
+
 使用 Claude Code 透過網路爬蟲，整理蔣萬安、沈伯洋的北市選舉政見，讓大家好比較雙方的異同。每則資訊都會附上影片、新聞的出處，如果有誤請不吝告知， 也祝大家支持的候選人都成功當選~
 
 ## 怎麼看
 
-- **網站**：開啟本 repo 的 GitHub Pages 網址，可以依議題篩選、搜尋，並排比較兩位候選人。
+- **網站**：https://ch3nyt.github.io/2026_Taipei_Election_Policies/ ，可以依議題篩選、搜尋，並排比較兩位候選人。
 - **原始資料**：`data/records.json`（全部紀錄）、`data/sources.json`（來源清單）、`data/records.csv`（可用 Excel 或 Google 試算表開啟）。
 
 每筆紀錄都有：
