@@ -86,8 +86,15 @@ def main() -> None:
         log(logf, "下載音訊")
         audio = download(vid, audio_dir)
         log(logf, f"開始辨識（模型 {args.model}）：{audio.name}")
+        # 用 ffmpeg 解碼成 16kHz 單聲道，避開部分 PyAV 版本不相容的問題
+        import numpy as np
+        pcm = subprocess.run(
+            ["ffmpeg", "-nostdin", "-loglevel", "error", "-i", str(audio),
+             "-f", "s16le", "-ac", "1", "-ar", "16000", "-"],
+            check=True, stdout=subprocess.PIPE).stdout
+        samples = np.frombuffer(pcm, np.int16).astype(np.float32) / 32768.0
         segments, info = model.transcribe(
-            str(audio), language="zh", beam_size=1, vad_filter=True,
+            samples, language="zh", beam_size=1, vad_filter=True,
             initial_prompt=PROMPT, condition_on_previous_text=False,
         )
         rows, last = [], 0.0
