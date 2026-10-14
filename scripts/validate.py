@@ -88,6 +88,11 @@ def main() -> int:
             check_src(s, rid)
             if s in src_by_id and src_by_id[s]["kind"] == "影片":
                 errors.append(f"{rid}：影片請放在 videos 欄位")
+        for vt in r.get("video_times", []):
+            if vt["src"] not in r["videos"]:
+                errors.append(f"{rid}：video_times 的影片 {vt['src']} 不在 videos 欄位")
+            if not isinstance(vt["t"], int) or vt["t"] < 0 or not vt.get("label"):
+                errors.append(f"{rid}：video_times 格式錯誤")
         for v in r["videos"]:
             check_src(v, rid)
             if v in src_by_id and src_by_id[v]["kind"] != "影片":

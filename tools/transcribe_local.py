@@ -93,17 +93,20 @@ def main() -> None:
              "-f", "s16le", "-ac", "1", "-ar", "16000", "-"],
             check=True, stdout=subprocess.PIPE).stdout
         samples = np.frombuffer(pcm, np.int16).astype(np.float32) / 32768.0
-        segments, info = model.transcribe(
-            samples, language="zh", beam_size=1, vad_filter=True,
-            initial_prompt=PROMPT, condition_on_previous_text=False,
-        )
-        rows, last = [], 0.0
-        for seg in segments:
-            rows.append({"start": round(seg.start, 1), "end": round(seg.end, 1),
-                         "text": to_trad(seg.text.strip())})
-            if seg.end - last > 300:
-                last = seg.end
-                log(logf, f"進度 {fmt(seg.end)} / {fmt(info.duration)}")
+        # 每 10 分鐘一段分開辨識，避免長影片佔用過多記憶體
+        total = len(samples) / 16000
+        chunk = 600 * 16000
+        rows = []
+        for off in range(0, len(samples), chunk):
+            segments, _ = model.transcribe(
+                samples[off:off + chunk], language="zh", beam_size=1, vad_filter=True,
+                initial_prompt=PROMPT, condition_on_previous_text=False,
+            )
+            base = off / 16000
+            for seg in segments:
+                rows.append({"start": round(base + seg.start, 1), "end": round(base + seg.end, 1),
+                             "text": to_trad(seg.text.strip())})
+            log(logf, f"進度 {fmt(min(base + 600, total))} / {fmt(total)}")
         (out / f"{vid}.json").write_text(json.dumps(rows, ensure_ascii=False, indent=0), encoding="utf-8")
         lines = [f"# {vid}（語音辨識，模型 {args.model}，未經人工校對）", ""]
         for r in rows:

@@ -26,7 +26,14 @@
       "vid-Q1i-llHNMqA",
       "vid-ZcPKq6jgMeI"
     ],
-    "related": []
+    "related": [],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 2303,
+        "label": "五大主軸說明開始（空間）"
+      }
+    ]
   },
   {
     "id": "shen-002",
@@ -60,6 +67,13 @@
     ],
     "related": [
       "shen-013"
+    ],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 2350,
+        "label": "婚育宅、青年宅"
+      }
     ]
   },
   {
@@ -87,7 +101,14 @@
     "videos": [
       "vid-8WH53TUHS-s"
     ],
-    "related": []
+    "related": [],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 2371,
+        "label": "綠蔭覆蓋率、公園綠地"
+      }
+    ]
   },
   {
     "id": "shen-004",
@@ -114,7 +135,14 @@
     "videos": [
       "vid-8WH53TUHS-s"
     ],
-    "related": []
+    "related": [],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 2377,
+        "label": "兩河流域計畫"
+      }
+    ]
   },
   {
     "id": "shen-005",
@@ -141,7 +169,14 @@
     "videos": [
       "vid-8WH53TUHS-s"
     ],
-    "related": []
+    "related": [],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 2395,
+        "label": "台北山徑計畫、亞洲第一登山城"
+      }
+    ]
   },
   {
     "id": "shen-006",
@@ -168,7 +203,14 @@
     "videos": [
       "vid-8WH53TUHS-s"
     ],
-    "related": []
+    "related": [],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 2415,
+        "label": "歷史步道與城市文化"
+      }
+    ]
   },
   {
     "id": "shen-007",
@@ -213,6 +255,13 @@
     ],
     "related": [
       "chiang-004"
+    ],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 2550,
+        "label": "家長喘息服務、擴大臨托"
+      }
     ]
   },
   {
@@ -329,7 +378,14 @@
     "videos": [
       "vid-8WH53TUHS-s"
     ],
-    "related": []
+    "related": [],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 2569,
+        "label": "運動驛站"
+      }
+    ]
   },
   {
     "id": "shen-012",
@@ -356,7 +412,14 @@
     "videos": [
       "vid-8WH53TUHS-s"
     ],
-    "related": []
+    "related": [],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 2590,
+        "label": "共享電動機車的 TPASS"
+      }
+    ]
   },
   {
     "id": "shen-013",
@@ -459,6 +522,13 @@
     "related": [
       "chiang-007",
       "shen-014"
+    ],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 2757,
+        "label": "老宅延壽計畫"
+      }
     ]
   },
   {
@@ -489,6 +559,13 @@
     "related": [
       "chiang-006",
       "shen-017"
+    ],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 2782,
+        "label": "健身小巴、親子同行卡"
+      }
     ]
   },
   {
@@ -516,9 +593,18 @@
       "src-udn-9536572",
       "src-nownews-6864870"
     ],
-    "videos": [],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
     "related": [
       "shen-016"
+    ],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 2806,
+        "label": "親子同行卡"
+      }
     ]
   },
   {
@@ -547,10 +633,19 @@
       "src-setn-1891188",
       "src-udn-9698355"
     ],
-    "videos": [],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
     "related": [
       "shen-019",
       "shen-020"
+    ],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 3003,
+        "label": "城市基金"
+      }
     ]
   },
   {
@@ -609,9 +704,18 @@
       "src-bt-202608240037",
       "src-nownews-6864870"
     ],
-    "videos": [],
+    "videos": [
+      "vid-8WH53TUHS-s"
+    ],
     "related": [
       "shen-018"
+    ],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 3006,
+        "label": "擴大青年圓夢基金"
+      }
     ]
   },
   {
@@ -639,7 +743,14 @@
     "videos": [
       "vid-8WH53TUHS-s"
     ],
-    "related": []
+    "related": [],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 3027,
+        "label": "市府成為新創的第一個客戶"
+      }
+    ]
   },
   {
     "id": "shen-022",
@@ -672,6 +783,13 @@
     ],
     "related": [
       "chiang-013"
+    ],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 3141,
+        "label": "北士科都市研究院"
+      }
     ]
   },
   {
@@ -733,7 +851,14 @@
     "videos": [
       "vid-8WH53TUHS-s"
     ],
-    "related": []
+    "related": [],
+    "video_times": [
+      {
+        "src": "vid-8WH53TUHS-s",
+        "t": 3361,
+        "label": "設計長、夜間市長"
+      }
+    ]
   },
   {
     "id": "shen-025",

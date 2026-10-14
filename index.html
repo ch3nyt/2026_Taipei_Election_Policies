@@ -232,7 +232,17 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
   function fmtDate(d) { return d ? d.replace(/-/g, ".") : "日期未載明"; }
   function $(id) { return document.getElementById(id); }
 
-  function srcLine(s, isVideo) {
+  function hms(t) { var h = Math.floor(t / 3600), m = Math.floor(t % 3600 / 60), s = t % 60; return (h ? h + ":" + (m < 10 ? "0" : "") : "") + m + ":" + (s < 10 ? "0" : "") + s; }
+  function srcLine(s, isVideo, times) {
+    if (isVideo && times && times.length) {
+      var base = s.url + (s.url.indexOf("?") === -1 ? "?" : "&");
+      var links = times.map(function (x) {
+        return '<a href="' + esc(base + "t=" + x.t + "s") + '" target="_blank" rel="noopener">' + hms(x.t) + "</a> " + esc(x.label);
+      }).join("<br>");
+      return '<li><span class="o">' + esc(s.outlet) + '</span> <span class="d">' + esc(fmtDate(s.date)) + "</span><br>" +
+        '<a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.title) + "</a><br>" + links +
+        '<br><span class="vnote">時間點以語音辨識定位，點開可直接聽原音；數字以新聞來源為準。</span></li>';
+    }
     var parts = ['<span class="o">' + esc(s.outlet) + "</span>"];
     parts.push('<span class="d">' + esc(fmtDate(s.date)) + (s.byline ? " · " + esc(s.byline) : "") + "</span>");
     var html = parts.join(" ") + '<br><a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.title) + "</a>";
@@ -266,7 +276,7 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
     if (r.notes.length) {
       h += '<div class="sub"><div class="sub-label">備註</div><ul>' + r.notes.map(function (n) { return "<li>" + esc(n) + "</li>"; }).join("") + "</ul></div>";
     }
-    h += '<div class="sub"><div class="sub-label">來源</div><ul class="srcs">' + r.sources.map(function (s) { return srcLine(src[s], false); }).join("") + r.videos.map(function (v) { return srcLine(src[v], true); }).join("") + "</ul></div>";
+    h += '<div class="sub"><div class="sub-label">來源</div><ul class="srcs">' + r.sources.map(function (s) { return srcLine(src[s], false); }).join("") + r.videos.map(function (v) { return srcLine(src[v], true, (r.video_times || []).filter(function (x) { return x.src === v; })); }).join("") + "</ul></div>";
     if (r.related.length) {
       h += '<div class="sub"><div class="sub-label">對照紀錄</div><div>' + r.related.map(function (id) {
         var o = DB.byId[id];
