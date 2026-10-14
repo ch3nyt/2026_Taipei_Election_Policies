@@ -486,6 +486,609 @@
     "byline": "曾彥維"
   },
   {
+    "id": "src-bw-3011005",
+    "kind": "新聞",
+    "outlet": "商業周刊",
+    "title": "2022台北市長候選人政見總整理，快速掌握您在乎的政策面有哪些相應方案",
+    "url": "https://www.businessweekly.com.tw/focus/blog/3011005",
+    "date": "2022-11-07",
+    "byline": "陳瑋鴻"
+  },
+  {
+    "id": "src-ct-20221111003169",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "選舉公報出爐 蔣萬安拋：女性閣員比例增至1／3",
+    "url": "https://www.chinatimes.com/realtimenews/20221111003169-260407",
+    "date": "2022-11-11",
+    "byline": "楊亞璇、郭吉銓"
+  },
+  {
+    "id": "src-storm-4488558",
+    "kind": "新聞",
+    "outlet": "風傳媒",
+    "title": "北市選戰》蔣萬安推生養住3政策：第一胎補助4萬、二胎父母優先入住社宅",
+    "url": "https://www.storm.mg/article/4488558",
+    "date": "2022-08-25",
+    "byline": "戴祺修"
+  },
+  {
+    "id": "src-newtalk-812748",
+    "kind": "新聞",
+    "outlet": "Newtalk新聞",
+    "title": "蔣萬安拋「長照三箭」 業者穿拖鞋路過給讚",
+    "url": "https://newtalk.tw/news/view/2022-09-06/812748",
+    "date": "2022-09-06",
+    "byline": "黃建豪"
+  },
+  {
+    "id": "src-ltn-4282332",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "蔣萬安生育獎勵金政策可回溯去年12/25 預計3800名新生兒受惠",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/4282332",
+    "date": "2023-04-26",
+    "byline": "楊心慧"
+  },
+  {
+    "id": "src-gvm-city-103993",
+    "kind": "新聞",
+    "outlet": "遠見雜誌《城市學》",
+    "title": "各縣市搶救少子化危機！全國生育津貼「好孕」補助政策一次看",
+    "url": "https://city.gvm.com.tw/article/103993",
+    "date": "2023-07-04",
+    "byline": "單師樵"
+  },
+  {
+    "id": "src-udn-9161667",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "不愛生！北市新生人口曝生育獎金還剩逾半 北市研議提高獎勵",
+    "url": "https://udn.com/news/story/7323/9161667",
+    "date": "2025-11-25",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-ctee-20260331702021",
+    "kind": "新聞",
+    "outlet": "工商時報",
+    "title": "蔣萬安推出5托育新政 第二胎以上公托全額補助",
+    "url": "https://www.ctee.com.tw/news/20260331702021-431401",
+    "date": "2026-03-31",
+    "byline": "徐佑昇、趙雙傑"
+  },
+  {
+    "id": "src-ltn-5403943",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "批育兒政策「看得到吃不到」 許淑華：北市公托候補近4千人",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5403943",
+    "date": "2026-04-14",
+    "byline": "董冠怡"
+  },
+  {
+    "id": "src-cna-202305160328",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "議員憂增長照床加劇急診滿床 北市聯醫將調整空間",
+    "url": "https://www.cna.com.tw/news/aloc/202305160328.aspx",
+    "date": "2023-05-16",
+    "byline": "陳昱婷"
+  },
+  {
+    "id": "src-ltn-5248187",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "友善高齡環境4-1》蔣萬安長照床位政見跳票 缺人力陷「閒置」困境",
+    "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5248187",
+    "date": "2025-11-17",
+    "byline": "蔡愷恆"
+  },
+  {
+    "id": "src-udn-9533213",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "北市長照機構「一鍵查」 新網站未來還能查空床數",
+    "url": "https://udn.com/news/story/7323/9533213",
+    "date": "2026-05-29",
+    "byline": "林佳彣、楊正海"
+  },
+  {
+    "id": "src-cna-202412240317",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "北捷東環段開工6線齊發里程碑  穿山越嶺難度高",
+    "url": "https://www.cna.com.tw/news/aloc/202412240317.aspx",
+    "date": "2024-12-24",
+    "byline": "陳怡璇"
+  },
+  {
+    "id": "src-ltn-4903036",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "穿越拇指山！CF763標開工動土   環狀線東環段最後一塊拼圖",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/4903036",
+    "date": "2024-12-24",
+    "byline": "林承鴻"
+  },
+  {
+    "id": "src-cna-202604170065",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "北捷東環段第4標開工　蔣萬安：致力解決內湖交通",
+    "url": "https://www.cna.com.tw/news/aloc/202604170065.aspx",
+    "date": "2026-04-17",
+    "byline": "陳昱婷"
+  },
+  {
+    "id": "src-ct-20260417002862",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "捷運東環內湖段動土！內科至信義僅14分 瑞光路交維計畫退回重審",
+    "url": "https://www.chinatimes.com/realtimenews/20260417002862-260405",
+    "date": "2026-04-17",
+    "byline": "張珈瑄、范揚光"
+  },
+  {
+    "id": "src-ltn-5437436",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "捷運民汐線再向前跨一步 台北市都委會審議通過",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5437436",
+    "date": "2026-05-14",
+    "byline": "董冠怡"
+  },
+  {
+    "id": "src-udn-9503414",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "捷運民汐線再推進 北市都委會通過細部計畫案",
+    "url": "https://udn.com/news/story/7323/9503414",
+    "date": "2026-05-14",
+    "byline": "林佳彣"
+  },
+  {
+    "id": "src-pts-625559",
+    "kind": "新聞",
+    "outlet": "公視新聞網",
+    "title": "北市公辦都更啟動 受理住戶意願門檻降至75%【更新】",
+    "url": "https://news.pts.org.tw/article/625559",
+    "date": "2023-03-03",
+    "byline": "黃姵涵、陳柏諭"
+  },
+  {
+    "id": "src-gvm-city-100280",
+    "kind": "新聞",
+    "outlet": "遠見雜誌《城市學》",
+    "title": "台北市公辦都更7599降門檻至75%！30年老屋高達8成鬆綁拚進度",
+    "url": "https://city.gvm.com.tw/article/100280",
+    "date": "2023-03-03",
+    "byline": "陳布萊"
+  },
+  {
+    "id": "src-nownews-6073839",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "六都平均屋齡最老！蔣萬安宣布北市啟動「都更五箭」",
+    "url": "https://www.nownews.com/news/6073839",
+    "date": "2023-03-07",
+    "byline": "呂炯昌"
+  },
+  {
+    "id": "src-ctee-20260404700007",
+    "kind": "新聞",
+    "outlet": "工商時報（今周刊授權轉載）",
+    "title": "台北老屋平均屋齡39年！都更只能等建商？一文看懂公辦、民辦、自辦差異",
+    "url": "https://www.ctee.com.tw/news/20260404700007-430601",
+    "date": "2026-04-04",
+    "byline": "周靖璞"
+  },
+  {
+    "id": "src-wantrich-20230321900602",
+    "kind": "新聞",
+    "outlet": "旺得富理財網",
+    "title": "就要比普發6000元現金早一步！北市搶先發錢 符兩資格最高補貼5.2萬",
+    "url": "https://wantrich.chinatimes.com/news/20230321900602-420501",
+    "date": "2023-03-21",
+    "byline": "旺得富社群中心"
+  },
+  {
+    "id": "src-udd-fhqekzq-19407",
+    "kind": "官方",
+    "outlet": "臺北市政府都市發展局",
+    "title": "北市育兒輕鬆住 社宅協助新制上路 租金最多可再減三千元",
+    "url": "https://udd.gov.taipei/events/fhqekzq-19407",
+    "date": "2023-05-02",
+    "byline": null
+  },
+  {
+    "id": "src-mirror-20240807money001",
+    "kind": "新聞",
+    "outlet": "鏡週刊",
+    "title": "【理財最前線】租屋族手刀衝　新北社宅近千戶招租年省13萬",
+    "url": "https://www.mirrormedia.mg/story/20240807money001",
+    "date": "2024-08-14",
+    "byline": "馬婉珍"
+  },
+  {
+    "id": "src-gvm-city-103865",
+    "kind": "新聞",
+    "outlet": "遠見雜誌《城市學》",
+    "title": "台北「好孕2U」7月上路！媽媽8000元乘車金可用到產後6個月",
+    "url": "https://city.gvm.com.tw/article/103865",
+    "date": "2023-06-27",
+    "byline": "單師樵"
+  },
+  {
+    "id": "src-pts-779342",
+    "kind": "新聞",
+    "outlet": "公視新聞網",
+    "title": "北市好孕專車司機遭指態度不佳 公運處：已設黑名單機制",
+    "url": "https://news.pts.org.tw/article/779342",
+    "date": "2025-11-02",
+    "byline": "黃姵涵、許家瑞"
+  },
+  {
+    "id": "src-ly-202110036190000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「臺灣地區與大陸地區人民關係條例第九條及第九十一條條文修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110036190000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-202110022120000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「國家安全法第十三條及第十三條之一條文修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110022120000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-202110070780000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「中華民國刑法部分條文修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110070780000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-202110070770000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「反滲透法增訂第六條之一條文草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110070770000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-202110072000000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「國家安全法第二條及第七條條文修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110072000000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-202110110760000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「臺灣地區與大陸地區人民關係條例第九條之三及第九十一條條文修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110110760000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-202110110780000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「國籍法第二十條條文修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110110780000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-202110033990000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「資通安全管理法修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110033990000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-203110132080000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "報告併案審查行政院函請審議、委員沈伯洋等17人、委員葛如鈞等21人……分別擬具「資通安全管理法修正草案」……案。（標題節錄）",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/203110132080000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-202110166800000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「電信管理法第七十二條條文修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110166800000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-203110178000000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "報告併案審查行政院函請審議、委員王美惠等20人……委員沈伯洋等18人……分別擬具「電信管理法第七十二條條文修正草案」……案。（標題節錄）",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/203110178000000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-202110221810000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「就業保險法部分條文修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110221810000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ltn-1642435",
+    "kind": "新聞",
+    "outlet": "自由時報",
+    "title": "藍白封殺立委赴中國須納管提案 綠營批：國民黨在怕什麼？",
+    "url": "https://news.ltn.com.tw/news/politics/paper/1642435",
+    "date": "2024-04-24",
+    "byline": "謝君臨、黃靖媗"
+  },
+  {
+    "id": "src-ltn-1642436",
+    "kind": "新聞",
+    "outlet": "自由時報",
+    "title": "國民黨團質疑：開啟「綠色恐怖」",
+    "url": "https://news.ltn.com.tw/news/politics/paper/1642436",
+    "date": "2024-04-24",
+    "byline": "林欣漢、李文馨"
+  },
+  {
+    "id": "src-newtalk-918395",
+    "kind": "新聞",
+    "outlet": "Newtalk新聞",
+    "title": "白提異議 56：49封殺綠提案「立委赴中須報備案」",
+    "url": "https://newtalk.tw/news/view/2024-05-03/918395",
+    "date": "2024-05-03",
+    "byline": "金大鈞"
+  },
+  {
+    "id": "src-rfa-20241017-waihuan",
+    "kind": "新聞",
+    "outlet": "自由亞洲電台粵語部",
+    "title": "民進黨立委倡修「外患罪」遏止公職人員轉發中國軍演　在台港人擔心變《國安法》",
+    "url": "https://www.rfa.org/cantonese/news/htm/taiwan-legislation-security-dpp-china-pla-drill-exercise-independence-10172024062300.html",
+    "date": "2024-10-17",
+    "byline": "鍾廣政"
+  },
+  {
+    "id": "src-tt-2003825608",
+    "kind": "新聞",
+    "outlet": "台北時報（Taipei Times）",
+    "title": "DPP proposes bill to update collusion law",
+    "url": "https://www.taipeitimes.com/News/front/archives/2024/10/21/2003825608",
+    "date": "2024-10-21",
+    "byline": "Hsieh Chun-lin、William Hetherington"
+  },
+  {
+    "id": "src-newtalk-990704",
+    "kind": "新聞",
+    "outlet": "Newtalk新聞",
+    "title": "強化關鍵基礎建設韌性 《資安法》三讀修正 資安事件未通報最高罰千萬",
+    "url": "https://newtalk.tw/news/view/2025-08-29/990704",
+    "date": "2025-08-29",
+    "byline": "金大鈞"
+  },
+  {
+    "id": "src-udn-9205706",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "海纜七法全數三讀 非法危害相關設備可逕行沒收船舶等犯罪工具",
+    "url": "https://udn.com/news/story/7314/9205706",
+    "date": "2025-12-16",
+    "byline": "林銘翰"
+  },
+  {
+    "id": "src-bt-202212260019",
+    "kind": "新聞",
+    "outlet": "今周刊",
+    "title": "「高跟鞋」難打進派系平衡組閣？六都小內閣北市桃園女首長比率僅1成多！受困天花板原因是…",
+    "url": "https://www.businesstoday.com.tw/article/category/80392/post/202212260019/",
+    "date": "2022-12-26",
+    "byline": "蕭婷方"
+  },
+  {
+    "id": "src-dosw-20230308-women",
+    "kind": "官方",
+    "outlet": "臺北市政府社會局",
+    "title": "北市府女性閣員比例21.43%歷任最高 持續擴大女性決策參與",
+    "url": "https://dosw.gov.taipei/News_Content.aspx?n=6CA16D3397A7A302&sms=72544237BBE4C5F6&s=F7C438A4D5A0EE24",
+    "date": "2023-03-08",
+    "byline": null
+  },
+  {
+    "id": "src-ltn-4233016",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "北市女性閣員比例跳票！ 議員轟蔣萬安把承諾當垃圾",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/4233016",
+    "date": "2023-03-08",
+    "byline": "楊心慧"
+  },
+  {
+    "id": "src-sec-20250316-reshuffle",
+    "kind": "官方",
+    "outlet": "臺北市政府秘書處",
+    "title": "新世代領航！北市府小內閣改組 年輕女性首長增加展現新動能",
+    "url": "https://sec.gov.taipei/News_Content.aspx?n=49B4C3242CB7658C&sms=72544237BBE4C5F6&s=83F157FF499F7BAF",
+    "date": "2025-03-16",
+    "byline": null
+  },
+  {
+    "id": "src-pts-742383",
+    "kind": "新聞",
+    "outlet": "公視新聞網",
+    "title": "台北市府小內閣改組 6局處首長異動",
+    "url": "https://news.pts.org.tw/article/742383",
+    "date": "2025-03-16",
+    "byline": "黃子杰、謝其文"
+  },
+  {
+    "id": "src-ly-202110166810000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「氣象法第二十一條之一條文修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110166810000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-203110178130000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "報告併案審查行政院函請審議、委員王美惠等19人……委員沈伯洋等18人……分別擬具「氣象法第二十一條之一條文修正草案」……案。（標題節錄）",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/203110178130000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-202110166820000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「商港法第十五條及第六十五條之四條文修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110166820000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-203110178140000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "報告併案審查行政院函請審議、委員王美惠等20人……委員沈伯洋等19人……分別擬具「商港法第十五條及第六十五條之四條文修正草案」案。（標題節錄）",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/203110178140000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-202110166830000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「船舶法部分條文修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110166830000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-203110178150000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "報告併案審查行政院函請審議、委員蔡其昌等22人……委員沈伯洋等19人……分別擬具「船舶法部分條文修正草案」……案。（標題節錄）",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/203110178150000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-202110034000000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「兒童及少年性剝削防制條例第三十九條條文修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110034000000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-203110044860000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "報告併案審查委員黃捷等20人擬具「兒童及少年性剝削防制條例第三十六條、第三十九條及第五十一條條文修正草案」……委員沈伯洋等19人擬具……案。（標題節錄）",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/203110044860000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-202110052000000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "「刑事訴訟法第二百四十五條及第二百四十五條之一條文修正草案」，請審議案。",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/202110052000000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ly-203110057030000",
+    "kind": "官方",
+    "outlet": "立法院議事暨公報資訊網",
+    "title": "報告併案審查司法院、行政院函請審議「刑事訴訟法第七十條之一、第二百四十五條及第二百四十五條之一條文修正草案」……委員沈伯洋等18人擬具……案。（標題節錄）",
+    "url": "https://ppg.ly.gov.tw/ppg/bills/203110057030000/details",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-newtalk-927873",
+    "kind": "新聞",
+    "outlet": "Newtalk新聞",
+    "title": "立院通過兒少性剝削條例修正！衛福部：將嚴懲持有影像者遏止散布",
+    "url": "https://newtalk.tw/news/view/2024-07-13/927873",
+    "date": "2024-07-13",
+    "byline": "張柏源"
+  },
+  {
+    "id": "src-lyapi-shen-term11",
+    "kind": "資料庫",
+    "outlet": "g0v 立法院資料 API（v2.ly.govapi.tw，轉錄立法院議事資料，非立法院官方網站）",
+    "title": "第11屆提案人含「沈伯洋」之議案列表（共99件，其中提案單位為「本院委員沈伯洋等…人」者41件）",
+    "url": "https://v2.ly.govapi.tw/bills?%E6%8F%90%E6%A1%88%E4%BA%BA=%E6%B2%88%E4%BC%AF%E6%B4%8B&%E5%B1%86=11&limit=100&page=1",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-cna-202401135011",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "賴清德勝選、國會三黨不過半 2024選舉結果一次看【圖表】",
+    "url": "https://www.cna.com.tw/news/aipl/202401135011.aspx",
+    "date": "2024-01-13",
+    "byline": "中央社"
+  },
+  {
+    "id": "src-cna-202212250156",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "22縣市議長藍15席綠4席無黨籍3席 民進黨首次拿下基隆",
+    "url": "https://www.cna.com.tw/news/aipl/202212250156.aspx",
+    "date": "2022-12-25",
+    "byline": "中央社"
+  },
+  {
+    "id": "src-moj-children-39",
+    "kind": "官方",
+    "outlet": "全國法規資料庫",
+    "title": "兒童及少年性剝削防制條例 第 39 條",
+    "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0050023&flno=39",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-lyapi-law-04552",
+    "kind": "資料庫",
+    "outlet": "g0v 立法院資料 API（v2.ly.govapi.tw，轉錄立法院議事資料，非立法院官方網站）",
+    "title": "刑事訴訟法修正版本歷程",
+    "url": "https://v2.ly.govapi.tw/law/04552/versions",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
     "id": "vid-8WH53TUHS-s",
     "kind": "影片",
     "outlet": "沈伯洋Puma（候選人官方頻道）",

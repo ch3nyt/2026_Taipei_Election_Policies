@@ -157,7 +157,16 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
 .profile ul { margin: 2px 0 6px; padding-left: 1.1em; display: grid; gap: 2px; }
 .pf-label { font-size: 12.5px; font-weight: 700; color: var(--muted); margin-top: 8px; }
 .pf-src { font-size: 12.5px; color: var(--muted); margin-top: 2px; }
-.quiz-cta { display: grid; gap: 2px; justify-self: start; margin-top: 6px; padding: 10px 16px; border-radius: var(--radius); background: var(--ink); color: var(--paper); text-decoration: none; font-weight: 700; font-size: 16px; }
+.cta-row { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 6px; }
+.rec-cta { display: grid; gap: 2px; padding: 10px 16px; border-radius: var(--radius); border: 1.5px solid var(--ink); color: var(--ink); text-decoration: none; font-weight: 700; font-size: 16px; }
+.rec-cta span { font-weight: 400; font-size: 13px; color: var(--muted); }
+.record { margin-top: 34px; padding-top: 16px; border-top: 2px solid var(--ink); display: grid; gap: 14px; scroll-margin-top: 20px; }
+.record h2 { font-family: var(--font-display); font-size: 24px; margin: 0; }
+.record-note { margin: 0; color: var(--muted); font-size: 15px; max-width: 75ch; }
+.record-sum { margin: 0; font-size: 15px; }
+.record-src summary { cursor: pointer; font-size: 13.5px; color: var(--accent); }
+.record-src .srcs { margin-top: 6px; }
+.quiz-cta { display: grid; gap: 2px; padding: 10px 16px; border-radius: var(--radius); background: var(--ink); color: var(--paper); text-decoration: none; font-weight: 700; font-size: 16px; }
 .quiz-cta span { font-weight: 400; font-size: 13px; opacity: 0.8; }
 .quiz-cta:hover { opacity: 0.92; }
 .nat-head { margin-top: 34px; padding: 16px 0 4px; border-top: 2px solid var(--ink); }
@@ -175,12 +184,13 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
     <h1>台北市長政見對照</h1>
     <p class="lede" id="lede">整理蔣萬安、沈伯洋的北市選舉政見，讓大家好比較雙方的異同。每則資訊都附上影片、新聞的出處，如果有誤請不吝告知。</p>
     <div class="meta-row" id="meta-row"></div>
-    <a class="quiz-cta" href="quiz.html">玩玩看：11 題政策盲測 →<span>不看名字只看政策，看看你比較接近哪一邊的主張</span></a>
+    <div class="cta-row"><a class="quiz-cta" href="quiz.html">玩玩看：11 題政策盲測 →<span>不看名字只看政策，看看你比較接近哪一邊的主張</span></a><a class="rec-cta" href="#record">兩人過去的職務紀錄 ↓<span>市長的 2022 政見現況、立委的主提法案</span></a></div>
   </header>
 
   <div class="cands" id="cands"></div>
   <div class="notice" id="notice" hidden></div>
 
+  <div class="filter-area">
   <div class="toolbar" role="region" aria-label="篩選">
     <div class="chips" id="personas" role="group" aria-label="我是"></div>
     <div class="chips" id="chips" role="group" aria-label="議題"></div>
@@ -191,6 +201,9 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
   </div>
 
   <main id="list"><p class="loading">資料載入中…</p></main>
+  </div>
+
+  <section id="record" class="record" aria-label="過去職務的公開紀錄"></section>
 
   <div class="about">
     <section>
@@ -385,6 +398,30 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
     $("method-link").href = DB.meta.repo + "/blob/main/METHODOLOGY.md";
   }
 
+  function renderRecord() {
+    var T = DB.track, src = DB.src;
+    function links(ids) { return ids.map(function (id) { var s = src[id]; return s ? '<li><span class="o">' + esc(s.outlet) + '</span> <span class="d">' + esc(fmtDate(s.date)) + '</span><br><a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.title) + "</a></li>" : ""; }).join(""); }
+    var h = '<h2>過去職務的公開紀錄</h2><p class="record-note">' + esc(T.note) + "</p>" + (T.note_srcs && T.note_srcs.length ? '<details class="record-src"><summary>說明來源</summary><ul class="srcs">' + links(T.note_srcs) + "</ul></details>" : "");
+    h += '<div class="cols two">';
+    DB.cands.candidates.forEach(function (c) {
+      var tc = T.candidates.filter(function (x) { return x.key === c.key; })[0]; if (!tc) return;
+      h += '<div class="col"><div class="col-head">' + esc(c.name) + "：" + esc(T.labels[c.key]) + "</div>";
+      h += '<p class="record-sum">' + esc(T.summary[c.key]) + '</p><details class="record-src"><summary>摘要來源</summary><ul class="srcs">' + links(T.summary_srcs[c.key] || []) + "</ul></details>";
+      tc.items.forEach(function (it) {
+        h += '<article class="rec" id="' + esc(it.id) + '"><div class="rec-top"><h4>' + esc(it.item) + '</h4><span class="rec-date">資料至 ' + fmtDate(it.as_of) + "</span></div>";
+        h += '<div class="pills"><span class="pill status">' + esc(it.status) + "</span></div>";
+        h += '<p class="summary">' + esc(it.status_detail) + "</p>";
+        if (it.responses && it.responses.length) {
+          h += '<div class="sub"><div class="sub-label">相關回應</div><ul>' + it.responses.map(function (x) { var s = src[x.src]; return '<li><span class="resp-by">' + esc(x.by) + "：</span>" + esc(x.text) + (s ? ' <a href="' + esc(s.url) + '" target="_blank" rel="noopener">（' + esc(s.outlet) + "）</a>" : "") + "</li>"; }).join("") + "</ul></div>";
+        }
+        h += '<details class="record-src"><summary>來源（' + (it.item_srcs.length + it.status_srcs.length) + '）</summary><div class="sub-label">' + (c.key === "chiang" ? "政見出處" : "法案出處") + '</div><ul class="srcs">' + links(it.item_srcs) + '</ul><div class="sub-label">現況出處</div><ul class="srcs">' + links(it.status_srcs) + "</ul></details>";
+        var issue = DB.meta.repo + "/issues/new?template=correction.yml&title=" + encodeURIComponent("[更正] " + it.id + " " + c.name + "：" + it.item);
+        h += '<div class="rec-foot"><span>' + esc(it.id) + '</span><a href="' + esc(issue) + '" target="_blank" rel="noopener">回報錯誤</a></div></article>';
+      });
+      h += "</div>";
+    });
+    $("record").innerHTML = h + "</div>";
+  }
   function profileHtml(key) {
     var p = DB.profiles[key]; if (!p) return "";
     function links(ids) { return ids.map(function (id) { var s = DB.src[id]; return s ? ' <a href="' + esc(s.url) + '" target="_blank" rel="noopener">（' + esc(s.outlet) + "）</a>" : ""; }).join(""); }
@@ -420,18 +457,20 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
   $("q").addEventListener("input", function (e) { state.q = e.target.value.trim(); render(); });
 
   function getJSON(p) { return fetch(p, { cache: "no-cache" }).then(function (r) { if (!r.ok) throw new Error(p + " " + r.status); return r.json(); }); }
-  Promise.all([getJSON("data/records.json"), getJSON("data/sources.json"), getJSON("data/candidates.json"), getJSON("data/meta.json"), getJSON("data/national_topics.json"), getJSON("data/personas.json"), getJSON("data/profiles.json")])
+  Promise.all([getJSON("data/records.json"), getJSON("data/sources.json"), getJSON("data/candidates.json"), getJSON("data/meta.json"), getJSON("data/national_topics.json"), getJSON("data/personas.json"), getJSON("data/profiles.json"), getJSON("data/track_records.json")])
     .then(function (res) {
       DB = { records: res[0], sources: res[1], cands: res[2], meta: res[3], src: {}, byId: {}, names: {}, roles: {} };
       res[4].forEach(function (n) { DB.roles[n.topic] = n.mayor_role; });
       DB.personas = res[5]; DB.profiles = {}; DB.profileNote = res[6].note;
       res[6].candidates.forEach(function (c) { DB.profiles[c.key] = c; });
+      DB.track = res[7];
       DB.sources.forEach(function (s) { DB.src[s.id] = s; });
       DB.records.forEach(function (r) { DB.byId[r.id] = r; });
       DB.cands.candidates.forEach(function (c) { DB.names[c.key] = c.name; });
       if (!DB.cands.candidates.some(function (c) { return c.key === state.view; })) state.view = "both";
       renderChrome();
       render();
+      renderRecord();
       if (location.hash) { var el = document.getElementById(location.hash.slice(1)); if (el) el.scrollIntoView(); }
     })
     .catch(function (err) {

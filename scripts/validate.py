@@ -41,7 +41,7 @@ def main() -> int:
         src_by_id[s["id"]] = s
         if not s["url"].startswith("https://"):
             errors.append(f"{s['id']}：網址需為 https")
-        if s["kind"] not in {"新聞", "影片", "官方", "百科"}:
+        if s["kind"] not in {"新聞", "影片", "官方", "百科", "資料庫"}:
             errors.append(f"{s['id']}：kind 不在允許清單")
         if s.get("date") and not DATE_RE.match(s["date"]):
             errors.append(f"{s['id']}：日期格式錯誤 {s['date']}")
@@ -133,6 +133,23 @@ def main() -> int:
         for ref in c["bio_srcs"] + c["team_srcs"]:
             check_src(ref, f"經歷 {c['key']}")
             used.add(ref)
+
+    trk = json.loads((DATA / "track_records.json").read_text(encoding="utf-8"))
+    ok_status = {"chiang": {"已完成", "部分完成", "進行中", "未達原定目標", "來源中未見進展"},
+                 "shen": {"三讀通過", "審查中", "未排入審查", "未通過", "撤回"}}
+    for ref in trk.get("note_srcs", []):
+        check_src(ref, "職務紀錄說明"); used.add(ref)
+    for k, refs in trk["summary_srcs"].items():
+        for ref in refs:
+            check_src(ref, f"職務紀錄摘要 {k}"); used.add(ref)
+    for c in trk["candidates"]:
+        for it in c["items"]:
+            if it["status"] not in ok_status[c["key"]]:
+                errors.append(f"{it['id']}：狀態 {it['status']} 不在清單")
+            if not DATE_RE.match(it["as_of"]):
+                errors.append(f"{it['id']}：as_of 日期格式錯誤")
+            for ref in it["item_srcs"] + it["status_srcs"] + [x["src"] for x in it.get("responses", [])]:
+                check_src(ref, it["id"]); used.add(ref)
 
     if errors:
         print("檢查未通過：")
