@@ -288,6 +288,168 @@
     "byline": "蘇芳禾"
   },
   {
+    "id": "src-ettoday-3178736",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "沈伯洋不排斥到對岸交流 北市府問：是否應更正「破口說」？",
+    "url": "https://www.ettoday.net/news/20260606/3178736.htm",
+    "date": "2026-06-06",
+    "byline": "陳家祥"
+  },
+  {
+    "id": "src-udn-9549586",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "赴陸交流最想去北京？蔣萬安諷：民進黨不是說會有滲透破口？",
+    "url": "https://udn.com/news/story/6656/9549586",
+    "date": "2026-06-06",
+    "byline": "楊正海"
+  },
+  {
+    "id": "src-udn-9231287",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "上海雙城論壇 蔣萬安提民國談民主 盼台海不再波濤",
+    "url": "https://udn.com/news/story/6656/9231287",
+    "date": "2025-12-28",
+    "byline": "楊正海、謝守真、陳宥菘"
+  },
+  {
+    "id": "src-cna-202606200068",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋籲檢驗防洪工程 蔣萬安：強化降雨容受力",
+    "url": "https://www.cna.com.tw/news/aloc/202606200068.aspx",
+    "date": "2026-06-20",
+    "byline": "陳昱婷"
+  },
+  {
+    "id": "src-setn-1916230",
+    "kind": "新聞",
+    "outlet": "三立新聞網（鏡週刊轉載）",
+    "title": "沈伯洋提教育政見 北市回擊酸：早就在做",
+    "url": "https://www.mirrormedia.mg/external/setn_1916230",
+    "date": "2026-10-02",
+    "byline": "三立新聞網"
+  },
+  {
+    "id": "src-tnl-270394",
+    "kind": "新聞",
+    "outlet": "關鍵評論網",
+    "title": "【懶人包】美沙冬是毒還是藥？蔣萬安、沈伯洋「減害計畫」藍綠政見交鋒一次看",
+    "url": "https://www.thenewslens.com/article/270394",
+    "date": "2026-10-05",
+    "byline": "覃翰"
+  },
+  {
+    "id": "src-cna-202610040062",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "反毒熱議 蔣萬安問沈伯洋在何處設中心發毒品",
+    "url": "https://www.cna.com.tw/news/aipl/202610040062.aspx",
+    "date": "2026-10-04",
+    "byline": "楊淑閔"
+  },
+  {
+    "id": "src-udn-9697574",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "「買個菜就沒了」 蔣萬安反諷：應普發2萬元",
+    "url": "https://udn.com/news/story/6656/9697574",
+    "date": "2026-08-18",
+    "byline": "地方社會中心、政治中心連線報導"
+  },
+  {
+    "id": "src-udn-9636929",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "蔣萬安：民進黨政府傲慢不作為人民要站出來 食安法必須修法",
+    "url": "https://udn.com/news/story/124948/9636929",
+    "date": "2026-07-19",
+    "byline": "陳敬丰"
+  },
+  {
+    "id": "src-udn-9610106",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "沈伯洋稱食安中央地方缺一不可 蔣萬安酸：民眾批評才公布名單",
+    "url": "https://udn.com/news/story/124652/9610106",
+    "date": "2026-07-06",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-udn-9395657",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "邏輯錯亂？賴總統稱非核家園達標 蔣萬安：寧可民進黨「回頭是岸」",
+    "url": "https://udn.com/news/story/6656/9395657",
+    "date": "2026-03-22",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-udn-9537473",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "沈伯洋挺賴清德新式核能 陳冠安酸：科學可以初一十五不一樣？",
+    "url": "https://udn.com/news/story/6656/9537473",
+    "date": "2026-06-01",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-udn-9549347",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "專訪／沈伯洋不排斥到中國大陸交流 揭「最想去的城市」",
+    "url": "https://udn.com/news/story/124652/9549347",
+    "date": "2026-06-06",
+    "byline": "洪子凱、邱書昱、李承穎、蕭白雪"
+  },
+  {
+    "id": "src-nownews-6880736",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "當選會停雙城論壇？沈伯洋：先留著！中國議題「是我專長」",
+    "url": "https://www.nownews.com/news/6880736",
+    "date": "2026-10-05",
+    "byline": "胡郁欣"
+  },
+  {
+    "id": "src-ltn-5598938",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "登上少康戰情室「破圈」 沈伯洋：無政治前提願參加雙城論壇",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5598938",
+    "date": "2026-10-07",
+    "byline": "蔡愷恆"
+  },
+  {
+    "id": "src-cna-202610140135",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋指無政治前提願參加雙城論壇 國台辦不接受",
+    "url": "https://www.cna.com.tw/news/acn/202610140135.aspx",
+    "date": "2026-10-14",
+    "byline": "呂佳蓉"
+  },
+  {
+    "id": "src-udn-9757231",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "學者認為民進黨不樂見雙城順利 「不封殺」大陸官員才意外",
+    "url": "https://udn.com/news/story/124652/9757231",
+    "date": "2026-09-16",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-nownews-6880451",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "美沙冬掀戰！連問「哪社區打毒品？」 蔣萬安轟沈伯洋：認知作戰",
+    "url": "https://www.nownews.com/news/6880451",
+    "date": "2026-10-04",
+    "byline": "崔至雲"
+  },
+  {
     "id": "vid-8WH53TUHS-s",
     "kind": "影片",
     "outlet": "沈伯洋Puma（候選人官方頻道）",

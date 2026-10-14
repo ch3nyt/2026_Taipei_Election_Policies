@@ -1364,5 +1364,411 @@
       "shen-022",
       "shen-023"
     ]
+  },
+  {
+    "id": "shen-027",
+    "candidate": "shen",
+    "topic": "兩岸城市交流",
+    "title": "雙城論壇：有條件續辦，主張首都對首都",
+    "date": "2026-10-07",
+    "capacity": "參選人",
+    "status": "立場表態",
+    "summary": "6/6 聯合報刊出的專訪中表示，雙城論壇舉辦至今沒什麼效益，若當市長會找出具體效益；在對等前提下不排斥赴中國大陸交流，最想拜訪的是北京，「首都對首都」，但也表示資料分享須更謹慎。10/5 受訪表示，若當選，雙城論壇「現有的交流框架先留著」，涉及交通資料、資安等須審慎評估；10/7 表示若沒有政治前提（他舉九二共識、一國兩制為例）願意參加，有效益、有內容或能幫助產業才續辦。",
+    "implementation": {
+      "method": "交流以對等、首都對首都為原則；論壇須無政治前提、有具體效益才續辦；涉及交通資料、資安等須審慎評估。",
+      "timeline": null,
+      "budget": null,
+      "authority": "市府人員往來與簽署協議須經中央（陸委會等）許可。",
+      "target": null
+    },
+    "context": [],
+    "responses": [
+      {
+        "by": "台北市政府大陸小組",
+        "text": "表示雙城論壇是依法向中央申請、經核准後辦理，並詢問他是否要更正論壇是「破口」的說法。",
+        "src": "src-ettoday-3178736"
+      },
+      {
+        "by": "蔣萬安",
+        "text": "6/6 反問民進黨不是說只要和對岸交流就會有滲透的破口嗎。",
+        "src": "src-udn-9549586"
+      },
+      {
+        "by": "中國國台辦",
+        "text": "表示不接受他「無政治前提」參加雙城論壇的說法。",
+        "src": "src-cna-202610140135"
+      }
+    ],
+    "notes": [
+      "北市府大陸小組與國民黨議員參選人賴苡任引述，他 4/5 在節目中曾說雙城論壇不必要，很多時候是滲透的破口。立場隨時間有調整，以最新日期的說法為準。"
+    ],
+    "sources": [
+      "src-udn-9549347",
+      "src-nownews-6880736",
+      "src-ltn-5598938",
+      "src-udn-9549586"
+    ],
+    "videos": [],
+    "related": [
+      "chiang-014"
+    ]
+  },
+  {
+    "id": "chiang-014",
+    "candidate": "chiang",
+    "topic": "兩岸城市交流",
+    "title": "延續雙城論壇",
+    "date": "2025-12-28",
+    "capacity": "市長／市府",
+    "status": "已上路",
+    "summary": "2025 年 12 月赴上海出席雙城論壇，致詞提到民國八年的五四運動與民主、科學，表示對話比對抗好、了解比誤解好，希望台海和平與繁榮，並稱雙城論壇是兩岸目前唯一延續的官方對話平台；兩市並簽署水治理、職能培訓兩項合作備忘錄。2026/6/6 表示市府團隊在雙城論壇與動物保育交流上有具體成果。",
+    "implementation": {
+      "method": "由台北、上海兩市輪流舉辦論壇並簽署合作備忘錄。",
+      "timeline": null,
+      "budget": null,
+      "authority": "市府人員往來與簽署協議須經中央（陸委會等）許可。",
+      "target": null
+    },
+    "context": [
+      {
+        "text": "聯合報 9/16 報導，今年雙城論壇預計 12 月舉辦，陸委會兩度不同意上海方籌辦人員的層級。",
+        "src": "src-udn-9757231"
+      }
+    ],
+    "responses": [
+      {
+        "by": "沈伯洋",
+        "text": "6/6 專訪稱雙城論壇舉辦至今沒什麼效益，交流應對等、首都對首都；10/5、10/7 表示現有框架可先保留，若沒有政治前提、有效益才續辦並願意參加。",
+        "src": "src-udn-9549347"
+      }
+    ],
+    "notes": [],
+    "sources": [
+      "src-udn-9231287",
+      "src-udn-9549586",
+      "src-udn-9757231"
+    ],
+    "videos": [],
+    "related": [
+      "shen-027"
+    ]
+  },
+  {
+    "id": "shen-028",
+    "candidate": "shen",
+    "topic": "城市韌性與民防",
+    "title": "韌性主軸：交通、氣候、治安危機應變",
+    "date": "2026-06-19",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "HEART「韌性」主軸主張市府要能面對交通、氣候、治安等危機，並以跨局處職位（設計長、夜間市長、擴大永續長）整合事務。6/18 豪雨後，6/19 表示該雨量超過目前容受力、市府也持續進行防洪工程，但已完工的工程仍有積水甚至噴水柱，建議市府逐步檢驗這些工程。",
+    "implementation": {
+      "method": "逐步檢驗已完工的防洪工程；設跨局處職位整合危機相關事務。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "防空避難、民防演習等民防事項，來源中未見本人表態。"
+    ],
+    "sources": [
+      "src-cna-202606200068",
+      "src-nownews-6864870"
+    ],
+    "videos": [],
+    "related": [
+      "chiang-015",
+      "shen-024"
+    ]
+  },
+  {
+    "id": "chiang-015",
+    "candidate": "chiang",
+    "topic": "城市韌性與民防",
+    "title": "提升都市降雨容受力",
+    "date": "2026-06-20",
+    "capacity": "市長／市府",
+    "status": "已宣布",
+    "summary": "6/18 豪雨後，6/20 表示市府已核定防洪工程，將全市降雨容受力由每小時 78.8 毫米提高到 88.8 毫米，並持續強化城市韌性；6/18 災害應變中心強化三級開設。",
+    "implementation": {
+      "method": "核定防洪工程。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": "降雨容受力由每小時 78.8 毫米提高到 88.8 毫米。"
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "防空避難、民防演習等民防事項，來源中未見本人表態。"
+    ],
+    "sources": [
+      "src-cna-202606200068"
+    ],
+    "videos": [],
+    "related": [
+      "shen-028"
+    ]
+  },
+  {
+    "id": "shen-029",
+    "candidate": "shen",
+    "topic": "毒品防制",
+    "title": "校園反毒四招",
+    "date": "2026-10-02",
+    "capacity": "參選人",
+    "status": "提議",
+    "summary": "10/2 提出校園反毒政見：斷絕毒品來源、升級生活技能課程、導入篩檢，以及簡短處遇及轉介治療（SBIRT）。10/3 表示清潔針具與美沙冬替代療法最早在台北實施，並提議與蔣萬安、李四川辯論毒品政策；10/4 表示舊文是在介紹各國的減害措施，並批評蔣萬安的說法污名化第一線防治人員。",
+    "implementation": {
+      "method": "斷源、生活技能課程、篩檢、簡短處遇及轉介治療。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [
+      {
+        "by": "台北市教育局",
+        "text": "表示市府已有預防、風險辨識、篩檢與輔導的網絡，並依個案需要連結醫療、社福、警政與司法資源。",
+        "src": "src-setn-1916230"
+      },
+      {
+        "by": "蔣萬安",
+        "text": "表示支持美沙冬與清潔針具計畫，但反對毒品除罪化，絕不接受在社區設中心提供毒品。",
+        "src": "src-cna-202610040062"
+      }
+    ],
+    "notes": [
+      "國民黨台北市議員楊植斗 10/2 提到他 2014 年在想想論壇發表的文章，批評他把毒品與藥品劃上等號。該文把毒品政策分為非法化、除罪化並管制、找出用藥原因並協助三類，認為非法化效果最差，並寫到若除罪化過於偏激，可參考部分國家設社區中心提供吸毒者毒品與乾淨針頭、導入社工。他以減害計畫（美沙冬、清潔針具）是現行做法回應。",
+      "兩人都表示支持美沙冬替代療法與清潔針具等現行減害做法。"
+    ],
+    "sources": [
+      "src-setn-1916230",
+      "src-tnl-270394",
+      "src-cna-202610040062"
+    ],
+    "videos": [],
+    "related": [
+      "chiang-016"
+    ]
+  },
+  {
+    "id": "chiang-016",
+    "candidate": "chiang",
+    "topic": "毒品防制",
+    "title": "反毒立場與毒品查緝成果",
+    "date": "2026-10-04",
+    "capacity": "市長／市府",
+    "status": "立場表態",
+    "summary": "10/3 在臉書表示，禁止毒品進入校園與社區是市府必須堅守的紅線；10/4 受訪表示一直支持美沙冬替代療法與清潔針具政策，堅決反對毒品除罪化，不可能在社區設中心提供毒品；並表示市府加強毒品查緝，今年 1 至 8 月查獲 4,000 多件、送辦 4,000 多人，查獲增長率為六都第一。",
+    "implementation": {
+      "method": "毒品查緝與送辦；延續美沙冬與清潔針具政策。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": "來源中未見量化目標；引述全市 1–8 月查獲與送辦數據。"
+    },
+    "context": [],
+    "responses": [
+      {
+        "by": "沈伯洋",
+        "text": "10/4 批評蔣萬安的說法污名化第一線防治人員、把不同意見打成網軍，並表示舊文是在介紹各國減害措施。",
+        "src": "src-tnl-270394"
+      }
+    ],
+    "notes": [
+      "兩人都表示支持美沙冬替代療法與清潔針具等現行減害做法。"
+    ],
+    "sources": [
+      "src-cna-202610040062",
+      "src-nownews-6880451",
+      "src-tnl-270394"
+    ],
+    "videos": [],
+    "related": [
+      "shen-029"
+    ]
+  },
+  {
+    "id": "shen-030",
+    "candidate": "shen",
+    "topic": "中央與地方財政",
+    "title": "北市財源與普發現金",
+    "date": "2026-05-31",
+    "capacity": "參選人",
+    "status": "立場表態",
+    "summary": "中央規劃租金補貼改回中央與地方分攤時，他表示財劃法修正後地方收入大增、北市財源首屈一指，絕對有這筆財源。8/18 對中央普發 1 萬元表示，在財政紀律、合憲、優先照顧弱勢的條件下可以討論，並表示這次沒有舉債、由行政院提出，與 2024 年的情況不同。",
+    "implementation": {
+      "method": null,
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-udn-9536572",
+      "src-udn-9698355"
+    ],
+    "videos": [],
+    "related": [
+      "chiang-017"
+    ]
+  },
+  {
+    "id": "chiang-017",
+    "candidate": "chiang",
+    "topic": "中央與地方財政",
+    "title": "中央地方分攤與普發現金",
+    "date": "2026-05-31",
+    "capacity": "市長／市府",
+    "status": "立場表態",
+    "summary": "對租金補貼改回中央與地方分攤，表示不要讓人感覺「中央請客、地方買單」。8/17 總統宣布明年普發 1 萬元後，他反諷應普發 2 萬元（引用總統先前「買個菜就沒了」的說法），並要求總統與民進黨說明過去稱普發違憲的立場。",
+    "implementation": {
+      "method": null,
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-udn-9536572",
+      "src-udn-9697574"
+    ],
+    "videos": [],
+    "related": [
+      "shen-030"
+    ]
+  },
+  {
+    "id": "chiang-018",
+    "candidate": "chiang",
+    "topic": "食品安全",
+    "title": "食安法修法三主張",
+    "date": "2026-07-19",
+    "capacity": "市長／市府",
+    "status": "立場表態",
+    "summary": "致癌油事件後主張修改食安法：一、源頭管理，要求中下游業者與檢驗機關即時通報；二、建立地方政府之間可橫向通報的食安平台；三、問題油品流向與業者名單強制即時公布。他並表示北市已預防性下架產品、公布業者名單，並追查上中下游業者。",
+    "implementation": {
+      "method": "修改食安法：即時通報、跨縣市通報平台、強制公布名單。",
+      "timeline": null,
+      "budget": null,
+      "authority": "食安法修法須由中央與立法院完成。",
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [],
+    "sources": [
+      "src-udn-9636929"
+    ],
+    "videos": [],
+    "related": [
+      "shen-031"
+    ]
+  },
+  {
+    "id": "shen-031",
+    "candidate": "shen",
+    "topic": "食品安全",
+    "title": "食安中央地方分工",
+    "date": "2026-07-06",
+    "capacity": "參選人",
+    "status": "立場表態",
+    "summary": "表示食安處理中央與地方缺一不可：地方依法稽查，中央彙整全國資訊；並表示當天已與食藥署確認處理進度。",
+    "implementation": {
+      "method": "地方依法稽查、中央彙整全國資訊。",
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [
+      {
+        "by": "蔣萬安",
+        "text": "表示中央與地方都有責任，並主張中央應即時公布業者名單。",
+        "src": "src-udn-9610106"
+      }
+    ],
+    "notes": [
+      "食安法修法方面，來源中未見本人表態。"
+    ],
+    "sources": [
+      "src-udn-9610106"
+    ],
+    "videos": [],
+    "related": [
+      "chiang-018"
+    ]
+  },
+  {
+    "id": "chiang-019",
+    "candidate": "chiang",
+    "topic": "能源與供電",
+    "title": "核電政策",
+    "date": "2026-03-22",
+    "capacity": "市長／市府",
+    "status": "立場表態",
+    "summary": "回應總統談非核家園時表示，民進黨過去的反核政策完全錯誤、延誤國家發展，寧可中央「回頭是岸」，應務實面對、立即修正錯誤政策。",
+    "implementation": {
+      "method": null,
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "核電政策屬中央權限；北市供電規劃（例如北士科變電所）見產業與AI議題。"
+    ],
+    "sources": [
+      "src-udn-9395657"
+    ],
+    "videos": [],
+    "related": [
+      "shen-032"
+    ]
+  },
+  {
+    "id": "shen-032",
+    "candidate": "shen",
+    "topic": "能源與供電",
+    "title": "核電政策",
+    "date": "2026-06-01",
+    "capacity": "參選人",
+    "status": "立場表態",
+    "summary": "據聯合報報導，他表態支持總統提出的「新式核能」，並表示民進黨對核能的立場一直是核廢料一定要能處理、社會必須要有共識。",
+    "implementation": {
+      "method": null,
+      "timeline": null,
+      "budget": null,
+      "authority": null,
+      "target": null
+    },
+    "context": [],
+    "responses": [],
+    "notes": [
+      "核電政策屬中央權限；北士科變電所的說法見 shen-023。",
+      "目前只有單一報導，待補第一手來源。"
+    ],
+    "sources": [
+      "src-udn-9537473"
+    ],
+    "videos": [],
+    "related": [
+      "chiang-019",
+      "shen-023"
+    ]
   }
 ]

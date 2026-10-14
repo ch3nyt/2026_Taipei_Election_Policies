@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>11 題政策盲測</title>
+<meta name="description" content="不看名字只看政策：從沈伯洋、蔣萬安的公開政見隨機抽 11 題，看看你比較接近哪一邊的主張。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@600;700&display=swap">
+<style>
+/* 版面概念：一題一頁的投票卡。兩個選項外觀完全相同、左右順序隨機，不出現任何政黨顏色或名字。 */
+:root {
+  --paper: #f5f4f7; --surface: #ffffff; --ink: #1f1d24; --muted: #625e6b; --line: #dcd9e2;
+  --accent: #5a3e75; --accent-soft: #ece6f3; --pick: #2f6f62; --pick-soft: #e3f0ec;
+  --font-display: "Noto Serif TC", "Songti TC", "PMingLiU", serif;
+  --font-body: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", system-ui, sans-serif;
+  --font-data: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --radius: 8px;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #151419; --surface: #1d1c23; --ink: #ebe9f0; --muted: #a6a2b0; --line: #34323d;
+    --accent: #c4a8e2; --accent-soft: #2b2436; --pick: #7cc7b5; --pick-soft: #1b2e2a; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #151419; --surface: #1d1c23; --ink: #ebe9f0; --muted: #a6a2b0; --line: #34323d;
+  --accent: #c4a8e2; --accent-soft: #2b2436; --pick: #7cc7b5; --pick-soft: #1b2e2a; color-scheme: dark;
+}
+*, *::before, *::after { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); }
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--font-body); font-size: 16px; line-height: 1.7; }
+a { color: var(--accent); text-underline-offset: 2px; }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.wrap { max-width: 720px; margin: 0 auto; padding-inline: 16px; padding-block: 24px 56px; display: grid; gap: 20px; }
+.top { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; font-size: 14px; }
+.eyebrow { font-family: var(--font-data); font-size: 12px; letter-spacing: 0.08em; color: var(--muted); }
+h1 { font-family: var(--font-display); font-size: clamp(28px, 7vw, 40px); line-height: 1.25; margin: 0; text-wrap: balance; }
+h2 { font-family: var(--font-display); font-size: clamp(21px, 5vw, 26px); line-height: 1.4; margin: 0; text-wrap: balance; }
+p { margin: 0; }
+.muted { color: var(--muted); }
+.rules { margin: 0; padding-left: 1.2em; display: grid; gap: 6px; font-size: 15px; }
+.btn { display: inline-block; border: 0; border-radius: var(--radius); padding: 12px 22px; font-weight: 700; background: var(--ink); color: var(--paper); cursor: pointer; text-decoration: none; text-align: center; }
+.btn.ghost { background: transparent; color: var(--ink); border: 1px solid var(--line); font-weight: 500; }
+.row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+
+.progress { display: grid; gap: 6px; }
+.progress-label { display: flex; justify-content: space-between; font-family: var(--font-data); font-size: 13px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.bar { height: 6px; border-radius: 3px; background: var(--line); overflow: hidden; }
+.bar i { display: block; height: 100%; background: var(--accent); width: 0; transition: width .25s ease; }
+.chip { justify-self: start; font-size: 13px; padding: 1px 10px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); }
+
+.opts { display: grid; gap: 12px; }
+.opt { display: grid; grid-template-columns: 2.2em 1fr; gap: 10px; align-items: start; text-align: left; padding: 16px; border-radius: var(--radius); background: var(--surface); border: 1.5px solid var(--line); cursor: pointer; font-size: 17px; line-height: 1.6; }
+.opt:hover { border-color: var(--accent); }
+.opt .k { font-family: var(--font-data); font-weight: 500; color: var(--accent); font-size: 15px; padding-top: 2px; }
+.skip { justify-self: center; background: none; border: 0; color: var(--muted); text-decoration: underline; text-underline-offset: 3px; cursor: pointer; padding: 6px; font-size: 15px; }
+.back { background: none; border: 0; color: var(--muted); cursor: pointer; padding: 0; font-size: 14px; }
+
+.score { display: grid; gap: 10px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px; }
+.score-row { display: grid; grid-template-columns: 5.5em 1fr 3em; gap: 10px; align-items: center; font-variant-numeric: tabular-nums; }
+.score-row .name { font-weight: 700; }
+.score-row .num { font-family: var(--font-data); text-align: right; }
+.score-row .track { height: 14px; background: var(--paper); border-radius: 3px; overflow: hidden; }
+.score-row .track i { display: block; height: 100%; background: var(--accent); }
+.score-row.skip-row .track i { background: var(--line); }
+.verdict { font-size: 18px; font-weight: 700; }
+.note { font-size: 14px; color: var(--muted); }
+
+.review { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+.review li { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 16px; display: grid; gap: 8px; min-width: 0; }
+.review .q { font-weight: 700; }
+.review .o { display: grid; grid-template-columns: 1fr; gap: 2px; padding: 8px 10px; border-radius: 6px; border: 1px solid var(--line); font-size: 15px; }
+.review .o.mine { border-color: var(--pick); background: var(--pick-soft); }
+.review .o .who { font-size: 13px; color: var(--muted); }
+.review .o.mine .who::after { content: "　← 你的選擇"; color: var(--pick); font-weight: 700; }
+.review .skipped { font-size: 13px; color: var(--muted); }
+.copied { font-size: 13px; color: var(--pick); }
+.loading { color: var(--muted); padding: 30px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top">
+    <span class="eyebrow">2026 台北市長選舉</span>
+    <a href="index.html">← 回到政見對照</a>
+  </div>
+
+  <section id="intro" class="wrap" style="padding:0">
+    <h1>11 題政策盲測</h1>
+    <p>從沈伯洋、蔣萬安的公開政見中隨機抽出 11 題。每題列出兩人在同一議題上的不同做法，<strong>不顯示是誰提的</strong>，選你比較認同的那一個。</p>
+    <ul class="rules">
+      <li>選項左右順序隨機；兩邊都不想選可以跳過，跳過不計分。</li>
+      <li>每個選項都來自資料庫中有新聞來源的紀錄，結束後可以看到出處。</li>
+      <li>題目只涵蓋部分政見，結果只是好玩的參考，<strong>不是投票建議</strong>。</li>
+      <li>你的作答不會被記錄或上傳。</li>
+    </ul>
+    <div class="row"><button class="btn" id="start" type="button">開始作答</button><span class="muted" id="pool-note"></span></div>
+  </section>
+
+  <section id="play" hidden style="display:grid;gap:18px">
+    <div class="progress">
+      <div class="progress-label"><span id="count"></span><button class="back" id="back" type="button">← 上一題</button></div>
+      <div class="bar"><i id="bar"></i></div>
+    </div>
+    <span class="chip" id="topic"></span>
+    <h2 id="question"></h2>
+    <div class="opts" id="opts"></div>
+    <button class="skip" id="skip" type="button">兩個都不想選，跳過</button>
+  </section>
+
+  <section id="result" hidden style="display:grid;gap:18px">
+    <h1>你的結果</h1>
+    <div class="score" id="score"></div>
+    <p class="note" id="caveat"></p>
+    <div class="row">
+      <button class="btn" id="again" type="button">換一組題目再玩</button>
+      <button class="btn ghost" id="copy" type="button">複製結果</button>
+      <span class="copied" id="copied" hidden>已複製</span>
+    </div>
+    <h2>逐題對照</h2>
+    <ul class="review" id="review"></ul>
+    <p><a href="index.html">看完整的政見對照與所有來源 →</a></p>
+  </section>
+
+  <p class="loading" id="loading">題目載入中…</p>
+</div>
+
+<script>
+(function () {
+  "use strict";
+  var N = 11, POOL = [], NAMES = {}, ORDER = [], qs = [], answers = [], idx = 0;
+  function $(id) { return document.getElementById(id); }
+  function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; }); }
+  function shuffle(a) { a = a.slice(); for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t; } return a; }
+
+  function newRound() {
+    qs = shuffle(POOL).slice(0, Math.min(N, POOL.length)).map(function (q) { return { q: q, opts: shuffle(q.options) }; });
+    answers = new Array(qs.length).fill(undefined);
+    idx = 0;
+    $("intro").hidden = true; $("result").hidden = true; $("play").hidden = false;
+    show();
+  }
+  function show() {
+    var item = qs[idx];
+    $("count").textContent = "第 " + (idx + 1) + " / " + qs.length + " 題";
+    $("bar").style.width = (idx / qs.length * 100) + "%";
+    $("back").hidden = idx === 0;
+    $("topic").textContent = item.q.topic;
+    $("question").textContent = item.q.question;
+    $("opts").innerHTML = item.opts.map(function (o, i) {
+      return '<button type="button" class="opt" data-i="' + i + '"><span class="k">' + "AB"[i] + "</span><span>" + esc(o.text) + "</span></button>";
+    }).join("");
+    window.scrollTo(0, 0);
+  }
+  function answer(choice) {
+    answers[idx] = choice;
+    if (idx < qs.length - 1) { idx++; show(); } else { finish(); }
+  }
+  function tally() {
+    var c = {}; ORDER.forEach(function (k) { c[k] = 0; }); var skipped = 0;
+    answers.forEach(function (a, i) { if (a === null) skipped++; else c[qs[i].opts[a].candidate]++; });
+    return { c: c, skipped: skipped };
+  }
+  function finish() {
+    var t = tally(), total = qs.length;
+    var rows = ORDER.map(function (k) {
+      return '<div class="score-row"><span class="name">' + esc(NAMES[k]) + '</span><span class="track"><i style="width:' + (t.c[k] / total * 100) + '%"></i></span><span class="num">' + t.c[k] + "</span></div>";
+    }).join("") + '<div class="score-row skip-row"><span class="name">跳過</span><span class="track"><i style="width:' + (t.skipped / total * 100) + '%"></i></span><span class="num">' + t.skipped + "</span></div>";
+    var a = ORDER[0], b = ORDER[1], v;
+    if (t.c[a] === t.c[b]) v = "這 " + total + " 題中，你選兩邊主張的次數一樣多。";
+    else { var w = t.c[a] > t.c[b] ? a : b; v = "這 " + total + " 題中，你比較常選擇" + NAMES[w] + "的主張。"; }
+    $("score").innerHTML = '<p class="verdict">' + esc(v) + "</p>" + rows;
+    $("caveat").textContent = "多數題目是拿現任市府已推動的政策和挑戰者的提案比較，兩者不一定互斥。題目只涵蓋部分政見；蔣萬安的完整連任政見預計在競選總部成立（10/26）後公布，題庫會再更新。換一組題目，結果可能不同。這不是投票建議，建議點開下方各題的出處，看完整內容再做判斷。";
+    $("review").innerHTML = qs.map(function (item, i) {
+      var a = answers[i];
+      var opts = item.opts.map(function (o, j) {
+        return '<div class="o' + (a === j ? " mine" : "") + '"><span>' + esc(o.text) + '</span><span class="who">' + esc(NAMES[o.candidate]) + '　<a href="index.html#' + esc(o.record) + '">看出處</a></span></div>';
+      }).join("");
+      return '<li><span class="q">' + (i + 1) + ". " + esc(item.q.question) + "</span>" + opts + (a === null ? '<span class="skipped">這題你跳過了</span>' : "") + "</li>";
+    }).join("");
+    $("play").hidden = true; $("result").hidden = false; $("copied").hidden = true;
+    window.scrollTo(0, 0);
+  }
+  function resultText() {
+    var t = tally();
+    return "我玩了「11 題政策盲測」：" + ORDER.map(function (k) { return NAMES[k] + " " + t.c[k] + " 題"; }).join("、") + "、跳過 " + t.skipped + " 題。" + location.href;
+  }
+
+  $("start").addEventListener("click", newRound);
+  $("again").addEventListener("click", newRound);
+  $("skip").addEventListener("click", function () { answer(null); });
+  $("back").addEventListener("click", function () { if (idx > 0) { idx--; show(); } });
+  $("opts").addEventListener("click", function (e) { var b = e.target.closest(".opt"); if (b) answer(+b.getAttribute("data-i")); });
+  $("copy").addEventListener("click", function () {
+    var text = resultText();
+    function done() { $("copied").textContent = "已複製"; $("copied").hidden = false; }
+    function fail() { $("copied").textContent = "無法自動複製，請手動複製：" + text; $("copied").hidden = false; }
+    try { navigator.clipboard.writeText(text).then(done, fail); } catch (e) { fail(); }
+  });
+
+  Promise.all([
+    fetch("data/quiz.json", { cache: "no-cache" }).then(function (r) { return r.json(); }),
+    fetch("data/candidates.json", { cache: "no-cache" }).then(function (r) { return r.json(); })
+  ]).then(function (res) {
+    POOL = res[0];
+    res[1].candidates.forEach(function (c) { NAMES[c.key] = c.name; ORDER.push(c.key); });
+    $("pool-note").textContent = "題庫共 " + POOL.length + " 題，每次隨機抽 " + Math.min(N, POOL.length) + " 題";
+    $("loading").hidden = true;
+  }).catch(function () {
+    $("loading").textContent = "題目載入失敗，請重新整理頁面。";
+  });
+})();
+</script>
+</body>
+</html>

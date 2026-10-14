@@ -18,8 +18,10 @@ DATA = ROOT / "data"
 TOPICS = [
     "居住與都更", "交通", "育兒與教育", "長照與高齡", "青年與就業",
     "產業與AI", "城市治理", "環境與韌性", "運動與文化",
+    # 全國議題（市長職權相關），說明見 data/national_topics.json
+    "兩岸城市交流", "城市韌性與民防", "毒品防制", "中央與地方財政", "食品安全", "能源與供電",
 ]
-STATUSES = {"提議", "規劃中", "已宣布", "已上路"}
+STATUSES = {"提議", "規劃中", "已宣布", "已上路", "立場表態"}
 CAPACITIES = {"參選人", "市長／市府"}
 IMPL_KEYS = ["method", "timeline", "budget", "authority", "target"]
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -104,6 +106,22 @@ def main() -> int:
         for rel in r["related"]:
             if rel not in id_set:
                 errors.append(f"{rid}：related 找不到 {rel}")
+
+    # 盲測題庫：每題兩個選項，分屬兩位候選人，並指向存在的紀錄
+    quiz_path = DATA / "quiz.json"
+    if quiz_path.exists():
+        quiz = json.loads(quiz_path.read_text(encoding="utf-8"))
+        rec_by_id = {r["id"]: r for r in records}
+        for q in quiz:
+            cs = sorted(o["candidate"] for o in q["options"])
+            if len(q["options"]) != 2 or cs != sorted(cand_keys):
+                errors.append(f"盲測 {q['id']}：需兩個選項、各屬一位候選人")
+            for o in q["options"]:
+                r = rec_by_id.get(o["record"])
+                if not r:
+                    errors.append(f"盲測 {q['id']}：找不到紀錄 {o['record']}")
+                elif r["candidate"] != o["candidate"]:
+                    errors.append(f"盲測 {q['id']}：{o['record']} 的候選人不符")
 
     if errors:
         print("檢查未通過：")

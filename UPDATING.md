@@ -16,6 +16,11 @@
 4. **檢查與建置**：`python3 scripts/validate.py && python3 scripts/build_site.py`，更新 `data/meta.json` 的 `last_updated`，並在 `CHANGELOG.md` 記一行。
 5. **開 Pull Request**：標題 `資料更新 YYYY-MM-DD`，說明列出新增／修改的紀錄編號、雙方各新增幾筆、查核報告摘要。**不要直接合併**，等維護者審核。
 
+## 盲測題庫維護
+
+- 新增紀錄時，若兩人在同一議題上出現可對照的不同做法，可在 `data/quiz.json` 加題；`validate.py` 會檢查每題兩個選項各屬一位候選人、紀錄存在。
+- 蔣萬安公布連任政見後，優先把題目改成雙方都是提案的對照。
+
 ## 需要特別注意
 
 - 10/23 號次抽籤後，`candidates.json` 的排序改依號次，並更新 `order_note`。

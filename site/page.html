@@ -151,6 +151,14 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
 .timeline { list-style: none; padding: 0 !important; }
 .timeline li { display: grid; grid-template-columns: 6.5em 1fr; gap: 10px; font-variant-numeric: tabular-nums; }
 .timeline .t { font-family: var(--font-data); font-size: 13.5px; color: var(--muted); }
+.quiz-cta { display: grid; gap: 2px; justify-self: start; margin-top: 6px; padding: 10px 16px; border-radius: var(--radius); background: var(--ink); color: var(--paper); text-decoration: none; font-weight: 700; font-size: 16px; }
+.quiz-cta span { font-weight: 400; font-size: 13px; opacity: 0.8; }
+.quiz-cta:hover { opacity: 0.92; }
+.nat-head { margin-top: 34px; padding: 16px 0 4px; border-top: 2px solid var(--ink); }
+.nat-head h2 { font-family: var(--font-display); font-size: 24px; margin: 0 0 6px; }
+.nat-head p { margin: 0; color: var(--muted); max-width: 70ch; font-size: 15px; }
+.role { margin: -6px 0 14px; font-size: 14.5px; color: var(--muted); max-width: 75ch; }
+.role strong { color: var(--ink); font-weight: 500; }
 .loading, .error { padding: 40px 0; color: var(--muted); }
 @media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
 </style>
@@ -161,6 +169,7 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
     <h1>台北市長政見對照</h1>
     <p class="lede" id="lede">整理蔣萬安、沈伯洋的北市選舉政見，讓大家好比較雙方的異同。每則資訊都附上影片、新聞的出處，如果有誤請不吝告知。</p>
     <div class="meta-row" id="meta-row"></div>
+    <a class="quiz-cta" href="quiz.html">玩玩看：11 題政策盲測 →<span>不看名字只看政策，看看你比較接近哪一邊的主張</span></a>
   </header>
 
   <div class="cands" id="cands"></div>
@@ -210,7 +219,9 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
     ["method", "具體做法"], ["timeline", "時程"], ["budget", "經費與財源"],
     ["authority", "執行單位與所需同意"], ["target", "量化目標"]
   ];
-  var TOPICS = ["居住與都更", "交通", "育兒與教育", "長照與高齡", "青年與就業", "產業與AI", "城市治理", "環境與韌性", "運動與文化"];
+  var LOCAL = ["居住與都更", "交通", "育兒與教育", "長照與高齡", "青年與就業", "產業與AI", "城市治理", "環境與韌性", "運動與文化"];
+  var NATIONAL = ["兩岸城市交流", "城市韌性與民防", "毒品防制", "中央與地方財政", "食品安全", "能源與供電"];
+  var TOPICS = LOCAL.concat(NATIONAL);
   var state = { topic: "全部", q: "", view: "both" };
   try { var saved = localStorage.getItem("view"); if (saved) state.view = saved; } catch (e) {}
   var DB = null;
@@ -302,7 +313,11 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
       var total = cols.reduce(function (n, x) { return n + x.rs.length; }, 0);
       if (state.q && total === 0) return;
       anything = anything || total > 0;
+      if (t === NATIONAL[0] || (state.topic === t && NATIONAL.indexOf(t) !== -1)) {
+        out += '<div class="nat-head"><h2>全國議題：市長職權相關的部分</h2><p>以下議題多屬中央權限，只收錄與市府職權直接相關的部分，且只收候選人本人的公開表態。兩人使用同一份議題清單；沒有表態的標示「本資料庫目前沒有這個議題的紀錄」。</p></div>';
+      }
       out += '<section class="topic" aria-label="' + esc(t) + '"><h3>' + esc(t) + '<span class="n">' + total + " 筆</span></h3>";
+      if (DB.roles[t]) out += '<p class="role"><strong>市長能管到的部分：</strong>' + esc(DB.roles[t]) + "</p>";
       out += '<div class="cols' + (shown.length > 1 ? " two" : "") + '">';
       cols.forEach(function (x) {
         out += '<div class="col"><div class="col-head">' + esc(x.c.name) + "</div>";
@@ -376,9 +391,10 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
   $("q").addEventListener("input", function (e) { state.q = e.target.value.trim(); render(); });
 
   function getJSON(p) { return fetch(p, { cache: "no-cache" }).then(function (r) { if (!r.ok) throw new Error(p + " " + r.status); return r.json(); }); }
-  Promise.all([getJSON("data/records.json"), getJSON("data/sources.json"), getJSON("data/candidates.json"), getJSON("data/meta.json")])
+  Promise.all([getJSON("data/records.json"), getJSON("data/sources.json"), getJSON("data/candidates.json"), getJSON("data/meta.json"), getJSON("data/national_topics.json")])
     .then(function (res) {
-      DB = { records: res[0], sources: res[1], cands: res[2], meta: res[3], src: {}, byId: {}, names: {} };
+      DB = { records: res[0], sources: res[1], cands: res[2], meta: res[3], src: {}, byId: {}, names: {}, roles: {} };
+      res[4].forEach(function (n) { DB.roles[n.topic] = n.mayor_role; });
       DB.sources.forEach(function (s) { DB.src[s.id] = s; });
       DB.records.forEach(function (r) { DB.byId[r.id] = r; });
       DB.cands.candidates.forEach(function (c) { DB.names[c.key] = c.name; });

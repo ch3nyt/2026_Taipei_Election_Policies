@@ -2,6 +2,8 @@
 
 **👉 網站：https://ch3nyt.github.io/2026_Taipei_Election_Policies/**
 
+**🎯 政策盲測：https://ch3nyt.github.io/2026_Taipei_Election_Policies/quiz.html**
+
 使用 Claude Code 透過網路爬蟲，整理蔣萬安、沈伯洋的北市選舉政見，讓大家好比較雙方的異同。每則資訊都會附上影片、新聞的出處，如果有誤請不吝告知， 也祝大家支持的候選人都成功當選~
 
 ## 怎麼看

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "q01",
+    "topic": "育兒與教育",
+    "question": "你比較支持哪一種臨時托育的做法？",
+    "options": [
+      {
+        "candidate": "shen",
+        "text": "6 個月到 6 歲的孩子，每週都有最多 4 小時免費臨托，讓家長固定喘息",
+        "record": "shen-007"
+      },
+      {
+        "candidate": "chiang",
+        "text": "6 個月到未滿 1 歲的新生兒，發給 8 小時免費臨托券",
+        "record": "chiang-004"
+      }
+    ]
+  },
+  {
+    "id": "q02",
+    "topic": "育兒與教育",
+    "question": "幼兒托育資源，你希望優先做哪一項？",
+    "options": [
+      {
+        "candidate": "chiang",
+        "text": "第二胎起，讀公托與準公托都免費",
+        "record": "chiang-002"
+      },
+      {
+        "candidate": "shen",
+        "text": "每個行政區設單一窗口與專線，協助家長找育兒資源",
+        "record": "shen-008"
+      }
+    ]
+  },
+  {
+    "id": "q03",
+    "topic": "青年與就業",
+    "question": "市府補助青年使用 AI 工具，你比較支持哪種設計？",
+    "options": [
+      {
+        "candidate": "shen",
+        "text": "設籍台北的 18 至 25 歲大學與碩士生，每月有 300 元 AI 使用額度，由市府統一平台與業者議價",
+        "record": "shen-019"
+      },
+      {
+        "candidate": "chiang",
+        "text": "18 至 35 歲在學青年修習 AI 課程後，補助 AI 工具訂閱費，每年最高 4,000 元",
+        "record": "chiang-010"
+      }
+    ]
+  },
+  {
+    "id": "q04",
+    "topic": "產業與AI",
+    "question": "台北發展科技與 AI，你比較支持哪一項？",
+    "options": [
+      {
+        "candidate": "chiang",
+        "text": "遷移機場，釋出約 300 公頃土地做 AI 園區、住宅與大型公園",
+        "record": "chiang-001"
+      },
+      {
+        "candidate": "shen",
+        "text": "市府帶頭與新創合作，成為年輕團隊的第一個客戶",
+        "record": "shen-021"
+      }
+    ]
+  },
+  {
+    "id": "q05",
+    "topic": "交通",
+    "question": "內湖科技園區塞車，你比較支持哪種解法？",
+    "options": [
+      {
+        "candidate": "shen",
+        "text": "鼓勵企業錯開上下班、蓋跨河自行車橋，捷運民生汐止線先從汐止端施工",
+        "record": "shen-013"
+      },
+      {
+        "candidate": "chiang",
+        "text": "成立專案小組，改善內湖科技園區主要道路的交通",
+        "record": "chiang-008"
+      }
+    ]
+  },
+  {
+    "id": "q06",
+    "topic": "居住與都更",
+    "question": "幫老公寓的長輩解決上下樓問題，你比較支持哪種做法？",
+    "options": [
+      {
+        "candidate": "chiang",
+        "text": "加碼補助老公寓住戶加裝電梯",
+        "record": "chiang-007"
+      },
+      {
+        "candidate": "shen",
+        "text": "派服務團到宅說明老宅延壽計畫，住戶不必搬遷就能參與",
+        "record": "shen-015"
+      }
+    ]
+  },
+  {
+    "id": "q07",
+    "topic": "長照與高齡",
+    "question": "讓長輩更常出門活動，你比較希望優先做哪一項？",
+    "options": [
+      {
+        "candidate": "shen",
+        "text": "開健身小巴、擴大社區共照據點，讓長輩出門有人作伴",
+        "record": "shen-016"
+      },
+      {
+        "candidate": "chiang",
+        "text": "敬老卡每月點數提高到 600 點，並擴大到更多可使用的地方",
+        "record": "chiang-006"
+      }
+    ]
+  },
+  {
+    "id": "q08",
+    "topic": "運動與文化",
+    "question": "提升市民運動風氣，你比較支持哪種做法？",
+    "options": [
+      {
+        "candidate": "chiang",
+        "text": "多區設特色運動館、規劃國際級羽球館，目標規律運動人口 40%",
+        "record": "chiang-009"
+      },
+      {
+        "candidate": "shen",
+        "text": "在捷運站、登山口、公園設運動驛站，可寄物、換衣、沖洗",
+        "record": "shen-011"
+      }
+    ]
+  },
+  {
+    "id": "q09",
+    "topic": "青年與就業",
+    "question": "讓家長或上班族有更彈性的工作時間，你比較支持哪一項？",
+    "options": [
+      {
+        "candidate": "chiang",
+        "text": "試辦補助企業，讓有 12 歲以下子女的員工每天少上 1 小時班、不減薪",
+        "record": "chiang-005"
+      },
+      {
+        "candidate": "shen",
+        "text": "改善市府公務員工作環境，例如實施核心工時、其餘時間彈性上班",
+        "record": "shen-025"
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "topic": "產業與AI",
+    "question": "AI 學習資源，你比較支持優先投入哪裡？",
+    "options": [
+      {
+        "candidate": "chiang",
+        "text": "4 年投入 92 億元，讓中小學教室、教師與學生設備全面升級並設 AI 教育中心",
+        "record": "chiang-011"
+      },
+      {
+        "candidate": "shen",
+        "text": "補助市民 AI 課程，並為 45 歲以上想轉職或創業的人設陪跑計畫",
+        "record": "shen-021"
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "topic": "兩岸城市交流",
+    "question": "台北和中國大陸城市的交流，你比較支持哪一種？",
+    "options": [
+      {
+        "candidate": "chiang",
+        "text": "持續舉辦台北與上海的雙城論壇，認為對話比對抗好",
+        "record": "chiang-014"
+      },
+      {
+        "candidate": "shen",
+        "text": "雙城論壇須沒有政治前提、有具體效益才續辦，交流以對等、首都對首都為原則",
+        "record": "shen-027"
+      }
+    ]
+  },
+  {
+    "id": "q15",
+    "topic": "能源與供電",
+    "question": "對核能發電（屬中央權限），你比較認同哪一種說法？",
+    "options": [
+      {
+        "candidate": "chiang",
+        "text": "應立即修正過去的非核政策，務實面對",
+        "record": "chiang-019"
+      },
+      {
+        "candidate": "shen",
+        "text": "支持新式核能，前提是核廢料能處理、社會有共識",
+        "record": "shen-032"
+      }
+    ]
+  }
+]

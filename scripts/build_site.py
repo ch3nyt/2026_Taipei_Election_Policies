@@ -26,4 +26,5 @@ html = f"""<!doctype html>
 </html>
 """
 (ROOT / "index.html").write_text(html, encoding="utf-8")
-print("index.html 已更新")
+(ROOT / "quiz.html").write_text((ROOT / "site" / "quiz.html").read_text(encoding="utf-8"), encoding="utf-8")
+print("index.html、quiz.html 已更新")
