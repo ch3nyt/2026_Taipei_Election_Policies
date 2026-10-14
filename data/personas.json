@@ -1,0 +1,22 @@
+[
+  {
+    "key": "family",
+    "label": "有孩子的家庭"
+  },
+  {
+    "key": "youth",
+    "label": "學生與青年"
+  },
+  {
+    "key": "commuter",
+    "label": "通勤族與上班族"
+  },
+  {
+    "key": "senior",
+    "label": "長輩與照顧者"
+  },
+  {
+    "key": "housing",
+    "label": "居住與老屋"
+  }
+]

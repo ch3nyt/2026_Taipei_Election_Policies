@@ -41,7 +41,7 @@ def main() -> int:
         src_by_id[s["id"]] = s
         if not s["url"].startswith("https://"):
             errors.append(f"{s['id']}：網址需為 https")
-        if s["kind"] not in {"新聞", "影片", "官方"}:
+        if s["kind"] not in {"新聞", "影片", "官方", "百科"}:
             errors.append(f"{s['id']}：kind 不在允許清單")
         if s.get("date") and not DATE_RE.match(s["date"]):
             errors.append(f"{s['id']}：日期格式錯誤 {s['date']}")
@@ -122,6 +122,17 @@ def main() -> int:
                     errors.append(f"盲測 {q['id']}：找不到紀錄 {o['record']}")
                 elif r["candidate"] != o["candidate"]:
                     errors.append(f"盲測 {q['id']}：{o['record']} 的候選人不符")
+
+    personas = {p["key"] for p in json.loads((DATA / "personas.json").read_text(encoding="utf-8"))}
+    for r in records:
+        for k in r.get("personas", []):
+            if k not in personas:
+                errors.append(f"{r['id']}：未知的身分標籤 {k}")
+    prof = json.loads((DATA / "profiles.json").read_text(encoding="utf-8"))
+    for c in prof["candidates"]:
+        for ref in c["bio_srcs"] + c["team_srcs"]:
+            check_src(ref, f"經歷 {c['key']}")
+            used.add(ref)
 
     if errors:
         print("檢查未通過：")

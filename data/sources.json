@@ -450,6 +450,42 @@
     "byline": "崔至雲"
   },
   {
+    "id": "src-wiki-chiang",
+    "kind": "百科",
+    "outlet": "維基百科",
+    "title": "蔣萬安（2026-10-14 擷取版本）",
+    "url": "https://zh.wikipedia.org/wiki/%E8%94%A3%E8%90%AC%E5%AE%89",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-wiki-shen",
+    "kind": "百科",
+    "outlet": "維基百科",
+    "title": "沈伯洋（2026-10-14 擷取版本）",
+    "url": "https://zh.wikipedia.org/wiki/%E6%B2%88%E4%BC%AF%E6%B4%8B",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-tn-6361318",
+    "kind": "新聞",
+    "outlet": "台灣英文新聞",
+    "title": "民進黨徵召沈伯洋參選台北市長 賴清德親自披競選肩帶 讚他是不二人選",
+    "url": "https://www.taiwannews.com.tw/zh/news/6361318",
+    "date": "2026-05-13",
+    "byline": null
+  },
+  {
+    "id": "src-gvm-133387",
+    "kind": "新聞",
+    "outlet": "遠見雜誌",
+    "title": "2026九合一大選》沈伯洋啟動「台北大洋流」計畫，蔣萬安競選辦公室團隊亮相",
+    "url": "https://www.gvm.com.tw/article/133387",
+    "date": "2026-09-30",
+    "byline": "曾彥維"
+  },
+  {
     "id": "vid-8WH53TUHS-s",
     "kind": "影片",
     "outlet": "沈伯洋Puma（候選人官方頻道）",

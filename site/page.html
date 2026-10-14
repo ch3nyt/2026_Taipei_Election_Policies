@@ -151,6 +151,12 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
 .timeline { list-style: none; padding: 0 !important; }
 .timeline li { display: grid; grid-template-columns: 6.5em 1fr; gap: 10px; font-variant-numeric: tabular-nums; }
 .timeline .t { font-family: var(--font-data); font-size: 13.5px; color: var(--muted); }
+.chip-label { flex: none; align-self: center; font-size: 13px; font-weight: 700; color: var(--muted); padding-right: 2px; }
+.profile { border-top: 1px solid var(--line); padding-top: 8px; font-size: 14.5px; }
+.profile summary { cursor: pointer; font-weight: 500; color: var(--accent); }
+.profile ul { margin: 2px 0 6px; padding-left: 1.1em; display: grid; gap: 2px; }
+.pf-label { font-size: 12.5px; font-weight: 700; color: var(--muted); margin-top: 8px; }
+.pf-src { font-size: 12.5px; color: var(--muted); margin-top: 2px; }
 .quiz-cta { display: grid; gap: 2px; justify-self: start; margin-top: 6px; padding: 10px 16px; border-radius: var(--radius); background: var(--ink); color: var(--paper); text-decoration: none; font-weight: 700; font-size: 16px; }
 .quiz-cta span { font-weight: 400; font-size: 13px; opacity: 0.8; }
 .quiz-cta:hover { opacity: 0.92; }
@@ -176,6 +182,7 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
   <div class="notice" id="notice" hidden></div>
 
   <div class="toolbar" role="region" aria-label="篩選">
+    <div class="chips" id="personas" role="group" aria-label="我是"></div>
     <div class="chips" id="chips" role="group" aria-label="議題"></div>
     <div class="controls">
       <input type="search" id="q" placeholder="搜尋政見，例如：臨托、捷運、AI" aria-label="搜尋政見">
@@ -222,7 +229,7 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
   var LOCAL = ["居住與都更", "交通", "育兒與教育", "長照與高齡", "青年與就業", "產業與AI", "城市治理", "環境與韌性", "運動與文化"];
   var NATIONAL = ["兩岸城市交流", "城市韌性與民防", "毒品防制", "中央與地方財政", "食品安全", "能源與供電"];
   var TOPICS = LOCAL.concat(NATIONAL);
-  var state = { topic: "全部", q: "", view: "both" };
+  var state = { topic: "全部", q: "", view: "both", persona: "all" };
   try { var saved = localStorage.getItem("view"); if (saved) state.view = saved; } catch (e) {}
   var DB = null;
 
@@ -293,6 +300,7 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
 
   function matches(r) {
     if (state.topic !== "全部" && r.topic !== state.topic) return false;
+    if (state.persona !== "all" && (r.personas || []).indexOf(state.persona) === -1) return false;
     if (!state.q) return true;
     var hay = [r.title, r.summary, r.topic].concat(IMPL.map(function (k) { return r.implementation[k[0]] || ""; }), r.notes).join(" ");
     return hay.toLowerCase().indexOf(state.q.toLowerCase()) !== -1;
@@ -311,7 +319,7 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
         return { c: c, rs: rs };
       });
       var total = cols.reduce(function (n, x) { return n + x.rs.length; }, 0);
-      if (state.q && total === 0) return;
+      if ((state.q || state.persona !== "all") && total === 0) return;
       anything = anything || total > 0;
       if (t === NATIONAL[0] || (state.topic === t && NATIONAL.indexOf(t) !== -1)) {
         out += '<div class="nat-head"><h2>全國議題：市長職權相關的部分</h2><p>以下議題多屬中央權限，只收錄與市府職權直接相關的部分，且只收候選人本人的公開表態。兩人使用同一份議題清單；沒有表態的標示「本資料庫目前沒有這個議題的紀錄」。</p></div>';
@@ -348,12 +356,16 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
         "<dt>現職</dt><dd>" + esc(c.current_role) + "</dd>" +
         "<dt>競選標語</dt><dd>" + esc(c.slogan) + (sl ? ' <a href="' + esc(sl.url) + '" target="_blank" rel="noopener">（' + esc(sl.outlet) + "）</a>" : "") + "</dd>" +
         "<dt>政見進度</dt><dd>" + esc(c.platform_status) + ps.map(function (s) { return ' <a href="' + esc(s.url) + '" target="_blank" rel="noopener">（' + esc(s.outlet) + "）</a>"; }).join("") + "</dd>" +
-        '</dl><div class="count">本資料庫收錄 ' + n + " 筆</div></div>";
+        '</dl>' + profileHtml(c.key) + '<div class="count">本資料庫收錄 ' + n + " 筆</div></div>";
     }).join("");
     $("notice").innerHTML = "<p><strong>閱讀前請注意</strong></p><p>" + esc(DB.cands.election.order_note) +
       "兩位候選人的政見發布時間不同，筆數差異主要反映這一點。所有紀錄都可點開來源核對，若發現錯誤請按卡片上的「回報錯誤」。</p>";
     $("notice").hidden = false;
 
+    $("personas").innerHTML = '<span class="chip-label">我是</span>' + [{ key: "all", label: "全部" }].concat(DB.personas).map(function (p) {
+      var n = p.key === "all" ? DB.records.length : DB.records.filter(function (r) { return (r.personas || []).indexOf(p.key) !== -1; }).length;
+      return '<button type="button" class="chip" data-persona="' + p.key + '" aria-pressed="' + (state.persona === p.key) + '">' + esc(p.label) + '<span class="n">' + n + "</span></button>";
+    }).join("");
     var counts = {};
     DB.records.forEach(function (r) { counts[r.topic] = (counts[r.topic] || 0) + 1; });
     $("chips").innerHTML = ["全部"].concat(TOPICS).map(function (t) {
@@ -373,7 +385,24 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
     $("method-link").href = DB.meta.repo + "/blob/main/METHODOLOGY.md";
   }
 
+  function profileHtml(key) {
+    var p = DB.profiles[key]; if (!p) return "";
+    function links(ids) { return ids.map(function (id) { var s = DB.src[id]; return s ? ' <a href="' + esc(s.url) + '" target="_blank" rel="noopener">（' + esc(s.outlet) + "）</a>" : ""; }).join(""); }
+    return '<details class="profile"><summary>學經歷與團隊</summary>' +
+      '<div class="pf-label">學歷</div><ul>' + p.education.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>" +
+      '<div class="pf-label">經歷</div><ul>' + p.experience.map(function (x) { return "<li>" + esc(x) + "</li>"; }).join("") + "</ul>" +
+      '<div class="pf-src">學經歷來源：' + links(p.bio_srcs) + "</div>" +
+      '<div class="pf-label">已公布的競選團隊</div><ul>' + p.team.map(function (t) { return "<li>" + esc(t.role) + "：" + esc(t.name) + "</li>"; }).join("") + "</ul>" +
+      '<div class="pf-src">' + esc(p.team_note) + links(p.team_srcs) + "</div>" +
+      '<div class="pf-src">' + esc(DB.profileNote) + "</div></details>";
+  }
   document.addEventListener("click", function (e) {
+    var pb = e.target.closest("[data-persona]");
+    if (pb) {
+      state.persona = pb.getAttribute("data-persona");
+      document.querySelectorAll("[data-persona]").forEach(function (b) { b.setAttribute("aria-pressed", String(b === pb)); });
+      render(); return;
+    }
     var t = e.target.closest("[data-topic]");
     if (t) {
       state.topic = t.getAttribute("data-topic");
@@ -391,10 +420,12 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
   $("q").addEventListener("input", function (e) { state.q = e.target.value.trim(); render(); });
 
   function getJSON(p) { return fetch(p, { cache: "no-cache" }).then(function (r) { if (!r.ok) throw new Error(p + " " + r.status); return r.json(); }); }
-  Promise.all([getJSON("data/records.json"), getJSON("data/sources.json"), getJSON("data/candidates.json"), getJSON("data/meta.json"), getJSON("data/national_topics.json")])
+  Promise.all([getJSON("data/records.json"), getJSON("data/sources.json"), getJSON("data/candidates.json"), getJSON("data/meta.json"), getJSON("data/national_topics.json"), getJSON("data/personas.json"), getJSON("data/profiles.json")])
     .then(function (res) {
       DB = { records: res[0], sources: res[1], cands: res[2], meta: res[3], src: {}, byId: {}, names: {}, roles: {} };
       res[4].forEach(function (n) { DB.roles[n.topic] = n.mayor_role; });
+      DB.personas = res[5]; DB.profiles = {}; DB.profileNote = res[6].note;
+      res[6].candidates.forEach(function (c) { DB.profiles[c.key] = c; });
       DB.sources.forEach(function (s) { DB.src[s.id] = s; });
       DB.records.forEach(function (r) { DB.byId[r.id] = r; });
       DB.cands.candidates.forEach(function (c) { DB.names[c.key] = c.name; });
