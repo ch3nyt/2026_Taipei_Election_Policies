@@ -1,0 +1,1304 @@
+# 沈伯洋Puma 官方頻道：8/11 政策願景發表會
+
+影片：https://www.youtube.com/watch?v=8WH53TUHS-s
+辨識模型：faster-whisper medium（本機執行）
+
+> **語音辨識逐字稿，未經人工校對。** 人名、地名、數字常有錯字（例如「北士科」可能被辨識為「北市科」），請以影片原音為準，勿直接引用。本檔只用來定位影片時間點。
+> 演講內容依著作權法第 62 條（政治上之公開演說、機關之公開陳述）提供；記者提問與媒體串場部分之著作權屬原媒體。
+
+- [0:00:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=39s) 好 各位朋友們 我們現在簡單大會宣佈一下
+- [0:00:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=43s) 活動9點半會正式的開始
+- [0:00:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=45s) 那稍後我們在候選人進場之後
+- [0:00:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=48s) 我們立刻就會有一個在臺上的合照
+- [0:00:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=51s) 那跟攝影大哥 大姐們講一下
+- [0:00:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=53s) 就是等一下我們的這個候選人在臺上的合照
+- [0:00:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=56s) 我們會有官方的攝影師來拍照
+- [0:00:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=59s) 那這個地方我們會用公照的
+- [0:01:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=61s) 那接著最後的大合照
+- [0:01:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=63s) 我們會有先平面、再墊子
+- [0:01:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=66s) 我們先讓平面拍三張三個Pose
+- [0:01:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=68s) 那之後呢我們的電子在捕捉我們有這個喊口號的一段畫面
+- [0:01:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=73s) 那現在呢媒體資料都應該已經準備好了
+- [0:01:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=76s) 好那各位朋友我們的活動三分鐘後會準時開始
+- [0:08:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=518s) 期待今天呢我們也會準時的結束
+- [0:08:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=521s) 然後讓大家可以回去比較充裕的時間發稿
+- [0:08:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=524s) 所以呢三分鐘後準時開始那也要請大家幫我找好座位
+- [0:08:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=528s) 如果沒有找到自己的座位的話再麻煩我們的工作人員引導
+- [0:08:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=532s) 那同時我們要請大家幫我們把手機能夠關機
+- [0:08:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=537s) 謝謝
+- [0:08:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=538s) 那在活動結束之後呢
+- [0:09:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=557s) 我們在上方的咖啡區
+- [0:09:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=559s) 我們也準備了可以讓大家跟沈伯洋互動的一個
+- [0:09:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=563s) 就是場地
+- [0:09:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=564s) 所以呢在活動結束之後
+- [0:09:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=566s) 大家也可以幫我移動到這個我們互動區
+- [0:09:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=569s) 可以來稍微等待一下
+- [0:09:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=571s) 那我們臺上呢
+- [0:09:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=572s) 這會保留我們的這個主視覺的這個照相
+- [0:09:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=576s) 所以呢如果有興趣的話
+- [0:09:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=577s) 也可以上臺跟我們的這個主視覺照相是沒有問題的
+- [0:10:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=605s) 那現場有這個社群意見領袖區的朋友已經到場了
+- [0:10:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=609s) 舉手讓我看一下
+- [0:10:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=614s) OK
+- [0:10:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=615s) 那等一下呢我們會分成就是
+- [0:10:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=617s) 五區的大介紹
+- [0:10:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=619s) 那如果呢喊到各位的名字
+- [0:10:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=621s) 就是說這一區的話
+- [0:10:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=623s) 再麻煩幫我起立跟大家打個招呼
+- [0:10:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=626s) 那我們的鏡頭在後面
+- [0:10:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=627s) 所以簡單的打個招呼
+- [0:10:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=629s) 那因為今天是辦在上午的記者會
+- [0:10:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=631s) 為了方便媒體們可以有充裕的時間發稿
+- [0:10:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=633s) 所以我們就會比較快速的去進行流程
+- [0:10:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=638s) 先跟大家說聲如果有這個禮數不周到的地方
+- [0:10:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=642s) 就先抱歉一下
+- [0:10:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=647s) 那活動在一分鐘後我們會正式開始
+- [0:11:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=705s) 各位各位兵時間已經到
+- [0:11:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=707s) 糧程即時已到
+- [0:11:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=709s) 我們的活動要正式開始
+- [0:11:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=711s) 現在請大家幫我把目光轉向後方
+- [0:11:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=715s) 讓我們歡迎已經準備好的候選人
+- [0:11:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=718s) 沈柏楊進場
+- [0:11:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=719s) 歡迎沈柏楊同事們
+- [0:13:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=786s) 留下歷史性的合影
+- [0:13:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=788s) 我們一起為這位認真打拼的青年加油
+- [0:13:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=791s) 加油
+- [0:13:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=792s) 由我們非常重要的學者專家們
+- [0:13:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=814s) 特地前來力挺
+- [0:13:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=816s) 在這場重要的願景發表會
+- [0:13:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=819s) 有他們的努力 他們的智慧
+- [0:13:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=821s) 跟他們對於臺灣的期許
+- [0:13:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=823s) 還給的看望
+- [0:14:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=844s) 現在我們的活動正式開始
+- [0:14:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=855s) 那現在呢
+- [0:14:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=857s) 我們站到臺前照理來說
+- [0:14:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=858s) 會有一場開場音樂
+- [0:14:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=861s) 我們不放也沒關係
+- [0:14:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=864s) 但是重點一定要知道
+- [0:14:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=867s) 現在我們有很多線上上
+- [0:14:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=869s) 一起參與直播的朋友
+- [0:14:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=871s) 如果你還沒有加入我們的
+- [0:14:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=872s) 線上直播的話
+- [0:14:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=874s) 趕快推出去
+- [0:14:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=875s) 在沈柏楊的官方YT
+- [0:14:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=876s) 我們現在正在直播
+- [0:14:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=878s) 把我們這段直播分享出去
+- [0:14:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=879s) 突破同溫層
+- [0:14:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=881s) 在現在這個時刻
+- [0:14:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=883s) 我們要告訴大家
+- [0:14:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=884s) 對於臺北的想像
+- [0:14:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=886s) 對於所謂的城市生態圈
+- [0:14:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=889s) 我們已經端出來了一盤好菜
+- [0:14:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=892s) 就等你開夾
+- [0:14:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=894s) 現在在一個很重要的時刻
+- [0:14:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=896s) 我們也希望能夠讓更多人能夠看到
+- [0:14:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=898s) 所以我們也邀請到了我們的
+- [0:15:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=900s) 手語翻譯員蕭匡瑜老師
+- [0:15:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=903s) 同步的把所有現場的話語
+- [0:15:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=907s) 把它翻譯給我們所有需要的朋友聽
+- [0:15:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=910s) 所以請大家給我們熱烈的掌聲
+- [0:15:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=912s) 謝謝
+- [0:15:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=913s) 謝謝我們首以翻譯員的付出
+- [0:15:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=917s) 再來呢
+- [0:15:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=918s) 候選人最重要的政治理念
+- [0:15:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=920s) 事實上是無數無數次的
+- [0:15:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=922s) 不管是我們的餐廳客廳會
+- [0:15:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=927s) 或者是我們的專業的會議
+- [0:15:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=929s) 所研討出來的
+- [0:15:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=931s) 所以就期待能夠最符合市民的需求
+- [0:15:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=934s) 那任何一條我們提出來的理念
+- [0:15:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=937s) 都有無數人的心血
+- [0:15:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=939s) 今天這些重要的人士
+- [0:15:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=941s) 通通都到了現場力挺了
+- [0:15:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=943s) 那我們等一下也要請被我呼喚到的
+- [0:15:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=946s) 這些朋友們站起來
+- [0:15:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=948s) 跟我們不管是現場
+- [0:15:50](https://www.youtube.com/watch?v=8WH53TUHS-s&t=950s) 或者是線上的朋友們打聲招呼
+- [0:15:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=952s) 那首先呢
+- [0:15:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=953s) 我們就要歡迎我們的臺北隊
+- [0:15:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=955s) 五一戰隊立法院好同事們
+- [0:15:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=958s) 跟大家打招呼
+- [0:16:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=966s) 我們的候選人陪打招呼
+- [0:16:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=968s) 非常好
+- [0:16:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=969s) 再來呢
+- [0:16:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=970s) 我們要歡迎的是我們臺北隊的
+- [0:16:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=972s) 臺北市議員夥伴們
+- [0:16:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=975s) 也是全部力挺
+- [0:16:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=977s) 力挺我們的市長沈伯洋
+- [0:16:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=981s) 跟大家打招呼
+- [0:16:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=983s) OK 再來呢
+- [0:16:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=984s) 我們要歡迎的是
+- [0:16:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=985s) 跟我們一起見證歷史
+- [0:16:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=987s) 然後一起撰寫歷史的
+- [0:16:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=989s) 我們重要的媒體人代表
+- [0:16:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=993s) 也可以跟大家打個招呼
+- [0:16:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=995s) 王顯瑜站起來跟大家打個招呼
+- [0:16:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=997s) 好 你看一定要的
+- [0:16:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1000s) 那我們接著就是社群意見領袖
+- [0:16:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1004s) 大家也紛紛到場了
+- [0:16:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1005s) 來 我們歡迎社群意見領袖
+- [0:16:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1007s) 跟大家打個招呼
+- [0:16:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1008s) 站起來跟大家打招呼
+- [0:16:50](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1010s) 訂閱你們的頻道
+- [0:16:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1012s) 幫我們把理念宣傳出去
+- [0:16:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1014s) 謝謝大家
+- [0:16:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1016s) 好 接著我們要來介紹的是
+- [0:16:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1017s) 我們非常重要的學者專家群
+- [0:17:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1021s) 謝謝你們的智慧
+- [0:17:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1023s) 也站起來跟大家打個招呼
+- [0:17:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1026s) Yeah
+- [0:17:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1032s) 那同時呢還有我們非常辛苦的競選團隊
+- [0:17:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1035s) 那稍後也會由我們的總幹事司曜來代表致謝
+- [0:17:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1039s) 那最後呢我們還是要讓大家再一次看見今天的主角
+- [0:17:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1044s) 你的市長沈柏楊跟大家打招呼
+- [0:17:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1047s) 那在沈柏楊今天正式召開他今天的這個大賽之前呢
+- [0:17:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1060s) 我們要邀請官方攝影師到這個現場
+- [0:17:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1063s) 到我們的臺上
+- [0:17:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1064s) 我們這邊呢會做一張奧斯卡等級的合照
+- [0:17:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1067s) 大家都有看到奧斯卡等級的合照
+- [0:17:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1069s) 那我們要邀請沈柏楊來中間
+- [0:17:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1071s) 來幫我們做出一個大合照的氣勢
+- [0:17:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1075s) 那我們官方攝影師有平面有電子的
+- [0:17:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1078s) 都可以到這個上面
+- [0:17:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1079s) 這一段我們是公照
+- [0:18:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1081s) 那請大家幫我拿出你們座位上的
+- [0:18:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1084s) 順的牌子
+- [0:18:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1086s) 這個順的牌子請幫我先定位
+- [0:18:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1088s) 我們平面就照一張
+- [0:18:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1090s) 不要遮住你自己的臉的
+- [0:18:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1092s) 那幫我舉這個牌子
+- [0:18:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1093s) 不要遮住臉
+- [0:18:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1094s) 手要開啟 手開啟
+- [0:18:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1096s) 太小了 手開啟
+- [0:18:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1098s) 對 好 那我們呢
+- [0:18:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1100s) 這個拍一張平面的照
+- [0:18:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1107s) 好 拍一張平面的照喔
+- [0:18:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1108s) 來 3 2 1
+- [0:18:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1110s) 請大家露恥笑
+- [0:18:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1111s) 看起來就很歡樂
+- [0:18:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1113s) 3 2 1
+- [0:18:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1117s) 好 我們比個拳頭
+- [0:18:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1121s) 好 3 2 1
+- [0:18:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1123s) OK 好 那我們請這個
+- [0:18:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1125s) 動態的官方攝影師
+- [0:18:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1127s) 我們做個 欸 還沒走
+- [0:18:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1129s) 還有你 還有你
+- [0:18:50](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1130s) 等一下
+- [0:18:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1131s) 我們這邊請大家幫我一起喊
+- [0:18:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1133s) 用心顧未來 臺北順起來
+- [0:18:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1135s) 我們3 2 1 來
+- [0:18:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1138s) 3 2 1
+- [0:18:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1139s) 用心顧未來 臺北順起來
+- [0:19:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1144s) Yeah
+- [0:19:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1146s) OK 好 謝謝
+- [0:19:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1150s) 那我們就歡迎沈柏楊回座休息一下
+- [0:19:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1153s) 那我們現在就要
+- [0:19:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1155s) 剛剛我們所說的
+- [0:19:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1157s) 我們要邀請我們的競選總部的總幹事
+- [0:19:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1160s) 我們的吳思耀委員
+- [0:19:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1161s) 來代表我們的這個競選團隊
+- [0:19:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1163s) 來幫我們致詞
+- [0:19:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1164s) 來幫我們感謝
+- [0:19:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1165s) 感謝所有人的付出
+- [0:19:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1167s) 那我們代表這個競選團隊
+- [0:19:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1169s) 來感謝大家
+- [0:19:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1181s) 現在每一場以上臺第一個
+- [0:19:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1184s) 都是要做一個動作
+- [0:19:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1187s) 我們的通關密語是什麼
+- [0:19:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1189s) 通關密語是什麼
+- [0:19:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1193s) 臺字 沈柏楊
+- [0:19:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1197s) 通關密語是什麼
+- [0:19:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1199s) 臺 百 孫 起來
+- [0:20:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1205s) 非常感謝大家
+- [0:20:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1207s) 我是團隊總幹事吳思瑤
+- [0:20:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1210s) 今天在場有我們政策組的
+- [0:20:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1213s) 焦急人陳培瑜
+- [0:20:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1215s) 大家掌聲鼓勵
+- [0:20:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1220s) 因為今天是政策願景的發布會
+- [0:20:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1223s) 那感謝大家今天都能夠齊聚在這裡
+- [0:20:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1227s) 今天是柏陽參選第90天
+- [0:20:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1231s) 距離投票也只剩109天
+- [0:20:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1235s) 在參選之前
+- [0:20:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1237s) 柏楊找了我幾次有很深刻的對話
+- [0:20:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1241s) 柏楊說 四姚姐 我要拜託你一件事
+- [0:20:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1245s) 他說
+- [0:20:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1247s) 我要講政策
+- [0:20:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1249s) 讓我講政策
+- [0:20:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1251s) 沈柏楊很清楚這場選舉的攻擊不會少
+- [0:20:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1255s) 他也很明白
+- [0:20:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1257s) 政治攻防比起講政策的論述
+- [0:21:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1261s) 都更吸睛
+- [0:21:02](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1262s) 更有火花 更有爆點
+- [0:21:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1264s) 但是沈柏楊一直堅持
+- [0:21:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1266s) 選市長就要講政策
+- [0:21:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1269s) 我非常榮幸
+- [0:21:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1271s) 是這樣一位政治工作者與我們同在
+- [0:21:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1274s) 臺北市民也很幸福
+- [0:21:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1276s) 是這樣一位未來市長
+- [0:21:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1278s) 會對市民許下承諾 對不對
+- [0:21:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1283s) 沈柏楊真的是政策控
+- [0:21:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1286s) 參選到現在剛剛講90天了
+- [0:21:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1290s) 我們大大小小的政策會議超過80多場
+- [0:21:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1293s) 請益的學者專家超過150-160位
+- [0:21:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1297s) 在這裡我代表團隊感謝大家
+- [0:21:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1301s) 民意永遠最優先
+- [0:21:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1303s) 我謝謝五一戰隊的夥伴
+- [0:21:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1306s) 給予我們中央政策的協力
+- [0:21:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1308s) 也謝謝我們市議會最強的臺北隊的戰友
+- [0:21:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1312s) 收集了臺北市民所有的寶貴的意見
+- [0:21:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1315s) 謝謝五一戰隊
+- [0:21:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1316s) 謝謝我們的市議會夥伴
+- [0:21:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1318s) 當然政策的產出需要專業者的協力
+- [0:22:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1325s) 謝謝這段時間陪著我們大大小小的會議不斷的討論
+- [0:22:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1330s) 在場我看到我們的社福專家林萬億老師
+- [0:22:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1335s) 看到我們教育領域前教育部長潘文忠部長陳東生教授
+- [0:22:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1340s) 我看到在場有很多我們的交通界的夥伴
+- [0:22:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1345s) 我們倡導人本交通 兒少 福利
+- [0:22:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1350s) 看到這麼多的兒少代表
+- [0:22:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1352s) 也看到我們林中銘建築師率領的都市空間治理的相關夥伴
+- [0:22:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1357s) 當然我們在外交領域為了落實沈柏楊的無限城
+- [0:22:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1362s) 我們前歐盟的代表李淳老師也來到現場
+- [0:22:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1366s) 還有呢
+- [0:22:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1367s) 我們更多的要重視性別的平權
+- [0:22:50](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1370s) 無數個性別工作者平權倡議者跟沈柏楊站在一起
+- [0:22:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1375s) 我再一次代表團隊謝謝所有的學者專家群
+- [0:22:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1379s) 你們都是未來臺北市政最棒的智庫
+- [0:23:02](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1382s) 謝謝你們
+- [0:23:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1383s) 當然好的政策
+- [0:23:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1388s) 好的候選人要推出去
+- [0:23:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1390s) 我們需要媒體朋友的協力
+- [0:23:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1393s) 在場也有非常多的媒體工作者
+- [0:23:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1397s) 有我們的時事觀察員
+- [0:23:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1399s) 還有我們社群的意見領袖
+- [0:23:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1402s) 再一次感謝大家
+- [0:23:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1404s) 發揮你們的影響力
+- [0:23:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1406s) 沈伯洋的知名度還差一點點
+- [0:23:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1409s) 透過大家的協助
+- [0:23:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1411s) 我相信 柏楊的好政策
+- [0:23:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1413s) 可以推廣散佈到臺北的每一個角落
+- [0:23:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1418s) 最後呢
+- [0:23:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1420s) 無限多的感謝
+- [0:23:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1423s) 無限多的期許
+- [0:23:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1425s) 政策就是一切的原點
+- [0:23:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1428s) 選市長就要講政策
+- [0:23:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1431s) 選柏楊準備好了
+- [0:23:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1433s) 臺北市民我們一起來拭目以待
+- [0:23:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1437s) 現在就把寶貴的時間
+- [0:24:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1440s) 交給我們未來的市長
+- [0:24:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1443s) 沈柏楊
+- [0:24:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1444s) 喔
+- [0:24:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1455s) 我們現在呢 學者的專家代表
+- [0:24:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1458s) 都要幫我們來推薦一下
+- [0:24:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1460s) 對 我錯了
+- [0:24:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1462s) 不要讓大家知道
+- [0:24:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1464s) 我剛剛這樣子大家就不會知道
+- [0:24:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1466s) 我們邀請一下
+- [0:24:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1468s) 我們的這個第一位
+- [0:24:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1469s) 我們的學者專家代表
+- [0:24:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1471s) 來上臺幫我們講幾句話
+- [0:24:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1472s) 因為柏楊
+- [0:24:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1474s) 柏楊一直在cue我
+- [0:24:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1475s) 她準備好了
+- [0:24:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1477s) 當然
+- [0:24:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1478s) 所以我以為她要上臺了
+- [0:24:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1480s) 是的
+- [0:24:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1481s) 她隨時準備上臺
+- [0:24:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1482s) 就等大家給個機會
+- [0:24:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1484s) 因為她的眼神
+- [0:24:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1485s) 因為漏了一個Round Down我的錯
+- [0:24:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1487s) 沒有問題
+- [0:24:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1489s) 好 這一段
+- [0:24:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1489s) 來直播就沒有辦法卡掉
+- [0:24:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1491s) 沒有關係
+- [0:24:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1492s) 大家不要結成短影音
+- [0:24:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1496s) 剛剛講到
+- [0:24:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1497s) 非常多不同領域的協力者
+- [0:25:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1500s) 豐富了沈伯洋的市政的拼圖
+- [0:25:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1503s) 也豐富了臺北市民
+- [0:25:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1504s) 對這座城市的想像
+- [0:25:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1506s) 今天我們邀請到三位推薦者
+- [0:25:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1510s) 作為沈柏楊政策的一個最大的協力者
+- [0:25:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1515s) 我首先來邀請第一位
+- [0:25:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1517s) 對於臺北的城市治理
+- [0:25:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1520s) 城市的想像
+- [0:25:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1521s) 他的行動永遠沒有停止
+- [0:25:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1524s) 我們都市規劃界
+- [0:25:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1525s) 大家的好朋友
+- [0:25:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1527s) 中華民國傑出建築師
+- [0:25:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1528s) 歡迎林周明
+- [0:25:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1530s) 讓我們歡迎政策推薦人
+- [0:25:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1532s) 林中銘 建築師
+- [0:25:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1539s) 大家好
+- [0:25:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1541s) 柏陽的政見到位 完整 可行
+- [0:25:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1547s) 我從三個身分來講
+- [0:25:50](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1550s) 第一 我是資深臺北市民
+- [0:25:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1556s) 我看到柏陽清楚地把空間治理
+- [0:26:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1564s) 到市政的整合
+- [0:26:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1569s) 一一的敘述
+- [0:26:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1571s) 短短的一百天
+- [0:26:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1573s) 非常完整
+- [0:26:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1575s) 第二
+- [0:26:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1577s) 我的身分
+- [0:26:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1578s) 我是個四歲女兒的爸爸
+- [0:26:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1582s) 我看到我們的下一代跟下下一代
+- [0:26:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1587s) 柏楊說我們需要有安全的人行路徑
+- [0:26:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1595s) 這是最基本的
+- [0:26:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1596s) 當然 誘教到整體的教育系統
+- [0:26:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1602s) 第三 我是建築師
+- [0:26:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1605s) 我全年全時關心臺北市的都市設計的尺度跟推動
+- [0:26:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1617s) 柏楊的政見非常的完整
+- [0:27:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1621s) 不只談北市歌
+- [0:27:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1624s) 我們談的是資產研、北市科、大故宮
+- [0:27:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1631s) 以及整個綠帶的相連
+- [0:27:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1636s) 不只談藝文
+- [0:27:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1638s) 我們談的是建國高架
+- [0:27:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1641s) 一路串聯起來的劍皮
+- [0:27:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1645s) 一直到殷途以及花式浴室
+- [0:27:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1651s) 結論 我們值得一個好市長
+- [0:27:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1657s) 那就是沈柏楊
+- [0:27:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1659s) 柏楊加油 臺北加油 臺灣加油
+- [0:27:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1662s) 謝謝大家
+- [0:27:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1664s) 謝謝 我們再次的感謝這個林中銘建築師
+- [0:27:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1667s) 接著我們還有另外一個跨領域的代表
+- [0:27:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1671s) 中銘建築師你的稿應該更長
+- [0:27:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1674s) 應該是被我剛剛的這個也影響到了
+- [0:27:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1677s) 我的錯
+- [0:27:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1678s) 第二位推薦人
+- [0:28:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1680s) 臺北是一座彩色的城市
+- [0:28:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1683s) 柏楊對話的每一個市民不分藍綠白
+- [0:28:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1686s) 都是我們讓臺北更好的夥伴
+- [0:28:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1689s) 我們用溫暖的掌聲來歡迎
+- [0:28:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1691s) 我們的資深媒體觀察家
+- [0:28:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1694s) 我們永遠的吳崑玉老師
+- [0:28:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1705s) 嗨 各位好 我不知道為什麼會站在這裡
+- [0:28:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1709s) 可能是因為是橘色的
+- [0:28:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1713s) 我們橘軍強勢回歸
+- [0:28:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1719s) 我到這邊來 今天來這邊
+- [0:28:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1722s) 與其說是推薦沈柏楊
+- [0:28:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1725s) 那不如說
+- [0:28:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1727s) 我是以一個臺北市民的
+- [0:28:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1731s) 角度來陳情的
+- [0:28:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1734s) 我雖然現在住在中和 但是我是老臺北
+- [0:28:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1738s) 那麼我們想要陳情什麼事情呢
+- [0:29:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1740s) 我只希望有一件事
+- [0:29:02](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1742s) 我現在是一個旁觀者
+- [0:29:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1744s) 我現在已經不是政治工作者
+- [0:29:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1747s) 那麼作為一個旁觀者
+- [0:29:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1749s) 作為一個臺北市民
+- [0:29:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1751s) 我只希望這個城市正常一點
+- [0:29:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1755s) 正常就好
+- [0:29:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1759s) 順起來就是讓他正常一點
+- [0:29:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1764s) 正常一點呢
+- [0:29:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1766s) 因為臺北市已經兩任市長
+- [0:29:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1769s) 應該算是三任
+- [0:29:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1771s) 都不是很正常
+- [0:29:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1773s) 我們很頭痛
+- [0:29:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1775s) 該做的事情不做
+- [0:29:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1777s) 不該做的事情他拼命亂喊
+- [0:29:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1781s) 那麼核心問題是什麼
+- [0:29:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1783s) 核心問題其實都跟大家想的不一樣
+- [0:29:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1787s) 他不是什麼黨派 什麼人
+- [0:29:50](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1790s) 他的核心問題叫管理
+- [0:29:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1792s) 那麼我們一直很care 我一直很care
+- [0:29:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1796s) 一個城市的管理問題
+- [0:29:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1798s) 也就是說你正常的事情 你都做不好
+- [0:30:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1801s) 我們把事情做對
+- [0:30:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1805s) 然後才能夠去做對的事情
+- [0:30:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1808s) 要不然的話 你想了很多對的事情
+- [0:30:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1811s) 也沒有辦法把事情做對
+- [0:30:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1813s) 可是現在的問題 就是很基本的工作
+- [0:30:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1815s) 什麼淹水啦
+- [0:30:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1817s) 虐餓啦 這些相關的管理工作
+- [0:30:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1820s) 全部都是一盤散沙
+- [0:30:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1823s) 這才是我們臺北市現在最嚴重的問題
+- [0:30:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1826s) 我們認識柏楊有一陣子了
+- [0:30:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1829s) 我一直覺得
+- [0:30:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1831s) 我們這些搞軍事戰略的人
+- [0:30:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1833s) 都是不正常的
+- [0:30:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1835s) 結果我發現
+- [0:30:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1837s) 這幾年來
+- [0:30:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1839s) 尤其是這一屆立法院以來
+- [0:30:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1841s) 我發現我們太正常了
+- [0:30:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1843s) 正常到很難適應這個不太正常的社會
+- [0:30:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1848s) 所以我們希望博洋能夠當選
+- [0:30:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1852s) 能夠讓這個城市稍微正常一點
+- [0:30:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1855s) 好 謝謝各位
+- [0:30:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1856s) 我們再次謝謝坤宇老師
+- [0:31:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1860s) 謝謝坤宇老師的幽默
+- [0:31:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1863s) 把今天的政策發布會
+- [0:31:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1865s) 馬上就變成脫口秀的現場
+- [0:31:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1868s) 我們也希望臺北真的順起來
+- [0:31:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1871s) 我們在這裡順心順意
+- [0:31:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1874s) 接下來這一位來自於文化界
+- [0:31:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1877s) 他長期跟著我們的公民夥伴站在一起
+- [0:31:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1881s) 即便遭受了很多不平等的對待
+- [0:31:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1885s) 他永遠挺在最前線
+- [0:31:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1888s) 歡迎我們的金馬導演楊立洲導演
+- [0:31:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1899s) 謝謝大家
+- [0:31:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1902s) 我自己在學校教書
+- [0:31:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1903s) 然後我也是一個拍紀錄片的導演
+- [0:31:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1907s) 我們一直都在記錄真實的世界
+- [0:31:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1909s) 然後也去挖掘這個世界
+- [0:31:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1911s) 非常美好的事情
+- [0:31:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1913s) 那在跟柏楊市長在聊天的時候
+- [0:31:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1916s) 在討論政策的時候
+- [0:31:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1918s) 我發現他其實是非常清楚的
+- [0:32:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1920s) 他明白影像工作其實
+- [0:32:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1924s) 就像在形塑我們整個城市
+- [0:32:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1926s) 的家庭的相本
+- [0:32:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1929s) 我們的家庭相本裡面會記載
+- [0:32:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1930s) 我們整個成長過程
+- [0:32:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1932s) 我們是怎麼長大的
+- [0:32:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1933s) 我們碰到什麼樣驕傲的事情
+- [0:32:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1937s) 甚至不堪的事情
+- [0:32:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1938s) 都應該放在相本裡面
+- [0:32:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1940s) 一直以來一個紀錄片導演
+- [0:32:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1942s) 紀錄片創作者都是站在權力者的對面
+- [0:32:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1947s) 我們會想要去透過形塑這樣的一個相本
+- [0:32:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1951s) 是因為我們知道這個城市的偉大
+- [0:32:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1954s) 跟高樓大廈一點關係都沒有
+- [0:32:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1956s) 跟它是不是願意回望
+- [0:32:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1958s) 我們自己成長的過程
+- [0:32:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1960s) 是最重要的
+- [0:32:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1962s) 柏楊市長當然要更明白
+- [0:32:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1964s) 作為一個市長
+- [0:32:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1966s) 他面對這些影像工作者
+- [0:32:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1969s) 他知道他們不是一群要飯的
+- [0:32:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1973s) 他們不會用這種羞辱的語言
+- [0:32:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1975s) 去貼在他們的身上
+- [0:32:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1977s) 他們會知道
+- [0:32:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1979s) 這些影像工作者
+- [0:33:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1981s) 他們其實會在最重要的時候
+- [0:33:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1983s) 為這個城市
+- [0:33:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1984s) 留下最重要的視覺的經驗
+- [0:33:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1987s) 在跟他對談
+- [0:33:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1989s) 討論的過程當中
+- [0:33:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1990s) 我發現他非常清楚
+- [0:33:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1992s) 他知道 尊重這些影像工作者
+- [0:33:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1995s) 讓這些影像工作者
+- [0:33:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1997s) 能夠成為這個城市
+- [0:33:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=1999s) 最重要的一個所在
+- [0:33:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2001s) 所以我在這邊
+- [0:33:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2002s) 非常非常誠摯的推薦
+- [0:33:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2004s) 沈柏楊市長
+- [0:33:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2005s) 因為他在這一群
+- [0:33:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2008s) 臺北市是最多大概佔50%的
+- [0:33:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2011s) 文化影像工作者
+- [0:33:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2012s) 被羞辱的時候
+- [0:33:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2014s) 他是站出來力挺的
+- [0:33:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2016s) 他並不像現任的市長
+- [0:33:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2018s) 什麼話都沒有說
+- [0:33:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2020s) 謝謝各位 謝謝
+- [0:33:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2022s) 再次謝謝立洲導演
+- [0:33:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2024s) 他始終的站在弱勢
+- [0:33:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2026s) 站在社會觀察的第一面
+- [0:33:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2028s) 所以他的推薦可以相信
+- [0:33:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2031s) 只有文化可以讓一座城市偉大
+- [0:33:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2035s) 謝謝楊導 長期以來用他的鏡頭
+- [0:33:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2038s) 捕捉了臺灣最動人的故事
+- [0:34:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2040s) 而沈伯洋未來的每一天
+- [0:34:02](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2042s) 會用他的行動
+- [0:34:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2045s) 來讓這座城市順起來
+- [0:34:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2047s) 讓臺北更好
+- [0:34:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2048s) 現在是真的了
+- [0:34:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2050s) 現在真的要Cue男主角了
+- [0:34:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2052s) 剛剛那個完全是脫口秀的效果
+- [0:34:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2056s) 大家記得
+- [0:34:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2057s) 好 大家等待了很久
+- [0:34:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2059s) 我們就用最溫暖的心情
+- [0:34:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2062s) 來歡迎臺北未來的市長 沈柏楊
+- [0:34:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2067s) 想要臺北成為一個為人設定有溫度的城市
+- [0:34:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2073s) 讓沈柏楊為您帶來感性的事件深愛心
+- [0:34:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2076s) 哈囉哈囉
+- [0:34:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2087s) 各位現場的朋友
+- [0:34:50](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2090s) 還有各位直播前的市民朋友
+- [0:34:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2093s) 大家好 我是沈柏楊
+- [0:34:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2095s) 謝謝
+- [0:35:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2103s) 上個禮拜我發布了競選的主視覺
+- [0:35:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2107s) 叫做臺北順起來
+- [0:35:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2109s) 那一直有記者朋友問我說
+- [0:35:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2111s) 為什麼用順這個字
+- [0:35:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2113s) 我就說因為臺北真的卡住了
+- [0:35:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2117s) 因為我們早上交通卡住了
+- [0:35:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2120s) 下個雨水溝卡住了
+- [0:35:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2123s) 我們這個小孩受虐要通報
+- [0:35:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2126s) 通報也卡住了
+- [0:35:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2128s) 長輩想申請電梯
+- [0:35:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2130s) 結果就卡在一道一道的程式
+- [0:35:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2134s) 1999陳情說這個街頭好髒亂啊
+- [0:35:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2138s) 我想要整理啊
+- [0:35:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2139s) 市政也卡住了
+- [0:35:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2141s) 但臺北是整個臺灣資源最豐厚
+- [0:35:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2146s) 最多學校 最高預算的地方
+- [0:35:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2149s) 但現在住在這裡的人
+- [0:35:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2152s) 都有一個感受 就是卡住了
+- [0:35:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2155s) 但是我們說真的 我們每一天都很努力
+- [0:35:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2158s) 我們努力地在捷運擁擠的人潮中站穩
+- [0:36:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2163s) 我們也努力地在垃圾車要走掉之前
+- [0:36:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2165s) 要趕快趕去倒垃圾
+- [0:36:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2167s) 我們努力地把小孩送出門
+- [0:36:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2170s) 然後就擔心一整天又怕他受害
+- [0:36:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2173s) 那好不容易抬起頭
+- [0:36:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2175s) 然後看一下天空
+- [0:36:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2177s) 就看到都是鐵皮屋頂
+- [0:36:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2179s) 所以我們的力氣
+- [0:36:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2181s) 全部都用在繞過這個城市卡住的地方
+- [0:36:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2184s) 那臺北的市民這麼的努力
+- [0:36:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2187s) 但是臺北的市政卻沒有趕上市民的努力
+- [0:36:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2191s) 說真的喔
+- [0:36:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2193s) 市政府不是沒有做事喔
+- [0:36:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2195s) 樹生病了就砍掉了
+- [0:36:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2197s) 然後這個淹水了就發沙包嘛
+- [0:36:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2200s) 出事了之後呢就趕快開罰單
+- [0:36:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2203s) 所以我們的市政府現在
+- [0:36:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2205s) 就只剩下一個貼OK蹦的能力
+- [0:36:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2208s) 但是說真的城市治理真的不能只靠OK蹦
+- [0:36:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2213s) 臺北需要的是一整個市政的生態系
+- [0:36:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2217s) 要一個有規劃的
+- [0:36:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2219s) 能夠聽能夠接能夠規劃
+- [0:37:02](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2222s) 接住每一個市民的市政府
+- [0:37:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2225s) 所以我今天的目的
+- [0:37:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2226s) 就是我希望能夠把這個規劃
+- [0:37:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2228s) 完整的交給大家
+- [0:37:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2231s) 那決定參選以來
+- [0:37:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2233s) 大家可以看到
+- [0:37:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2234s) 我分析了三百多萬筆的1999的資料
+- [0:37:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2238s) 我們整理了過去將近四年
+- [0:37:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2240s) 不分政黨的所有議員的質詢
+- [0:37:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2243s) 大家可以看到我也參加了Innovax
+- [0:37:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2245s) 我去了北市科
+- [0:37:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2247s) 我去了解各式各樣不同的產業的需求
+- [0:37:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2250s) 我參與了非常多的親子活動啊
+- [0:37:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2253s) 家長的座談啊
+- [0:37:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2255s) 然後我也走遍了臺北12個行政區
+- [0:37:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2258s) 在市場前啊
+- [0:37:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2259s) 在宮廟的香爐邊啊
+- [0:37:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2261s) 在教會的演講廳啊
+- [0:37:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2264s) 聽著一個一個的陳情
+- [0:37:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2266s) 然後看著一封一封的陳情信
+- [0:37:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2269s) 所以我真的聽到了非常多的故事
+- [0:37:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2272s) 所以今天
+- [0:37:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2273s) 我想要把這個故事
+- [0:37:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2275s) 濃縮成這五個問題
+- [0:37:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2277s) 這五個問題呢
+- [0:37:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2278s) 對應了我對臺北的五個願景
+- [0:38:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2281s) 啊這五個問題是連動的
+- [0:38:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2283s) 因為這才叫做生態系
+- [0:38:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2285s) 它的問題是環環相扣的
+- [0:38:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2287s) 它的答案也是環環相扣的
+- [0:38:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2290s) 這五個問題你可能
+- [0:38:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2292s) 你應該一定遇過任何的其中一個
+- [0:38:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2295s) 或者你愛的人也卡在其中一個
+- [0:38:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2298s) 所以接下來我花點時間來跟大家介紹這五個願景
+- [0:38:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2303s) 第一個 空間
+- [0:38:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2305s) 我想問問大家臺北是不是越來越熱了
+- [0:38:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2309s) 臺北的天際線是不是變成鐵皮的顏色
+- [0:38:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2314s) 臺北的山其實明明是很近喔
+- [0:38:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2317s) 但有時候入口感覺又很遠
+- [0:38:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2319s) 更不要講臺北的河
+- [0:38:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2321s) 不像賽納河也不像多瑙河
+- [0:38:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2324s) 但我們明明有那麼多河川的交會
+- [0:38:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2326s) 但我們的河川又離我們好遠
+- [0:38:50](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2330s) 所以就是不管是熱
+- [0:38:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2333s) 不管是醜
+- [0:38:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2334s) 不管是山水的清淨
+- [0:38:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2336s) 這看起來呢 是好幾件事情
+- [0:38:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2339s) 但其實它從頭到尾都是一件事情
+- [0:39:02](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2342s) 就是臺北的空間卡住了
+- [0:39:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2345s) 所以 我要從你離你最近的地方一路做出去
+- [0:39:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2350s) 首先 我要從家開始
+- [0:39:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2354s) 我要先推動 當然婚育宅 青年宅
+- [0:39:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2357s) 要讓在臺北成家的人是有辦法住得下來
+- [0:39:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2361s) 接著最重要的 我相信很多人關心的
+- [0:39:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2364s) 我們要把臺北市的樹種回來
+- [0:39:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2371s) 我們的綠蔭的覆蓋率
+- [0:39:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2374s) 我們住宅旁的公園綠地都要增加
+- [0:39:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2377s) 再來我們的兩河流域計畫
+- [0:39:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2380s) 我們的淡水河 基隆河 清淤 清水設施一起做
+- [0:39:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2385s) 有些城市都可以把它的河整治到可以下水
+- [0:39:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2389s) 臺北有資源有心一定做得到
+- [0:39:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2392s) 再來我們之前提過的山林計畫
+- [0:39:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2395s) 我們要把散落的山徑串起來
+- [0:39:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2398s) 讓臺北真的成為亞洲第一登山城
+- [0:40:02](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2402s) 從爬山的背品
+- [0:40:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2404s) 從路線的標記
+- [0:40:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2406s) 從爬完山的簡單的鞋子的清理
+- [0:40:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2409s) 只要把這些準備好
+- [0:40:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2411s) 臺北的山 臺北的河
+- [0:40:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2413s) 一定是世界首去一指
+- [0:40:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2415s) 接下來我們還需要三條不同的歷史步道
+- [0:40:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2419s) 從貝種到明治橋到茅廠町到眷村
+- [0:40:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2424s) 還有最重要的我們浪漫臺三線
+- [0:40:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2427s) 我們客家人在臺北五六十萬人
+- [0:40:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2430s) 真正我們的客家的起點
+- [0:40:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2432s) 應該是在臺北才對
+- [0:40:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2434s) 而我們這邊當然也要放進城市最重要的靈魂
+- [0:40:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2437s) 從城市的博物館
+- [0:40:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2439s) 到二十四小時的數位的圖書館
+- [0:40:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2442s) 到大中小型的運動跟音樂的場館
+- [0:40:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2445s) 從剛剛講的建國高家
+- [0:40:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2447s) 到市民大道 形成全新的廊道
+- [0:40:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2451s) 所以 從你住的地方
+- [0:40:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2453s) 從門口的那棵樹
+- [0:40:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2455s) 到整條的河岸
+- [0:40:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2457s) 到環抱臺北的那個山
+- [0:40:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2459s) 一直到臺北的歷史
+- [0:41:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2461s) 臺北的文化
+- [0:41:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2463s) 臺北的運動
+- [0:41:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2465s) 臺北的藝文場所
+- [0:41:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2467s) 我們要讓空間整個重新建立起來
+- [0:41:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2470s) 所以我 沈柏楊
+- [0:41:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2472s) 以後作為臺北市長
+- [0:41:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2474s) 我要先把空間還給臺北人
+- [0:41:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2483s) 接下來第二個是時間
+- [0:41:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2486s) 我遇過一對夫妻
+- [0:41:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2491s) 他和先生兩個都是責任制
+- [0:41:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2493s) 他就給我看他們的Line
+- [0:41:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2495s) 每天最常出現的一句話就是
+- [0:41:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2497s) 你幾點要下班
+- [0:41:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2499s) 其實不是要約會
+- [0:41:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2500s) 他是要喬
+- [0:41:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2501s) 他說今天要誰接小孩
+- [0:41:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2503s) 他們的生活是沒有辦法容錯的
+- [0:41:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2506s) 如果小孩發燒啊
+- [0:41:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2508s) 長輩不舒服啊
+- [0:41:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2509s) 夫妻同時加班啊
+- [0:41:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2511s) 只要任何有一件事發生
+- [0:41:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2513s) 那一整天都要重新喬
+- [0:41:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2515s) 所以他們說每一天都像拉到很緊的橡皮筋
+- [0:41:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2519s) 而且他們以前很愛路跑
+- [0:42:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2521s) 下班回家 回去放個東西
+- [0:42:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2523s) 換個衣服 出門跑步
+- [0:42:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2525s) 跑完再回家再洗個澡
+- [0:42:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2527s) 換個衣服有可能回去工作
+- [0:42:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2529s) 有可能去跟朋友聚餐
+- [0:42:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2531s) 但這個跑步本身可能還沒有多久
+- [0:42:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2533s) 來來回回可能也超過一個小時
+- [0:42:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2536s) 當了家長之後
+- [0:42:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2538s) 現在連這一個小時都擠不出來
+- [0:42:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2540s) 所以
+- [0:42:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2542s) 除了單純的彈性工時
+- [0:42:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2544s) 勞動政策等等之外
+- [0:42:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2546s) 在中央的政策之上
+- [0:42:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2548s) 我還在做幾件事
+- [0:42:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2550s) 第一個就是家長喘息的服務
+- [0:42:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2552s) 每個家庭都應該
+- [0:42:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2554s) 要有固定的臨託的時數
+- [0:42:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2556s) 從大型的場館
+- [0:42:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2558s) 藝文的場館
+- [0:42:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2560s) 我們要擴大那個臨託
+- [0:42:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2562s) 讓每個家長在每個禮拜
+- [0:42:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2564s) 一段時間它可以是完整的
+- [0:42:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2566s) 它可以縮小黃色的部分的時間
+- [0:42:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2569s) 再來第二個我們的運動議戰
+- [0:42:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2572s) 我們在捷運站
+- [0:42:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2574s) 我們在登山口
+- [0:42:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2575s) 我們在公園
+- [0:42:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2577s) 就能夠計務
+- [0:42:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2578s) 能夠換裝
+- [0:43:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2580s) 能夠灌洗
+- [0:43:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2581s) 那就可以把來來回回的那一小時省下來
+- [0:43:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2585s) 我們就可以讓運動加入到
+- [0:43:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2587s) 每個人回家的那條路上
+- [0:43:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2590s) 再來,我們也要推出第二種T-Pass
+- [0:43:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2594s) 簡單來講,原本的T-Pass之外
+- [0:43:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2597s) 還有一個是加入共享電動機車的T-Pass
+- [0:43:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2601s) 這樣我們就可以讓所有我們的交通路網的最後一里路建立起來
+- [0:43:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2606s) 而松山到內湖的最後一里路的腳踏車通行
+- [0:43:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2610s) 我們也要把它做起來
+- [0:43:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2611s) 所以呢,這些全部建立起來之後
+- [0:43:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2614s) 我們的上班族就不用每天再多花20分鐘在那邊轉車啊
+- [0:43:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2619s) 在那邊等待
+- [0:43:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2620s) 所以當然還有很多的政策
+- [0:43:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2623s) 但這些政策不斷的疊加起來
+- [0:43:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2625s) 我的目標其實非常的具體
+- [0:43:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2627s) 就是每一天要為臺北人先省下30分鐘
+- [0:43:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2631s) 這30分鐘可以陪孩子讀完一本書
+- [0:43:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2635s) 可以追一集劇 這個動畫
+- [0:43:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2638s) 也可以打給很久沒有聯絡的朋友
+- [0:44:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2640s) 好好的說說話
+- [0:44:02](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2642s) 所以作為臺北市長
+- [0:44:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2644s) 我要把時間還給臺北人
+- [0:44:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2648s) 但是 空間有了 時間也有了
+- [0:44:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2659s) 這樣臺北就會順起來嗎
+- [0:44:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2661s) 還不會啦 沒有那麼簡單
+- [0:44:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2664s) 我念的是社會生態學
+- [0:44:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2666s) 我一輩子做的研究都是在研究這系統為什麼會失靈
+- [0:44:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2671s) 工程的邏輯 我們要編預算 我們要蓋建設
+- [0:44:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2675s) 但生態系的邏輯不一樣
+- [0:44:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2677s) 生態系的邏輯是建設蓋好了之後
+- [0:44:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2680s) 我們還要有人能夠走得進去
+- [0:44:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2683s) 所以當我們把場館蓋好了
+- [0:44:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2685s) 我們把空間銜接了
+- [0:44:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2687s) 大家的時間也省出來了
+- [0:44:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2689s) 但我們也要長輩願意出門
+- [0:44:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2691s) 我們要父母願意放手
+- [0:44:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2693s) 我們要年輕人回得來
+- [0:44:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2695s) 所以這樣才會形成市政的生態系
+- [0:44:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2699s) 所以臺北如果要順起來
+- [0:45:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2701s) 還有兩個問題要解決
+- [0:45:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2703s) 所以在這邊第三個我要提到的
+- [0:45:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2705s) 就是我們城市的陪伴系統
+- [0:45:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2709s) 臺北有八萬多棟30年以上的房子
+- [0:45:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2714s) 沒有電梯的老公寓
+- [0:45:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2716s) 30年加上沒有電梯八萬多棟
+- [0:45:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2719s) 有將近六成的長輩是住在這些沒有電梯的家裡
+- [0:45:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2723s) 這樓梯也很窄啊
+- [0:45:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2725s) 扶手鬆了啊
+- [0:45:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2726s) 燈泡可能壞了
+- [0:45:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2728s) 沒有人換啊
+- [0:45:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2729s) 蔣市長在上任的時候
+- [0:45:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2731s) 他承諾要幫這些來加裝電梯
+- [0:45:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2734s) 三年過去了
+- [0:45:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2735s) 八萬多棟的老公寓
+- [0:45:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2737s) 申請的案件到去年底
+- [0:45:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2739s) 只有78件
+- [0:45:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2741s) 連千分之一都不到
+- [0:45:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2743s) 問題出在哪裡呢?
+- [0:45:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2745s) 其實也不是說長輩不需要
+- [0:45:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2747s) 而是那個申請檔案掛在網路上
+- [0:45:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2749s) 對很多阿公阿嬤來講
+- [0:45:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2751s) 那個比家裡的樓梯都還要來得更陡
+- [0:45:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2753s) 所以
+- [0:45:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2755s) 我要當市長的時候
+- [0:45:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2757s) 老宅延壽計畫
+- [0:45:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2759s) 我們除了跟中央權力合作之外
+- [0:46:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2761s) 我們不會
+- [0:46:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2763s) 坐在辦公室裡面
+- [0:46:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2765s) 等別人來申請了
+- [0:46:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2767s) 我們要成立行動服務團
+- [0:46:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2769s) 我們要把政府的服務
+- [0:46:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2771s) 送到每一個人的門口
+- [0:46:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2773s) 我們要讓大家知道
+- [0:46:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2774s) 老宅延壽到底在做什麼
+- [0:46:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2777s) 而且不是隻有這樣
+- [0:46:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2778s) 我們要把健身的服務
+- [0:46:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2780s) 也送到家門口
+- [0:46:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2782s) 我們的健身小巴
+- [0:46:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2783s) 到廟宇
+- [0:46:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2784s) 到公園
+- [0:46:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2785s) 到社群
+- [0:46:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2786s) 搭個帳篷
+- [0:46:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2788s) 健身教練一下來
+- [0:46:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2789s) 大家離家裡300公尺500公尺
+- [0:46:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2792s) 就可以直接健身
+- [0:46:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2794s) 那問題是 那錢拿來呢
+- [0:46:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2796s) 不用擔心
+- [0:46:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2797s) 我們的勁勞卡也要跟著升級
+- [0:46:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2800s) 我們的勁勞卡升級之後呢
+- [0:46:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2802s) 就可以用在健身小巴
+- [0:46:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2804s) 也可以用在藝文的表演
+- [0:46:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2806s) 再搭配我之前推出的親子同行卡
+- [0:46:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2809s) 不管是家長 不管是長輩
+- [0:46:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2812s) 帶著小孩到商圈
+- [0:46:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2814s) 卡片刷在商圈 刷在社群
+- [0:46:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2817s) 這個金錢就留在當地的商圈
+- [0:47:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2820s) 而我們還要再擴大社群的共造據點
+- [0:47:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2824s) 讓市民就有機會在裡面坐一坐啊
+- [0:47:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2828s) 聊聊家常啊 聊聊人生啊
+- [0:47:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2831s) 年輕人在那邊來形成羈絆啊
+- [0:47:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2833s) 老年人在那邊可以來傳承記憶啊
+- [0:47:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2837s) 當然家長的陪伴我們也不會缺席
+- [0:47:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2840s) 家長的1999會上線
+- [0:47:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2842s) 我們就不要讓家長那些抱怨
+- [0:47:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2845s) 還有家長那些求助的那個電話
+- [0:47:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2848s) 被卡在大量的交通跟衛生的電話裡面
+- [0:47:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2853s) 所以家長獨立出來
+- [0:47:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2854s) 有獨立的專線為家長服務
+- [0:47:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2857s) 然後我們擴增家庭教育中心
+- [0:47:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2859s) 讓孩子在18歲以前
+- [0:47:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2861s) 市政府就做他的靠山
+- [0:47:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2864s) 更不要忘記我們的城市還有公務人員啊
+- [0:47:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2867s) 還有教師啊
+- [0:47:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2868s) 所以他們的多元的身心的支援方案
+- [0:47:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2871s) 他們的職場環境如何改善
+- [0:47:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2874s) 如何減輕他們的壓力
+- [0:47:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2875s) 這個才會是這個城市的未來
+- [0:47:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2878s) 所以 孤獨是我這幾年
+- [0:48:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2881s) 在研究市政的時候
+- [0:48:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2883s) 最放不下的兩個字
+- [0:48:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2884s) 因為就說真的孤獨
+- [0:48:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2885s) 就是每個人都會孤獨
+- [0:48:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2887s) 但是我們又很少
+- [0:48:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2889s) 把孤獨這兩個字講出口
+- [0:48:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2891s) 但是我認為偉大的城市
+- [0:48:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2894s) 它不會讓任何一個人
+- [0:48:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2896s) 覺得自己是一個人
+- [0:48:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2898s) 所以從我們的行動服務團
+- [0:48:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2901s) 從我們擴大社群的公召
+- [0:48:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2903s) 到我們勁勞卡跟親子通行卡的
+- [0:48:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2905s) 減速的誘因
+- [0:48:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2906s) 就像行為經濟學一樣
+- [0:48:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2908s) 給予每個人推力
+- [0:48:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2909s) 讓大家更願意出門
+- [0:48:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2911s) 讓大家有機會可以相處
+- [0:48:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2914s) 讓大家實質的在公務上減壓
+- [0:48:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2917s) 在這邊呢
+- [0:48:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2918s) 我當上臺北市長
+- [0:48:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2919s) 我要把陪伴還給臺北人
+- [0:48:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2929s) 再來我要講第四個問題了
+- [0:48:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2932s) 說真的
+- [0:48:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2933s) 空間好不容易把它改造完了
+- [0:48:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2935s) 時間大家也省下來了
+- [0:48:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2937s) 我們陪伴也變多了
+- [0:48:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2939s) 大家也比較願意出門了
+- [0:49:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2941s) 在商圈也能夠消費了
+- [0:49:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2943s) 但是人出門了
+- [0:49:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2945s) 手上有點數了
+- [0:49:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2947s) 街上也有人吵了
+- [0:49:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2949s) 店家有生意了
+- [0:49:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2951s) 商圈可能會擴大
+- [0:49:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2953s) 所以也有人會想說
+- [0:49:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2955s) 那我要來這邊開一家店
+- [0:49:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2957s) 但問題來了
+- [0:49:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2959s) 需求有了 但供給在哪裡
+- [0:49:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2961s) 真正的生態系
+- [0:49:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2963s) 我們需要新的店面
+- [0:49:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2965s) 我們需要新的夢想
+- [0:49:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2967s) 所以為了要達到這個攻擊
+- [0:49:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2969s) 一個城市更重要的是
+- [0:49:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2971s) 我們要給予這個城市的人更多的機會
+- [0:49:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2975s) 所以大家想想看
+- [0:49:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2976s) 尤其是年輕的朋友們
+- [0:49:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2978s) 有多久沒有認真談過自己的夢想
+- [0:49:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2982s) 我認識很多的年輕人
+- [0:49:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2984s) 白天做一份工作
+- [0:49:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2986s) 晚上才有機會做自己有興趣
+- [0:49:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2988s) 自己有夢想的那一份工作
+- [0:49:50](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2990s) 所以他其實很清楚自己要什麼
+- [0:49:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2992s) 但是存款就不允許
+- [0:49:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2994s) 現在AI又來了
+- [0:49:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2996s) 他還要擔心說
+- [0:49:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2997s) 那我白天那個工作如果被AI取代
+- [0:49:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=2999s) 那要怎麼辦
+- [0:50:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3001s) 所以為了要解決這個問題
+- [0:50:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3003s) 首先我要成立城市基金
+- [0:50:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3006s) 而且要擴大青年的圓夢基金
+- [0:50:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3008s) 我要讓臺北市的年輕人
+- [0:50:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3010s) 有做夢的本錢
+- [0:50:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3012s) 有他的第一桶金
+- [0:50:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3013s) 而且在擴大圓夢基金之下
+- [0:50:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3015s) 可以讓臺北的孩子
+- [0:50:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3017s) 更多的出國去學習知識
+- [0:50:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3019s) 再把世界的答案帶回來
+- [0:50:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3021s) 光有這些本錢是不夠的喔
+- [0:50:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3023s) 才華要出口嘛
+- [0:50:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3025s) 所以市政府每年的採購
+- [0:50:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3027s) 也要保留一份給這些青年的新創
+- [0:50:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3030s) 讓年輕的團隊
+- [0:50:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3032s) 他的人生的第一個客戶就是市政府
+- [0:50:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3035s) 那AI的浪潮
+- [0:50:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3036s) 當然我們補助從教育開始
+- [0:50:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3039s) 不管是AI的Token
+- [0:50:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3041s) AI的訂閱等等的
+- [0:50:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3043s) 我們要確保我們臺北的年輕人
+- [0:50:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3045s) 在站上浪頭的時候
+- [0:50:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3047s) 他不會被浪捲走
+- [0:50:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3049s) 我們的商圈也會進駐我們的AI教練
+- [0:50:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3051s) 要確保AI的技術
+- [0:50:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3053s) 可以很均等地用在我們的
+- [0:50:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3055s) 不管是傳統的產業
+- [0:50:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3057s) 不管是傳統的商圈
+- [0:50:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3059s) 這些都是我們未來的目標
+- [0:51:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3061s) 這邊有一群人我一定要特別提到
+- [0:51:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3064s) 有些四五十歲以上的人
+- [0:51:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3067s) 他們人生所有的資源
+- [0:51:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3070s) 都花在人生第一次的起跑
+- [0:51:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3072s) 結果到了四十幾歲以後
+- [0:51:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3074s) 才清楚說我真正的想要做什麼
+- [0:51:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3077s) 聽起來跟我有點像
+- [0:51:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3079s) 所以這個第二次起跑的人
+- [0:51:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3082s) 我們也要說臺北也要跟著他們一起跑
+- [0:51:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3085s) 接下來需求跟供給都可以結合在一起的時候
+- [0:51:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3090s) 我們的中小學更重要的是
+- [0:51:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3093s) 我們要培養大家對運動跟藝文的興趣
+- [0:51:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3097s) 為什麼興趣如此的重要
+- [0:51:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3099s) 因為有興趣大家才會買票入場
+- [0:51:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3103s) 有興趣才會有商機
+- [0:51:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3105s) 有商機才會有企業的投入
+- [0:51:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3108s) 有企業的投入整個生態系才會活絡
+- [0:51:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3112s) 所以不管是運動 不管是藝文的生態系
+- [0:51:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3115s) 都必須要靠我們在市政府底下的國中 國小來做培養
+- [0:52:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3120s) 這樣才有辦法形成真正的產業
+- [0:52:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3124s) 而最後我們還有一批人才在海外
+- [0:52:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3128s) 而這邊最重要的就是
+- [0:52:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3130s) 就像當年我們用公園院
+- [0:52:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3133s) 把很多半導體的人才拉回來
+- [0:52:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3135s) 結果後來形成半導體的生態系
+- [0:52:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3138s) 臺北市應該要有一個自己的智庫
+- [0:52:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3141s) 就像首爾有首爾研究院
+- [0:52:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3143s) 臺北也應該要有一個都市研究院
+- [0:52:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3146s) 就設在北市科
+- [0:52:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3148s) 這個北市科的都市研究院
+- [0:52:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3150s) 可以把人才吸納進來
+- [0:52:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3152s) 而它同時間不只讓人才迴流
+- [0:52:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3156s) 它更可以成為臺北市的大腦
+- [0:52:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3160s) 一旦成為臺北市的大腦了
+- [0:52:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3161s) 臺北市的公務員才能實質的減壓
+- [0:52:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3164s) 才有辦法去執行剛剛講的那些各種政策
+- [0:52:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3169s) 所以海外的人才他們愛這個國家
+- [0:52:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3171s) 而他們也想要回來
+- [0:52:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3173s) 所以我們要做的是要給他們一個回來的理由
+- [0:52:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3176s) 所以在這邊呢
+- [0:52:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3178s) 當上臺北市長
+- [0:52:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3179s) 我要把城市基金 圓夢基金
+- [0:53:02](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3182s) 把市政府成為新創的客屋
+- [0:53:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3185s) 把AI所有的applied方案
+- [0:53:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3188s) 中年轉職的支援
+- [0:53:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3190s) 運動文藝產業的支援
+- [0:53:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3192s) 一直到我們的研究院的成立
+- [0:53:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3196s) 如此一來
+- [0:53:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3197s) 我們就可以把機會還給臺北人
+- [0:53:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3208s) 那最後一個我要提到的
+- [0:53:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3210s) 就是韌性
+- [0:53:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3212s) 有了空間
+- [0:53:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3214s) 有了時間
+- [0:53:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3215s) 有了陪伴
+- [0:53:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3216s) 有了機會
+- [0:53:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3217s) 這個城市大概要運轉起來
+- [0:53:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3219s) 沒有什麼太大的問題
+- [0:53:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3221s) 但是臺北不能乾於此
+- [0:53:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3223s) 臺北是首都
+- [0:53:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3225s) 臺北是世界級的城市
+- [0:53:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3227s) 所以要做到世界級的城市
+- [0:53:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3229s) 有一件事情一定要做
+- [0:53:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3231s) 就是紮根
+- [0:53:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3232s) 就好像有一座森林
+- [0:53:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3234s) 颱風來了
+- [0:53:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3235s) 它也不會滅
+- [0:53:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3236s) 因為樹倒了
+- [0:53:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3237s) 根就還在
+- [0:53:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3238s) 過一陣子它又會回來
+- [0:54:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3241s) 而一座城市也應該要如此
+- [0:54:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3244s) 但是大家可以看到
+- [0:54:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3246s) 我們現在氣候的危機就在門口
+- [0:54:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3248s) 一個降雨
+- [0:54:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3249s) 水就淹成這個樣子
+- [0:54:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3251s) 治安的危機也在門口
+- [0:54:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3253s) 詐騙的手法
+- [0:54:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3254s) 一年比一年翻新
+- [0:54:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3256s) 但市政府的應對
+- [0:54:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3257s) 卻一直留在原地
+- [0:54:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3260s) 還有更重要的我們孩子的安全
+- [0:54:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3263s) 過去幾年 八起重大的兒虐事故
+- [0:54:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3266s) 一百多小孩受害
+- [0:54:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3269s) 有六百多次的不當對待
+- [0:54:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3272s) 這每一個數字的後面
+- [0:54:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3274s) 都是一個家庭
+- [0:54:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3276s) 到現在都還沒有辦法平復的傷痕
+- [0:54:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3279s) 家長的求助電話也有打啊
+- [0:54:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3281s) 打進了系統結果卻沉下去
+- [0:54:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3284s) 這種事情我認為
+- [0:54:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3286s) 絕對不能夠再發生
+- [0:54:50](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3290s) 所以我一直在講
+- [0:54:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3292s) 臺北確實烏老 設施老
+- [0:54:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3296s) 管理的思維其實也老
+- [0:54:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3298s) 但臺北明明就可以更好
+- [0:55:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3301s) 所以很多人會不知道
+- [0:55:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3303s) 到底什麼叫做任性
+- [0:55:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3306s) 任性的意思是
+- [0:55:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3308s) 我們剛剛前面不是說
+- [0:55:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3310s) 我們要把交通順暢起來嗎
+- [0:55:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3312s) 但交通不能只有順暢
+- [0:55:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3314s) 交通要努力地達到零死亡
+- [0:55:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3317s) 我們剛剛前面說
+- [0:55:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3318s) 我們要有更多的住宅
+- [0:55:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3320s) 要服務住在臺北市的市民
+- [0:55:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3323s) 但我們不能只是蓋更多的住宅
+- [0:55:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3325s) 這個住宅要有儲能
+- [0:55:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3327s) 要有綠化
+- [0:55:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3328s) 要有更好的排水
+- [0:55:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3330s) 我們剛剛說
+- [0:55:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3331s) 我們要有更多的靈託
+- [0:55:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3333s) 但不能只是有靈託
+- [0:55:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3335s) 我們要確保小孩的安全
+- [0:55:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3337s) 我們剛剛說要活絡商圈
+- [0:55:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3339s) 要活絡經濟
+- [0:55:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3340s) 但就不能只是活絡經濟
+- [0:55:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3342s) 我們必須還要能夠擋住
+- [0:55:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3344s) 每一種新型的犯罪
+- [0:55:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3347s) 所以如果要做到這些事情
+- [0:55:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3349s) 我們的行政體系必須要先升級
+- [0:55:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3354s) 我們臺北市本來就已經有永續長
+- [0:55:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3357s) 但他還是要肩負更多應對極端氣候的責任
+- [0:56:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3361s) 但是我還要為臺北設立設計長
+- [0:56:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3364s) 什麼叫設計長
+- [0:56:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3366s) 設計長就是要負責美感
+- [0:56:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3368s) 負責安全
+- [0:56:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3369s) 負責無障礙的長期規劃
+- [0:56:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3372s) 而我們還有夜市長
+- [0:56:14](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3374s) 這個不是大家想像那個夜市
+- [0:56:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3376s) 是夜間的市長 夜間
+- [0:56:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3378s) 這個是阿姆斯特丹 他們有類似的
+- [0:56:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3381s) 夜間經濟因為牽涉到都市的設計
+- [0:56:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3384s) 不同的規則 女性的安全
+- [0:56:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3386s) 住商的溝通 環境的衛生
+- [0:56:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3389s) 臺北的經濟的活絡
+- [0:56:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3391s) 很大一部分也有夜間的經濟
+- [0:56:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3393s) 但這邊如果分成各個不同的局處
+- [0:56:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3395s) 各管一段 什麼都不會管好
+- [0:56:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3398s) 所以要把這些線一條一條的接回來
+- [0:56:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3401s) 讓我們的行政的速度追上現實
+- [0:56:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3405s) 所以當我們有永續長 我們有設計長
+- [0:56:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3407s) 我們有夜市長
+- [0:56:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3408s) 再加上我們臺北市的大腦
+- [0:56:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3411s) 這個行政的速度才會快速起來
+- [0:56:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3414s) 而當一個好的市府能夠做到這一邊
+- [0:56:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3416s) 那麼那就是一個世界級的首都
+- [0:57:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3420s) 但是世界級的首都還是要知道一件事情
+- [0:57:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3423s) 它要知道世界其他的城市走到哪裡嘛
+- [0:57:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3426s) 所以上個月我就到美國
+- [0:57:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3429s) 美國像紐約附近有一個小城市
+- [0:57:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3431s) 他們連續七年就真的做到交通臨死亡
+- [0:57:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3435s) 我到洛杉磯 我到DC
+- [0:57:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3437s) 他們的樹應計畫做了二十幾年
+- [0:57:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3440s) 一棵樹到底要不要移
+- [0:57:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3442s) 那開會的不是隻有市長
+- [0:57:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3444s) 還有專家 還有居民
+- [0:57:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3446s) 還有都市設計的
+- [0:57:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3447s) 連保險公司都一起坐下來談
+- [0:57:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3450s) 所以我們遇到的很多的問題
+- [0:57:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3453s) 這個世界各個城市有可能犯過錯誤
+- [0:57:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3456s) 但是他們也都有可能提供答案
+- [0:57:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3459s) 所以我們要做的事情是
+- [0:57:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3460s) 我們要把這些答案都能夠帶回臺北
+- [0:57:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3463s) 但更重要的事情是
+- [0:57:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3465s) 當我們臺北整個生態系轉起來之後
+- [0:57:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3468s) 我們有獨特的解決方案
+- [0:57:50](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3470s) 我們也要把這個世界帶給全世界
+- [0:57:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3473s) 因為這樣才有辦法真的建立
+- [0:57:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3475s) 臺北跟國際城市之間的國際網路
+- [0:57:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3479s) 從無限程的論壇
+- [0:58:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3480s) 到運動的外交
+- [0:58:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3481s) 到市民的外交
+- [0:58:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3483s) 到產業
+- [0:58:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3484s) 到公務員的交換
+- [0:58:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3485s) 那這樣我們所有叫得出名字的
+- [0:58:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3488s) 東京啦 首爾啦 紐約啦 倫敦 巴黎
+- [0:58:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3492s) 他們之所以被世界看見
+- [0:58:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3495s) 是因為他們是世界級的城市
+- [0:58:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3497s) 而臺北也一樣能夠跟他們站在一起
+- [0:58:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3500s) 臺北有這個條件
+- [0:58:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3502s) 臺北市民也有這個資格
+- [0:58:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3504s) 就跟他們站在同一排
+- [0:58:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3506s) 如果我當市長
+- [0:58:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3507s) 臺北不只是臺灣的首都
+- [0:58:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3509s) 而它也會成為世界的臺北
+- [0:58:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3512s) 所以我 沈伯洋
+- [0:58:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3514s) 我要把安心還有驕傲都還給臺北人
+- [0:58:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3526s) 我差不多要做結語了
+- [0:58:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3528s) 那好臺北按照這樣子才叫做順起來
+- [0:58:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3532s) 所以我承諾四年之後你會親身感受到五個改變
+- [0:58:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3538s) 你走出家門街道變美了
+- [0:59:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3541s) 樹蔭回來了山根河都變靜了
+- [0:59:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3544s) 你下個班稍微在捷運站那邊就可以換個衣服
+- [0:59:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3548s) 穿個衣服就可以跑步
+- [0:59:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3550s) 你一天可以多出30分鐘
+- [0:59:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3553s) 留給你所愛的人
+- [0:59:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3555s) 你家裡的長輩
+- [0:59:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3556s) 就在社群健身跟朋友說笑
+- [0:59:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3558s) 你的小孩在活絡的商圈
+- [0:59:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3560s) 跟其他的小孩打成一片
+- [0:59:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3563s) 街上變得越來越熱鬧
+- [0:59:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3565s) 沒有人再是一個人
+- [0:59:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3567s) 你的孩子或者你自己
+- [0:59:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3569s) 更敢在這個城市裡做夢
+- [0:59:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3572s) 也敢在這個城市投資
+- [0:59:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3574s) 颱風來的時候
+- [0:59:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3576s) 危機來的時候
+- [0:59:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3577s) 臺北站得比誰都穩
+- [0:59:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3579s) 因為我們根 紮得夠深
+- [0:59:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3582s) 所以當空間出來了
+- [0:59:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3584s) 當時間出來了
+- [0:59:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3586s) 當陪伴也出現了
+- [0:59:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3589s) 當機會也出現了
+- [0:59:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3591s) 當韌性被建立了
+- [0:59:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3593s) 我們有habit,我們有time
+- [0:59:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3595s) 我們有陪伴的accompany
+- [0:59:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3597s) 我們有empower
+- [0:59:58](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3598s) 我們也有成立了,我們有resilience
+- [1:00:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3600s) 那麼我們就會是一個世界級的城市
+- [1:00:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3603s) 那大家還記得一開始我說
+- [1:00:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3605s) 臺北資源那麼多
+- [1:00:06](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3606s) 而為什麼卻過得那麼的不順
+- [1:00:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3608s) 為什麼
+- [1:00:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3609s) 其實答案就藏在這五個願景裡面
+- [1:00:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3613s) 這五個願景的英文合起來
+- [1:00:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3616s) 就是這五個字
+- [1:00:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3617s) heart就是心
+- [1:00:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3619s) 臺北的市政就缺這個字啊
+- [1:00:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3630s) 有人的心不在臺北嘛
+- [1:00:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3633s) 對不對
+- [1:00:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3639s) 而我的這一顆心
+- [1:00:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3641s) 是要裝得下所有的臺北人
+- [1:00:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3643s) 要裝得下推鷹而撤的
+- [1:00:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3645s) 要裝得下推著輪椅的
+- [1:00:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3648s) 要裝得下不同性別認同的
+- [1:00:50](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3650s) 要裝得下新住民
+- [1:00:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3652s) 要裝得下每一個在這座城市裡
+- [1:00:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3655s) 曾經覺得自己被遺漏掉的人
+- [1:00:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3659s) 一座城市一定會有文化
+- [1:01:02](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3662s) 但我們不能只有文化
+- [1:01:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3663s) 我們要有文明
+- [1:01:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3665s) 文明不是隻有看它對多數人多好
+- [1:01:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3669s) 文明是要看
+- [1:01:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3670s) 我們有沒有把這個城市的少數人
+- [1:01:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3673s) 放在心上
+- [1:01:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3675s) 所以上個禮拜我說
+- [1:01:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3676s) 臺北要順起來
+- [1:01:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3678s) 今天我就把方法告訴大家
+- [1:01:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3680s) 方法就是心
+- [1:01:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3682s) 就是heart這個字
+- [1:01:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3684s) 市政有沒有用心
+- [1:01:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3686s) 市民每天說真的都看得到
+- [1:01:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3688s) 用心城市才會順
+- [1:01:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3690s) 順了人就會留得久
+- [1:01:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3692s) 人留得久
+- [1:01:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3694s) 臺北就會活起來
+- [1:01:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3696s) 所以呢現在
+- [1:01:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3698s) 我就是要帶著這一顆心
+- [1:01:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3700s) 讓臺北順起來
+- [1:01:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3702s) 接下來我就邀請大家觀看一下
+- [1:01:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3704s) 我們團隊精心製作的小動畫
+- [1:01:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3707s) 謝謝
+- [1:03:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3790s) 請站起來 女的市長 沈柏楊
+- [1:03:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3795s) 那現在呢 我們看到了五個充滿願景
+- [1:03:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3799s) 充滿了大家期待的你的政策公佈
+- [1:03:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3803s) 現在我們要請Hot本人上臺了
+- [1:03:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3806s) 來 我們歡迎Hot本人上臺
+- [1:03:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3808s) 大家看到我們每一個英文字母
+- [1:03:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3811s) 都代表了不同的願景
+- [1:03:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3813s) 那同時呢 上臺的也都是我們的志工朋友
+- [1:03:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3816s) 還有我們的青年朋友
+- [1:03:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3818s) 因為呢 除了沈柏楊提出了願景之外呢
+- [1:03:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3822s) 我們要邀請市民朋友跟他拼上最後一片的拼圖
+- [1:03:45](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3825s) 要有市民朋友的支援
+- [1:03:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3826s) 我們才能夠讓願景不再只是願景
+- [1:03:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3829s) 讓它成為真實 具體 可落實的政策
+- [1:03:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3833s) 傾給沈柏楊機會
+- [1:03:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3834s) 那現在我們要邀請
+- [1:03:55](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3835s) 我們的志工朋友還有青年朋友
+- [1:03:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3837s) 一起來幫我們的政策來背書了
+- [1:04:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3841s) 我們歡迎我們所有的志工朋友
+- [1:04:04](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3844s) 還有我們的青年朋友要進行一張大合照
+- [1:04:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3847s) 那這個洞洞裡面可以塞人
+- [1:04:10](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3850s) 大家稍微近一點
+- [1:04:12](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3852s) 大家包括我們青年團的朋友可以坐在這裡
+- [1:04:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3856s) 這一條讓大家取個景
+- [1:04:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3860s) 我們的拍攝先平面再墊子
+- [1:04:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3863s) 平面我們會有三個Pose
+- [1:04:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3865s) 好 請坐
+- [1:04:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3866s) 那我們從中間要填滿
+- [1:04:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3868s) 好
+- [1:04:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3870s) 我們的青年代表也是我們臺北市的未來
+- [1:04:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3874s) 所以如果 沈伯央當上市長的話
+- [1:04:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3877s) 我很期待 你馬上就多了第一批的客戶
+- [1:04:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3880s) 馬上請大家努力的去創業一下
+- [1:04:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3883s) 非常的有誘因
+- [1:04:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3884s) 那我們的志工朋友也麻煩幫我們聚焦一點
+- [1:04:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3886s) 讓大家都看到正前方
+- [1:04:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3889s) 那我們的候選人手可以扶著我們的Ash
+- [1:04:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3893s) 你是我們臺北市的Ash 我們的王牌
+- [1:04:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3896s) 那現在我們請大家第一張照片
+- [1:04:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3899s) 露齒笑 請看正前方
+- [1:05:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3903s) 3 2 1
+- [1:05:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3907s) 好 我們看向右方
+- [1:05:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3909s) 3 2 1
+- [1:05:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3913s) 視線朝左方
+- [1:05:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3915s) 3 2 1
+- [1:05:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3918s) 然後再看回正中間 露恥笑
+- [1:05:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3921s) 3 2 1
+- [1:05:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3924s) 好 接著第二張照片
+- [1:05:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3926s) 我們請大家跟我一樣比出
+- [1:05:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3928s) 右手握拳有力的感覺
+- [1:05:30](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3930s) 往前衝的感覺
+- [1:05:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3931s) 我們也要透過這一次的這個願景發表
+- [1:05:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3933s) 會讓沈柏楊衝出同溫層
+- [1:05:35](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3935s) 來 我們看正中間
+- [1:05:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3937s) 3 2 1
+- [1:05:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3940s) 比較臭的啦
+- [1:05:42](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3942s) 這個嘴巴開啟
+- [1:05:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3943s) 我跟你講 我一直在注意你
+- [1:05:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3944s) 看起來會很嚴肅
+- [1:05:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3946s) 嘴巴開啟
+- [1:05:47](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3947s) 你會後悔的
+- [1:05:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3949s) 來 看前面
+- [1:05:50](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3950s) 3 2 1
+- [1:05:52](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3952s) 好 我們看右邊
+- [1:05:53](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3953s) 露齒笑
+- [1:05:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3954s) 3 2 1
+- [1:05:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3957s) 好 我們看左邊
+- [1:05:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3959s) 3 2 1
+- [1:06:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3961s) 再看回正中間
+- [1:06:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3963s) 露齒笑看起來就很快樂
+- [1:06:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3965s) 露牙齒
+- [1:06:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3967s) 3 2 1
+- [1:06:08](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3968s) 最後一張照片
+- [1:06:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3969s) 我們可以任意的比愛心
+- [1:06:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3971s) 大愛心 小愛心 手指愛心
+- [1:06:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3973s) 象徵是
+- [1:06:15](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3975s) 我們有心在臺北市
+- [1:06:17](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3977s) 像沈伯揚說講的一樣
+- [1:06:19](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3979s) 他的心就在臺北
+- [1:06:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3981s) 看正中間
+- [1:06:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3983s) 3 2 1
+- [1:06:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3985s) 好 我們視線看右邊
+- [1:06:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3987s) 3 2 1
+- [1:06:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3991s) 好 我們事先往左邊看
+- [1:06:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3994s) 3 2 1
+- [1:06:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=3997s) 再看回正中間
+- [1:06:40](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4000s) 3 2 1
+- [1:06:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4003s) 好 請問有沒有需要補的 都有了
+- [1:06:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4006s) 那我們請平面的攝影幫我們留一個空間
+- [1:06:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4009s) 我們來電子的
+- [1:06:51](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4011s) 電子的我們要麻煩幫我們講我們的口號
+- [1:06:54](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4014s) 臺北順起來
+- [1:06:56](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4016s) 你的市長沈柏楊
+- [1:06:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4017s) 最後幫我夜一下
+- [1:06:59](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4019s) 不然會很空
+- [1:07:00](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4020s) 好 來
+- [1:07:01](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4021s) 3 2 1
+- [1:07:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4023s) 用心顧未來
+- [1:07:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4025s) 臺北順起來
+- [1:07:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4027s) 你的市長沈柏楊
+- [1:07:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4040s) 那我們
+- [1:07:21](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4041s) 今天呢
+- [1:07:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4042s) 我們的院警發表會
+- [1:07:23](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4043s) 目前在臺上的這個過程
+- [1:07:25](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4045s) 我們就先告一段落了
+- [1:07:26](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4046s) 那稍後呢
+- [1:07:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4047s) 我們沈柏楊還有任務
+- [1:07:28](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4048s) 那也希望呢
+- [1:07:29](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4049s) 今天來了兩百多位好朋友們
+- [1:07:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4051s) 能夠把握機會
+- [1:07:31](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4051s) 跟我們一起互動
+- [1:07:33](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4053s) 那我們也開放
+- [1:07:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4054s) 臺上的Hot跟大家拍照
+- [1:07:36](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4056s) 所以請大家幫我們都傳出去
+- [1:07:38](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4058s) 那今天的活動
+- [1:07:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4059s) 希望就是很快的
+- [1:07:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4061s) 可以把我們的願景能夠播化出去
+- [1:07:44](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4064s) 那以上就要拜託大家了
+- [1:07:46](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4066s) 謝謝大家
+- [1:07:48](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4068s) 支援你的社長
+- [1:07:49](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4069s) Yeah
+- [1:07:57](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4077s) 小心不要被踩踏到
+- [1:08:02](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4082s) 因為我們臺上可以做移動了
+- [1:08:03](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4083s) 那我們的團隊要把我們的
+- [1:08:05](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4085s) 候選人沈柏楊帶去
+- [1:08:07](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4087s) 跟大家一起來互動一下囉
+- [1:08:09](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4089s) 好走路要小心哦
+- [1:08:11](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4091s) 好
+- [1:08:13](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4093s) 那請大家再幫我們多多宣傳一下
+- [1:08:16](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4096s) 包括我們剛剛的這支動畫呢
+- [1:08:18](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4098s) 也都是第一次的曝光
+- [1:08:20](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4100s) 謝謝大家
+- [1:08:22](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4102s) 謝謝
+- [1:08:24](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4104s) 請大家幫我們多多的宣傳
+- [1:08:27](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4107s) 那我們在B1的這層樓的咖啡區
+- [1:08:32](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4112s) 就會是等一下交椅的地方
+- [1:08:34](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4114s) 沈伯洋會成為會講話的人形立牌
+- [1:08:37](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4117s) 所以可以把他任意的抓住拍照
+- [1:08:39](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4119s) 跟他聊天都沒有問題的
+- [1:08:41](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4121s) 那包括我們臺北隊的朋友們
+- [1:08:43](https://www.youtube.com/watch?v=8WH53TUHS-s&t=4123s) 也可以來用我們很棒的一個背板來拍照

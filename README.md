@@ -44,7 +44,10 @@ scripts/
   validate.py       檢查資料格式並輸出 CSV 與雙方統計
   build_site.py     產生 index.html
 tools/
-  fetch_captions_local.py  在自己電腦上抓 YouTube 字幕（附時間點）
+  transcribe_local.py      在自己電腦上把影片轉成逐字稿（語音辨識）
+  find_in_transcripts.py   在逐字稿中找關鍵字與時間點
+  fetch_captions_local.py  抓 YouTube 現成字幕（多數選舉影片沒有）
+transcripts/               語音辨識逐字稿（未校對，只用來定位時間點）
 UPDATING.md         每日更新流程
 ```
 
