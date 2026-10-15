@@ -14,7 +14,12 @@
    - 每個新來源都要記下標題、日期、記者（與原網頁一致，台北時間）。
 3. **獨立查核**：由另一個沒參與撰寫的代理逐筆打開來源核對，查核報告放在 PR 說明中。
 4. **檢查與建置**：`python3 scripts/validate.py && python3 scripts/build_site.py`，更新 `data/meta.json` 的 `last_updated`，並在 `CHANGELOG.md` 記一行。
-5. **開 Pull Request**：標題 `資料更新 YYYY-MM-DD`，說明列出新增／修改的紀錄編號、雙方各新增幾筆、查核報告摘要。**不要直接合併**，等維護者審核。
+5. **開 Pull Request 並自動合併**：標題 `資料更新 YYYY-MM-DD`，說明列出新增／修改的紀錄編號、雙方各新增幾筆、查核報告摘要。以下條件都成立時，用 squash 方式自動合併：
+   - 查核報告中的「錯誤」「待修」都已修正；
+   - `validate.py` 與 `build_site.py` 在最終 commit 上通過；
+   - PR 沒有合併衝突，CI（若有）為綠燈。
+
+   任一條件不成立就不合併，PR 保持開啟並通知維護者。不要直接 push 到 main。維護者事後依查核報告抽查。
 
 ## 盲測題庫維護
 
