@@ -1132,5 +1132,176 @@
     "url": "https://www.youtube.com/watch?v=E2eL-qVqgUI",
     "date": "2026-10-08",
     "byline": null
+  },
+  {
+    "id": "src-ltn-5605872",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "沈伯洋談松機遷建 提出3大需求難題",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5605872",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-ltn-5605922",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "北市民最常抱怨這些！沈伯洋提一政見 趙少康竟「點頭了」",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5605922",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-fount-081809016",
+    "kind": "新聞",
+    "outlet": "放言（Yahoo奇摩新聞轉載）",
+    "title": "老屋沒電梯、屋頂不好看怎麼辦？沈伯洋：市府主動協調，整合輔具、綠化與老宅延壽",
+    "url": "https://tw.news.yahoo.com/%E8%80%81%E5%B1%8B%E6%B2%92%E9%9B%BB%E6%A2%AF-%E5%B1%8B%E9%A0%82%E4%B8%8D%E5%A5%BD%E7%9C%8B%E6%80%8E%E9%BA%BC%E8%BE%A6-%E6%B2%88%E4%BC%AF%E6%B4%8B-%E5%B8%82%E5%BA%9C%E4%B8%BB%E5%8B%95%E5%8D%94%E8%AA%BF-%E6%95%B4%E5%90%88%E8%BC%94%E5%85%B7-081809016.html",
+    "date": "2026-10-14",
+    "byline": "李云瑄"
+  },
+  {
+    "id": "src-bt-202610100013",
+    "kind": "新聞",
+    "outlet": "今周刊",
+    "title": "影／謝金河訪沈伯洋！變電所藏地下、北士科設外包大腦…都更如何斬斷越晚越貴迷思？撲馬解方找台北幸福感",
+    "url": "https://www.businesstoday.com.tw/article/category/183027/post/202610100013/",
+    "date": "2026-10-11",
+    "byline": "數位內容部整理"
+  },
+  {
+    "id": "src-bt-202610120005",
+    "kind": "新聞",
+    "outlet": "今周刊",
+    "title": "沈伯洋車掃熱度破表、謝金河專訪逾60萬人關注…談都更政策、砍樹、輝達變電所都有解！洋流如何破圈？",
+    "url": "https://www.businesstoday.com.tw/article/category/183027/post/202610120005/",
+    "date": "2026-10-12",
+    "byline": "鄭鴻達"
+  },
+  {
+    "id": "src-setn-1920980",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "不會照PPT唸！沈伯洋開箱中山、大同「5大秘寶」政見",
+    "url": "https://www.setn.com/news/1920980",
+    "date": "2026-10-11",
+    "byline": "許展溢"
+  },
+  {
+    "id": "src-udn-9808198",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "影／保安宮前開箱政見 沈伯洋：由下而上回應民意",
+    "url": "https://udn.com/news/story/124652/9808198",
+    "date": "2026-10-11",
+    "byline": "張文玠"
+  },
+  {
+    "id": "src-cna-202610130113",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "反駁政見缺新意　蔣萬安列舉南機場都更等案例",
+    "url": "https://www.cna.com.tw/news/aloc/202610130113.aspx",
+    "date": "2026-10-13",
+    "byline": "楊淑閔"
+  },
+  {
+    "id": "src-udn-9811580",
+    "kind": "新聞",
+    "outlet": "經濟日報",
+    "title": "南機場單元4公辦都更簽約 住戶：年輕等到老...肯定蔣萬安很積極",
+    "url": "https://money.udn.com/money/story/5621/9811580",
+    "date": "2026-10-13",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-ctwant-501997",
+    "kind": "新聞",
+    "outlet": "CTWANT",
+    "title": "「標配沖水馬桶」昔最潮建築都更　南機場單元四投38億改建地標建築",
+    "url": "https://www.ctwant.com/article/501997/",
+    "date": "2026-10-13",
+    "byline": "林榮芳"
+  },
+  {
+    "id": "src-udn-9815430",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "爭取松機遷移…蔣萬安今赴行政院會說明 張善政相挺",
+    "url": "https://udn.com/news/story/124652/9815430",
+    "date": "2026-10-15",
+    "byline": "屈彥辰、林麗玉、張裕珍、洪子凱、程嘉文"
+  },
+  {
+    "id": "src-udn-9815432",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "松山機場遷移 沈伯洋：「提出的人」要說清楚",
+    "url": "https://udn.com/news/story/124652/9815432",
+    "date": "2026-10-15",
+    "byline": "林麗玉、張裕珍、洪子凱、馬瑞璿"
+  },
+  {
+    "id": "src-ctinews-gGaMkB84nK",
+    "kind": "新聞",
+    "outlet": "中天新聞網",
+    "title": "爭取遷松機建AI園區！蔣萬安今親赴政院說明",
+    "url": "https://ctinews.com/news/items/gGaMkB84nK",
+    "date": "2026-10-15",
+    "byline": "倪鴻祥"
+  },
+  {
+    "id": "src-ct-20261014004641",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "松機遷移牽動機捷運輸量能  張善政爭取中央支持增購列車",
+    "url": "https://www.chinatimes.com/realtimenews/20261014004641-260407",
+    "date": "2026-10-14",
+    "byline": "姜霏"
+  },
+  {
+    "id": "src-setn-1921268",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "市長當第四年突喊遷移松機　綠揭3大問題酸：蔣萬安到底在說什麼夢話？",
+    "url": "https://www.setn.com/news/1921268",
+    "date": "2026-10-12",
+    "byline": "林瑞恩"
+  },
+  {
+    "id": "src-ltn-5606256",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "蔣萬安10/21議會專案報告遷松機、食安等4案 朝野協商拍板",
+    "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5606256",
+    "date": "2026-10-14",
+    "byline": null
+  },
+  {
+    "id": "src-udn-9802697",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "松機遷移助攻「北台八縣市」？蔣萬安：打造北台八縣市科技廊帶",
+    "url": "https://udn.com/news/story/124652/9802697",
+    "date": "2026-10-08",
+    "byline": "楊正海"
+  },
+  {
+    "id": "src-cna-202610140263",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "蔣萬安清晨訪花博公園、太平市場　市政行程外續拚選戰",
+    "url": "https://www.cna.com.tw/news/aloc/202610140263.aspx",
+    "date": "2026-10-14",
+    "byline": "葉蓁芸"
+  },
+  {
+    "id": "src-cna-202610140326",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋士林夜市拜票　主張AI紅利由士林北投先享受",
+    "url": "https://www.cna.com.tw/news/aloc/202610140326.aspx",
+    "date": "2026-10-14",
+    "byline": "劉建邦"
   }
 ]
