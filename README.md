@@ -4,6 +4,8 @@
 
 **🎯 政策盲測：https://ch3nyt.github.io/2026_Taipei_Election_Policies/quiz.html**
 
+**📄 各議題單獨頁面：** [育兒](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/childcare-education.html)、[交通](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/transport.html)、[居住](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/housing.html)、[產業與 AI](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/industry-ai.html)、[長照](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/elderly-care.html)…（共 15 個議題）
+
 使用 Claude Code 透過網路爬蟲，整理蔣萬安、沈伯洋的北市選舉政見，讓大家好比較雙方的異同。每則資訊都會附上影片、新聞的出處，如果有誤請不吝告知， 也祝大家支持的候選人都成功當選~
 
 ## 怎麼看
@@ -41,7 +43,10 @@ data/
   meta.json         最後更新日期
   records.csv       由 validate.py 自動產生
 site/page.html      網頁主體（修改網頁請改這個檔）
-index.html          由 build_site.py 產生，GitHub Pages 使用
+index.html          由 build_site.py 產生（含預先寫入的政見內容，搜尋引擎與 AI 不執行 JS 也讀得到）
+topics/*.html       每個議題的靜態比較頁（build_site.py 產生）
+sitemap.xml、robots.txt、llms.txt、og.png  搜尋引擎、AI 爬蟲與連結預覽用（build_site.py 產生）
+data/highlights.json  首頁「30 秒看懂」的內容
 scripts/
   validate.py       檢查資料格式並輸出 CSV 與雙方統計
   build_site.py     產生 index.html

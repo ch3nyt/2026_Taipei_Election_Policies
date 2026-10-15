@@ -1,0 +1,32 @@
+# 2026 台北市長政見比較（蔣萬安、沈伯洋）
+
+> 使用 Claude Code 透過網路爬蟲，整理蔣萬安、沈伯洋的北市選舉政見，讓大家好比較雙方的異同。每則資訊都會附上影片、新聞的出處，如果有誤請不吝告知， 也祝大家支持的候選人都成功當選~
+
+最後更新：2026-10-15。每筆政見都附新聞、官方或影片來源；摘要為本站改寫，引用時請以原始來源為準。
+本站為中立整理，不推薦任何候選人。
+
+## 主要頁面
+- [完整互動版](https://ch3nyt.github.io/2026_Taipei_Election_Policies/)：依議題並排比較，含落實說明、相關回應、過去職務紀錄
+- [11 題政策盲測](https://ch3nyt.github.io/2026_Taipei_Election_Policies/quiz.html)
+- [居住與都更議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/housing.html)
+- [交通議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/transport.html)
+- [育兒與教育議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/childcare-education.html)
+- [長照與高齡議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/elderly-care.html)
+- [青年與就業議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/youth-jobs.html)
+- [產業與AI議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/industry-ai.html)
+- [城市治理議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/governance.html)
+- [環境與韌性議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/environment.html)
+- [運動與文化議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/sports-culture.html)
+- [兩岸城市交流議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/cross-strait.html)
+- [城市韌性與民防議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/civil-defense.html)
+- [毒品防制議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/drug-policy.html)
+- [中央與地方財政議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/fiscal.html)
+- [食品安全議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/food-safety.html)
+- [能源與供電議題比較](https://ch3nyt.github.io/2026_Taipei_Election_Policies/topics/energy.html)
+
+## 開放資料
+- [全部政見紀錄 JSON](https://ch3nyt.github.io/2026_Taipei_Election_Policies/data/records.json)
+- [全部政見紀錄 CSV](https://ch3nyt.github.io/2026_Taipei_Election_Policies/data/records.csv)
+- [來源清單](https://ch3nyt.github.io/2026_Taipei_Election_Policies/data/sources.json)
+- [過去職務紀錄](https://ch3nyt.github.io/2026_Taipei_Election_Policies/data/track_records.json)
+- [編輯與查核原則](https://github.com/ch3nyt/2026_Taipei_Election_Policies/blob/main/METHODOLOGY.md)

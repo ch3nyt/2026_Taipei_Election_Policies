@@ -166,6 +166,18 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
 .record-sum { margin: 0; font-size: 15px; }
 .record-src summary { cursor: pointer; font-size: 13.5px; color: var(--accent); }
 .record-src .srcs { margin-top: 6px; }
+.hl { margin-block: 22px 4px; display: grid; gap: 10px; }
+.hl h2 { font-family: var(--font-display); font-size: 22px; margin: 0; }
+.hl-note { margin: 0; color: var(--muted); font-size: 14.5px; max-width: 75ch; }
+.hl-grid { display: grid; gap: 0; border-top: 1px solid var(--line); }
+.hl-row { display: grid; grid-template-columns: 1fr; gap: 6px 20px; padding-block: 12px; border-bottom: 1px solid var(--line); }
+@media (min-width: 860px) { .hl-row { grid-template-columns: 7.5em 1fr 1fr; } }
+.hl-topic { font-weight: 700; }
+.hl-cell { min-width: 0; }
+.hl-cell p { margin: 0; font-size: 15.5px; }
+.hl-name { font-size: 13px; color: var(--muted); font-weight: 500; }
+.hl-links { font-size: 13px; }
+.topic-link { margin-left: auto; font-family: var(--font-body); font-size: 13px; font-weight: 400; }
 .quiz-cta { display: grid; gap: 2px; padding: 10px 16px; border-radius: var(--radius); background: var(--ink); color: var(--paper); text-decoration: none; font-weight: 700; font-size: 16px; }
 .quiz-cta span { font-weight: 400; font-size: 13px; opacity: 0.8; }
 .quiz-cta:hover { opacity: 0.92; }
@@ -186,6 +198,8 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
     <div class="meta-row" id="meta-row"></div>
     <div class="cta-row"><a class="quiz-cta" href="quiz.html">玩玩看：11 題政策盲測 →<span>不看名字只看政策，看看你比較接近哪一邊的主張</span></a><a class="rec-cta" href="#record">兩人過去的職務紀錄 ↓<span>市長的 2022 政見現況、立委的主提法案</span></a></div>
   </header>
+
+  <section id="highlights" class="hl" aria-label="30 秒看懂"></section>
 
   <div class="cands" id="cands"></div>
   <div class="notice" id="notice" hidden></div>
@@ -227,6 +241,8 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
       <h3 style="margin-top:18px">選舉日程</h3>
       <ul class="timeline" id="timeline"></ul>
       <p id="others" style="margin-top:12px"></p>
+      <h3 style="margin-top:18px">其他縣市</h3>
+      <p>本站只深入整理台北市兩位主要候選人。想比較全台 22 縣市候選人的政見，推薦<a href="https://blindvote.app/" target="_blank" rel="noopener">留白投票所</a>（遮住名字只比政見，非本站製作）。本站的資料格式與查核流程都是開源的，歡迎複製到你的縣市。</p>
       <p>原始資料：<a id="data-json" href="data/records.json">records.json</a> · <a id="data-csv" href="data/records.csv">records.csv</a> · <a id="repo-link" href="#">GitHub</a></p>
     </section>
   </div>
@@ -242,6 +258,7 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
   var LOCAL = ["居住與都更", "交通", "育兒與教育", "長照與高齡", "青年與就業", "產業與AI", "城市治理", "環境與韌性", "運動與文化"];
   var NATIONAL = ["兩岸城市交流", "城市韌性與民防", "毒品防制", "中央與地方財政", "食品安全", "能源與供電"];
   var TOPICS = LOCAL.concat(NATIONAL);
+  var SLUG = { "居住與都更": "housing", "交通": "transport", "育兒與教育": "childcare-education", "長照與高齡": "elderly-care", "青年與就業": "youth-jobs", "產業與AI": "industry-ai", "城市治理": "governance", "環境與韌性": "environment", "運動與文化": "sports-culture", "兩岸城市交流": "cross-strait", "城市韌性與民防": "civil-defense", "毒品防制": "drug-policy", "中央與地方財政": "fiscal", "食品安全": "food-safety", "能源與供電": "energy" };
   var state = { topic: "全部", q: "", view: "both", persona: "all" };
   try { var saved = localStorage.getItem("view"); if (saved) state.view = saved; } catch (e) {}
   var DB = null;
@@ -337,7 +354,7 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
       if (t === NATIONAL[0] || (state.topic === t && NATIONAL.indexOf(t) !== -1)) {
         out += '<div class="nat-head"><h2>全國議題：市長職權相關的部分</h2><p>以下議題多屬中央權限，只收錄與市府職權直接相關的部分，且只收候選人本人的公開表態。兩人使用同一份議題清單；沒有表態的標示「本資料庫目前沒有這個議題的紀錄」。</p></div>';
       }
-      out += '<section class="topic" aria-label="' + esc(t) + '"><h3>' + esc(t) + '<span class="n">' + total + " 筆</span></h3>";
+      out += '<section class="topic" aria-label="' + esc(t) + '"><h3>' + esc(t) + '<span class="n">' + total + " 筆</span>" + (SLUG[t] ? '<a class="topic-link" href="topics/' + SLUG[t] + '.html">單獨頁面</a>' : "") + "</h3>";
       if (DB.roles[t]) out += '<p class="role"><strong>市長能管到的部分：</strong>' + esc(DB.roles[t]) + "</p>";
       out += '<div class="cols' + (shown.length > 1 ? " two" : "") + '">';
       cols.forEach(function (x) {
@@ -398,6 +415,21 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
     $("method-link").href = DB.meta.repo + "/blob/main/METHODOLOGY.md";
   }
 
+  function renderHighlights() {
+    var H = DB.highlights; if (!H) return;
+    var order = DB.cands.candidates;
+    var h = '<h2>' + esc(H.title) + '</h2><p class="hl-note">' + esc(H.note) + '</p><div class="hl-grid">';
+    H.items.forEach(function (it) {
+      h += '<div class="hl-row"><div class="hl-topic">' + esc(it.topic) + '</div>';
+      order.forEach(function (c) {
+        var x = it[c.key]; if (!x) return;
+        h += '<div class="hl-cell"><div class="hl-name">' + esc(c.name) + '</div><p>' + esc(x.text) + '</p><div class="hl-links">' +
+          x.records.map(function (id) { var r = DB.byId[id]; return '<a href="#' + esc(id) + '">' + esc(r ? r.title : "看出處") + " →</a>"; }).join("<br>") + "</div></div>";
+      });
+      h += "</div>";
+    });
+    $("highlights").innerHTML = h + "</div>";
+  }
   function renderRecord() {
     var T = DB.track, src = DB.src;
     function links(ids) { return ids.map(function (id) { var s = src[id]; return s ? '<li><span class="o">' + esc(s.outlet) + '</span> <span class="d">' + esc(fmtDate(s.date)) + '</span><br><a href="' + esc(s.url) + '" target="_blank" rel="noopener">' + esc(s.title) + "</a></li>" : ""; }).join(""); }
@@ -457,13 +489,13 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
   $("q").addEventListener("input", function (e) { state.q = e.target.value.trim(); render(); });
 
   function getJSON(p) { return fetch(p, { cache: "no-cache" }).then(function (r) { if (!r.ok) throw new Error(p + " " + r.status); return r.json(); }); }
-  Promise.all([getJSON("data/records.json"), getJSON("data/sources.json"), getJSON("data/candidates.json"), getJSON("data/meta.json"), getJSON("data/national_topics.json"), getJSON("data/personas.json"), getJSON("data/profiles.json"), getJSON("data/track_records.json")])
+  Promise.all([getJSON("data/records.json"), getJSON("data/sources.json"), getJSON("data/candidates.json"), getJSON("data/meta.json"), getJSON("data/national_topics.json"), getJSON("data/personas.json"), getJSON("data/profiles.json"), getJSON("data/track_records.json"), getJSON("data/highlights.json")])
     .then(function (res) {
       DB = { records: res[0], sources: res[1], cands: res[2], meta: res[3], src: {}, byId: {}, names: {}, roles: {} };
       res[4].forEach(function (n) { DB.roles[n.topic] = n.mayor_role; });
       DB.personas = res[5]; DB.profiles = {}; DB.profileNote = res[6].note;
       res[6].candidates.forEach(function (c) { DB.profiles[c.key] = c; });
-      DB.track = res[7];
+      DB.track = res[7]; DB.highlights = res[8];
       DB.sources.forEach(function (s) { DB.src[s.id] = s; });
       DB.records.forEach(function (r) { DB.byId[r.id] = r; });
       DB.cands.candidates.forEach(function (c) { DB.names[c.key] = c.name; });
@@ -471,6 +503,7 @@ h1 { font-family: var(--font-display); font-weight: 700; font-size: clamp(28px, 
       renderChrome();
       render();
       renderRecord();
+      renderHighlights();
       if (location.hash) { var el = document.getElementById(location.hash.slice(1)); if (el) el.scrollIntoView(); }
     })
     .catch(function (err) {
