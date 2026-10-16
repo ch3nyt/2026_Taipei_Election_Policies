@@ -1303,5 +1303,122 @@
     "url": "https://www.cna.com.tw/news/aloc/202610140326.aspx",
     "date": "2026-10-14",
     "byline": "劉建邦"
+  },
+  {
+    "id": "src-cna-202610150040",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋談山林政策　盼讓山變得更平易近人",
+    "url": "https://www.cna.com.tw/news/aloc/202610150040.aspx",
+    "date": "2026-10-15",
+    "byline": "劉建邦"
+  },
+  {
+    "id": "src-cna-202610150334",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "傾聽民意肥皂箱最終場　沈伯洋：若當選將持續舉辦",
+    "url": "https://www.cna.com.tw/news/aipl/202610150334.aspx",
+    "date": "2026-10-15",
+    "byline": "劉建邦"
+  },
+  {
+    "id": "src-cna-202610150038",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "蔣萬安列席行政院會　盼與中央合作推動松山機場遷移",
+    "url": "https://www.cna.com.tw/news/aipl/202610150038.aspx",
+    "date": "2026-10-15",
+    "byline": "賴于榛"
+  },
+  {
+    "id": "src-cna-202610150155",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "松山機場遷建　卓榮泰請蔣萬安提供過往評估紀錄及轉變理由",
+    "url": "https://www.cna.com.tw/news/aipl/202610150155.aspx",
+    "date": "2026-10-15",
+    "byline": "賴于榛"
+  },
+  {
+    "id": "src-cna-202610150361",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "蔣萬安感謝柯文哲政績　承諾續辦社宅",
+    "url": "https://www.cna.com.tw/news/aloc/202610150361.aspx",
+    "date": "2026-10-15",
+    "byline": "葉蓁芸"
+  },
+  {
+    "id": "src-udn-9817952",
+    "kind": "新聞",
+    "outlet": "聯合報",
+    "title": "蔣萬安秀出公文 遷松機不是選舉操作",
+    "url": "https://udn.com/news/story/124652/9817952",
+    "date": "2026-10-16",
+    "byline": "本報記者／連線報導"
+  },
+  {
+    "id": "src-pts-826016",
+    "kind": "新聞",
+    "outlet": "公視新聞網",
+    "title": "沈伯洋拋設登山觀光中心政見 蔣萬安：已打造多條友善步道",
+    "url": "https://news.pts.org.tw/article/826016",
+    "date": "2026-09-08",
+    "byline": "呂玠鋆、謝政霖"
+  },
+  {
+    "id": "src-cna-202609160127",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋提4大交通政見　聚焦綠色通勤議題",
+    "url": "https://www.cna.com.tw/news/aloc/202609160127.aspx",
+    "date": "2026-09-16",
+    "byline": "王揚宇"
+  },
+  {
+    "id": "src-nownews-6875465",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "拋四大交通政見！沈伯洋：通學區零死亡、公車安全改革",
+    "url": "https://www.nownews.com/news/6875465",
+    "date": "2026-09-16",
+    "byline": "陳佩君"
+  },
+  {
+    "id": "src-pts-827290",
+    "kind": "新聞",
+    "outlet": "公視新聞網",
+    "title": "沈伯洋拋交通政見 蔣萬安細數政績回應",
+    "url": "https://news.pts.org.tw/article/827290",
+    "date": "2026-09-16",
+    "byline": "張志雄、張梓嘉、陳柏諭"
+  },
+  {
+    "id": "src-cna-202609160207",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋拋重建明治橋　北市：116年1月完成重組構想報告",
+    "url": "https://www.cna.com.tw/news/aloc/202609160207.aspx",
+    "date": "2026-09-16",
+    "byline": "葉蓁芸"
+  },
+  {
+    "id": "src-ctee-20260414701489",
+    "kind": "新聞",
+    "outlet": "工商時報",
+    "title": "北市公托補助加碼遭疑「看的到領不到」議員促盤點托育量能",
+    "url": "https://www.ctee.com.tw/news/20260414701489-431401",
+    "date": "2026-04-14",
+    "byline": "孫敬"
+  },
+  {
+    "id": "src-ctee-20260415701242",
+    "kind": "新聞",
+    "outlet": "工商時報",
+    "title": "北市校校有公托進度曝 蔣萬安：已盤點學校閒置空間",
+    "url": "https://www.ctee.com.tw/news/20260415701242-431401",
+    "date": "2026-04-15",
+    "byline": "張珈瑄、陳君瑋"
   }
 ]
