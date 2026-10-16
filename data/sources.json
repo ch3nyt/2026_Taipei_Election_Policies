@@ -1420,5 +1420,68 @@
     "url": "https://www.ctee.com.tw/news/20260415701242-431401",
     "date": "2026-04-15",
     "byline": "張珈瑄、陳君瑋"
+  },
+  {
+    "id": "src-cna-202610160099",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "蔣萬安：放寬都更門檻至50％、大面積都更容積提高至300％",
+    "url": "https://www.cna.com.tw/news/aipl/202610160099.aspx",
+    "date": "2026-10-16",
+    "byline": "葉蓁芸"
+  },
+  {
+    "id": "src-cna-202610160212",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋指都更新政出口窄無解　蔣萬安：將增105名人力",
+    "url": "https://www.cna.com.tw/news/aloc/202610160212.aspx",
+    "date": "2026-10-16",
+    "byline": "葉蓁芸"
+  },
+  {
+    "id": "src-udn-9818633",
+    "kind": "新聞",
+    "outlet": "聯合新聞網（經濟日報稿）",
+    "title": "蔣萬安拋都更新政 門檻擬降至50%、大街廓容積增至300%",
+    "url": "https://udn.com/news/story/124652/9818633",
+    "date": "2026-10-16",
+    "byline": "胡順惠"
+  },
+  {
+    "id": "src-udn-9819370",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "北市大都更時代再推進 蔣萬安宣布新政要打造如巴黎「15分鐘生活圈」",
+    "url": "https://udn.com/news/story/7323/9819370",
+    "date": "2026-10-16",
+    "byline": "林佳彣"
+  },
+  {
+    "id": "src-nownews-6884042",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "蔣萬安拚連任！宣布都更2大新政 門檻大降「50%住戶願意就說明」",
+    "url": "https://www.nownews.com/news/6884042",
+    "date": "2026-10-16",
+    "byline": "蘇柏銓"
+  },
+  {
+    "id": "src-ltn-5608546",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "蔣萬安喊推都更新政 沈伯洋：沒解決「出口窄」問題",
+    "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5608546",
+    "date": "2026-10-16",
+    "byline": "甘孟霖"
+  },
+  {
+    "id": "src-udn-9819989",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "沈伯洋提用樹阻隔條通爭執 蔣萬安：不能只憑想像",
+    "url": "https://udn.com/news/story/7323/9819989",
+    "date": "2026-10-17",
+    "byline": "楊正海、林佳彣"
   }
 ]
