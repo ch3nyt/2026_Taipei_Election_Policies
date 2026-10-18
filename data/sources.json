@@ -1609,5 +1609,59 @@
     "url": "https://www.nownews.com/news/6884187",
     "date": "2026-10-17",
     "byline": "蘇柏銓"
+  },
+  {
+    "id": "src-ltn-5610758",
+    "kind": "新聞",
+    "outlet": "自由時報",
+    "title": "沈伯洋松信政見4大秘寶 完整論述一次看",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5610758",
+    "date": "2026-10-19",
+    "byline": "董冠怡"
+  },
+  {
+    "id": "src-ettoday-3256957",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "沈伯洋松信4大秘寶：樹種回來、出門就上山　巨蛋好鄰居、留住好老師",
+    "url": "https://www.ettoday.net/news/20261018/3256957.htm",
+    "date": "2026-10-18",
+    "byline": "詹詠淇"
+  },
+  {
+    "id": "src-nownews-6884581",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "公布松信大秘寶！沈伯洋要辦「市長，我不想幹了」 聽公務員心聲",
+    "url": "https://www.nownews.com/news/6884581",
+    "date": "2026-10-18",
+    "byline": "陳威叡"
+  },
+  {
+    "id": "src-udn-9822621",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "沈伯洋拋「市長我不幹了」肥皂箱 承諾百日內解決教育痛點",
+    "url": "https://udn.com/news/story/124652/9822621",
+    "date": "2026-10-18",
+    "byline": "邱書昱"
+  },
+  {
+    "id": "src-udn-9822167",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "網傳當選停發敬老金？ 沈伯洋駁斥：會發得更有趣「錄一段給小孩的話」",
+    "url": "https://udn.com/news/story/124652/9822167",
+    "date": "2026-10-18",
+    "byline": "邱書昱"
+  },
+  {
+    "id": "src-ltn-5610349",
+    "kind": "新聞",
+    "outlet": "自由時報",
+    "title": "蔣萬安拋松機遷移構想 沈伯洋質疑替代方案不完整",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5610349",
+    "date": "2026-10-18",
+    "byline": "蔡愷恆"
   }
 ]
