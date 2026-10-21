@@ -1825,5 +1825,68 @@
     "url": "https://udn.com/news/story/124652/9827331",
     "date": "2026-10-20",
     "byline": "林麗玉、楊正海"
+  },
+  {
+    "id": "src-cna-202610210062",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "松山機場遷移　蔣萬安赴議會報告提現在就應啟動",
+    "url": "https://www.cna.com.tw/news/aipl/202610210062.aspx",
+    "date": "2026-10-21",
+    "byline": "劉建邦、葉蓁芸"
+  },
+  {
+    "id": "src-cna-202610210103",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "議員指松機遷建計畫不完整　蔣萬安：持續聆聽意見調整",
+    "url": "https://www.cna.com.tw/news/aloc/202610210103.aspx",
+    "date": "2026-10-21",
+    "byline": "葉蓁芸、劉建邦"
+  },
+  {
+    "id": "src-chinatimes-20261021002792",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "松機遷移惹議！議員指高鐵難塞擔架：拿病患生命安全開玩笑",
+    "url": "https://www.chinatimes.com/realtimenews/20261021002792-260407",
+    "date": "2026-10-21",
+    "byline": "張珈瑄"
+  },
+  {
+    "id": "src-ebc-576846",
+    "kind": "新聞",
+    "outlet": "東森新聞",
+    "title": "蔣萬安議會專報「遷松機」綠輪番開轟「信口開河」",
+    "url": "https://news.ebc.net.tw/news/politics/576846",
+    "date": "2026-10-21",
+    "byline": null
+  },
+  {
+    "id": "src-udn-9829846",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "蔣萬安喊話中央：松機遷移速啟動",
+    "url": "https://udn.com/news/story/124652/9829846",
+    "date": "2026-10-22",
+    "byline": "本報記者／連線報導"
+  },
+  {
+    "id": "src-udn-9829806",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "檢驗合格…金華午餐案 綠烏龍爆料挨批",
+    "url": "https://udn.com/news/story/7323/9829806",
+    "date": "2026-10-22",
+    "byline": "洪子凱"
+  },
+  {
+    "id": "src-udn-9828063",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "金華國中營養午餐檢驗合格 藍議員批綠營亂開槍 蔣萬安：欠學校道歉",
+    "url": "https://udn.com/news/story/6656/9828063",
+    "date": "2026-10-21",
+    "byline": "洪子凱"
   }
 ]
