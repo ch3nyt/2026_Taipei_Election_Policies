@@ -1744,5 +1744,86 @@
     "url": "https://www.chinatimes.com/realtimenews/20261019003868-260407",
     "date": "2026-10-19",
     "byline": "丁世傑"
+  },
+  {
+    "id": "src-udn-9790064",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "沈伯洋推4大教育政策 減班不減師、減少家長濫訴、引進雙導師",
+    "url": "https://udn.com/news/story/124652/9790064",
+    "date": "2026-10-02",
+    "byline": "蔡晉宇"
+  },
+  {
+    "id": "src-setn-1916199",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "提四面向解教育現場困境　沈伯洋：試辦雙導師、第三方機制緩和親師關係",
+    "url": "https://www.setn.com/news/1916199",
+    "date": "2026-10-02",
+    "byline": "劉秀敏"
+  },
+  {
+    "id": "src-nownews-6880058",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "拋教育四大支持方向！沈伯洋推：國中小減生不減師、營養午餐配套",
+    "url": "https://www.nownews.com/news/6880058",
+    "date": "2026-10-02",
+    "byline": "陳佩君"
+  },
+  {
+    "id": "src-cna-202610020352",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "藍指沈伯洋教育政策四大皆空　綠：歡迎提出不同方案",
+    "url": "https://www.cna.com.tw/news/aipl/202610020352.aspx",
+    "date": "2026-10-02",
+    "byline": "王承中"
+  },
+  {
+    "id": "src-ltn-5610209",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "沈伯洋提5大客家政策 推動台北成全球客家樞紐",
+    "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5610209",
+    "date": "2026-10-18",
+    "byline": "蔡愷恆"
+  },
+  {
+    "id": "src-knews-2748B53307CC6821A125BCAC081CB756",
+    "kind": "新聞",
+    "outlet": "知新聞",
+    "title": "沈伯洋拋5大客家政見！「無限城」論壇打造台北成全球客家樞紐",
+    "url": "https://www.knews.com.tw/news/2748B53307CC6821A125BCAC081CB756",
+    "date": "2026-10-18",
+    "byline": "許皓婷"
+  },
+  {
+    "id": "src-cts-202610183091065",
+    "kind": "新聞",
+    "outlet": "華視新聞網",
+    "title": "「北市至少4-50萬客家人」　沈伯洋提5大客家政策",
+    "url": "https://news.cts.com.tw/cts/politics/202610/202610183091065.html",
+    "date": "2026-10-18",
+    "byline": "綜合報導"
+  },
+  {
+    "id": "src-ettoday-3257489",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "稱遷松機離島醫療後送靠公路或高鐵　蔣萬安：不是每件都急重症",
+    "url": "https://www.ettoday.net/news/20261019/3257489.htm",
+    "date": "2026-10-19",
+    "byline": "鄭佩玟"
+  },
+  {
+    "id": "src-udn-9827331",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "松機遷移...找陳水扁、謝長廷串連支持？蔣萬安：邀跨黨派討論非常好",
+    "url": "https://udn.com/news/story/124652/9827331",
+    "date": "2026-10-20",
+    "byline": "林麗玉、楊正海"
   }
 ]
