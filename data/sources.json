@@ -1888,5 +1888,77 @@
     "url": "https://udn.com/news/story/6656/9828063",
     "date": "2026-10-21",
     "byline": "洪子凱"
+  },
+  {
+    "id": "src-cna-202610220314",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋談城市美感　規劃市民大道橋下音樂廊道",
+    "url": "https://www.cna.com.tw/news/aipl/202610220314.aspx",
+    "date": "2026-10-22",
+    "byline": "劉建邦"
+  },
+  {
+    "id": "src-ltn-5615313",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "沈伯洋拋活化市民大道橋下空間 規劃音樂、動漫廊道帶動商圈",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5615313",
+    "date": "2026-10-22",
+    "byline": "甘孟霖"
+  },
+  {
+    "id": "src-cna-202610220062",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "「順報」第二版發送　沈伯洋：以兒童為主題",
+    "url": "https://www.cna.com.tw/news/aipl/202610220062.aspx",
+    "date": "2026-10-22",
+    "byline": "劉建邦"
+  },
+  {
+    "id": "src-pts-832466",
+    "kind": "新聞",
+    "outlet": "公視新聞網",
+    "title": "沈伯洋拋颱風假與台股脫鉤 蔣萬安：未來可與中央協調",
+    "url": "https://news.pts.org.tw/article/832466",
+    "date": "2026-10-22",
+    "byline": "張志雄、陳昌維、張梓嘉"
+  },
+  {
+    "id": "src-chinatimes-20261022003186",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "不顧人民安全？沈伯洋拋股市與颱風假脫鉤 藍青年揭真面目",
+    "url": "https://www.chinatimes.com/realtimenews/20261022003186-260407",
+    "date": "2026-10-22",
+    "byline": "謝雅柔"
+  },
+  {
+    "id": "src-cna-202610220194",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "蔣萬安：松機遷建願與中央討論　應從未來角度思考",
+    "url": "https://www.cna.com.tw/news/aipl/202610220194.aspx",
+    "date": "2026-10-22",
+    "byline": "葉臻"
+  },
+  {
+    "id": "src-cna-202610220114",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "松機遷移　金門縣長陳福海：茲事體大堅決反對",
+    "url": "https://www.cna.com.tw/news/aipl/202610220114.aspx",
+    "date": "2026-10-22",
+    "byline": "吳玟嶸"
+  },
+  {
+    "id": "src-ettoday-3259118",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "蔣萬安拋松機遷移　行政院：蔣今沒來開會無法進一步討論",
+    "url": "https://www.ettoday.net/news/20261022/3259118.htm",
+    "date": "2026-10-22",
+    "byline": "陳家祥"
   }
 ]
