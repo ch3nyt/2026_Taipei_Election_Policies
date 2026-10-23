@@ -1960,5 +1960,59 @@
     "url": "https://www.ettoday.net/news/20261022/3259118.htm",
     "date": "2026-10-22",
     "byline": "陳家祥"
+  },
+  {
+    "id": "src-udn-9830773",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "沈伯洋拋股市與颱風假脫鉤 羅智強酸：一起在立法院好好討論",
+    "url": "https://udn.com/news/story/6656/9830773",
+    "date": "2026-10-22",
+    "byline": "詹宜庭"
+  },
+  {
+    "id": "src-udn-9832429",
+    "kind": "新聞",
+    "outlet": "聯合報",
+    "title": "沈伯洋發言惹議 藍轟「颱風脫鉤論」狀況外",
+    "url": "https://udn.com/news/story/124652/9832429",
+    "date": "2026-10-23",
+    "byline": "本報記者／連線報導"
+  },
+  {
+    "id": "src-cna-202610210175",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "台北市長、議員選舉23日號次抽籤　若遇颱風停班延至27日",
+    "url": "https://www.cna.com.tw/news/aloc/202610210175.aspx",
+    "date": "2026-10-21",
+    "byline": "葉蓁芸"
+  },
+  {
+    "id": "src-ettoday-3259589",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "12萬人讚沈伯洋政策島　支持者：台灣驕傲！期待你當市長甚至總統",
+    "url": "https://www.ettoday.net/news/20261023/3259589.htm",
+    "date": "2026-10-23",
+    "byline": "郭運興"
+  },
+  {
+    "id": "src-ltn-5615672",
+    "kind": "新聞",
+    "outlet": "自由時報",
+    "title": "另類森友會！沈伯洋推「HEART 政策島」：颱風天歡迎上島探索",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5615672",
+    "date": "2026-10-22",
+    "byline": "即時新聞／綜合報導"
+  },
+  {
+    "id": "src-chinatimes-20261022004564",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "薔琵颱風威脅加劇！北北基桃達共識 10／23停止上班上課",
+    "url": "https://www.chinatimes.com/realtimenews/20261022004564-260405",
+    "date": "2026-10-22",
+    "byline": "邱芊、高鈞麟、劉宗龍"
   }
 ]
