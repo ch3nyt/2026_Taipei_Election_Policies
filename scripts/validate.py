@@ -57,8 +57,9 @@ def main() -> int:
             check_src(ref, f"候選人 {c['key']}")
             used.add(ref)
     for m in cands["election"]["milestones"]:
-        check_src(m["src"], "選舉日程")
-        used.add(m["src"])
+        for ref in [m["src"]] + m.get("srcs", []):
+            check_src(ref, "選舉日程")
+            used.add(ref)
     if cands["election"].get("other_candidates_src"):
         used.add(cands["election"]["other_candidates_src"])
 
