@@ -2014,5 +2014,41 @@
     "url": "https://www.chinatimes.com/realtimenews/20261022004564-260405",
     "date": "2026-10-22",
     "byline": "邱芊、高鈞麟、劉宗龍"
+  },
+  {
+    "id": "src-setn-1927882",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "沈伯洋「Debug松」談種樹、鼠患7市政問題　線上逾2萬人觀看",
+    "url": "https://www.setn.com/news/1927882",
+    "date": "2026-10-24",
+    "byline": "倪譽瑋"
+  },
+  {
+    "id": "src-ettoday-3260243",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "沈伯洋颱風天開「市政Debug松」邀94專家線上論政　女兒頻亂入比YA",
+    "url": "https://www.ettoday.net/news/20261024/3260243.htm",
+    "date": "2026-10-24",
+    "byline": "杜冠霖"
+  },
+  {
+    "id": "src-nownews-6886273",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "沈伯洋稱市民大道「切割南北」要活化 蔣萬安競辦：早就有夜經濟",
+    "url": "https://www.nownews.com/news/6886273",
+    "date": "2026-10-24",
+    "byline": "蘇柏銓"
+  },
+  {
+    "id": "src-chinatimes-20261024002936",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "沈伯洋談市民大道「切開南北」要縫合 蔣辦：又出洋相！",
+    "url": "https://www.chinatimes.com/realtimenews/20261024002936-260407",
+    "date": "2026-10-24",
+    "byline": "丁世傑"
   }
 ]
