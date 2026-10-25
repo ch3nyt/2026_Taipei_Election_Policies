@@ -2050,5 +2050,59 @@
     "url": "https://www.chinatimes.com/realtimenews/20261024002936-260407",
     "date": "2026-10-24",
     "byline": "丁世傑"
+  },
+  {
+    "id": "src-udn-9836241",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "市民大道「縫合」遭酸不懂市政 沈伯洋反擊：蔣萬安也講過",
+    "url": "https://udn.com/news/story/124652/9836241",
+    "date": "2026-10-25",
+    "byline": "郭政芬"
+  },
+  {
+    "id": "src-udn-9836027",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "沈伯洋南北縫合說又拿市府政策當政見？ 蔣萬安競辦酸：理解如外地人",
+    "url": "https://udn.com/news/story/124652/9836027",
+    "date": "2026-10-25",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-setn-1928064",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "沈伯洋拋市民大道南北縫合！蔣萬安酸：不能天馬行空",
+    "url": "https://www.setn.com/news/1928064",
+    "date": "2026-10-25",
+    "byline": "陳思妤"
+  },
+  {
+    "id": "src-nextapple-20261025-115132",
+    "kind": "新聞",
+    "outlet": "壹蘋新聞網",
+    "title": "蔣萬安稱「南北切開已排除」　反擊沈伯洋：應好好了解台北市",
+    "url": "https://news.nextapple.com/politics/20261025/115132D5563E5E4FD2722A1D079997CA",
+    "date": "2026-10-25",
+    "byline": "施養正"
+  },
+  {
+    "id": "src-cts-202610253093807",
+    "kind": "新聞",
+    "outlet": "華視新聞網",
+    "title": "沈拋「市民大道南北縫合」　蔣：鐵路地下化後已解決",
+    "url": "https://news.cts.com.tw/cts/politics/202610/202610253093807.html",
+    "date": "2026-10-25",
+    "byline": "綜合報導"
+  },
+  {
+    "id": "src-newtalk-1067438",
+    "kind": "新聞",
+    "outlet": "Newtalk新聞",
+    "title": "沈伯洋首場全英文專訪 談洋流、黑名單、雙城論壇：我相信能贏",
+    "url": "https://newtalk.tw/news/view/2026-10-25/1067438",
+    "date": "2026-10-25",
+    "byline": "陳湘芸"
   }
 ]
