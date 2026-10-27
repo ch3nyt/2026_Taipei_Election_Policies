@@ -2158,5 +2158,77 @@
     "url": "https://www.setn.com/news/1928582",
     "date": "2026-10-26",
     "byline": "劉秀敏"
+  },
+  {
+    "id": "src-ettoday-3261546",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "沈伯洋批缺乏水文化治理思維　北市府列成果回擊：早已推動多年",
+    "url": "https://www.ettoday.net/news/20261027/3261546.htm",
+    "date": "2026-10-27",
+    "byline": "郭運興"
+  },
+  {
+    "id": "src-mirrormedia-20261027-166inv-104228",
+    "kind": "新聞",
+    "outlet": "鏡週刊",
+    "title": "沈伯洋提「水文化復興運動」　北市工務局列8實績打臉：6年前就在做了",
+    "url": "https://www.mirrormedia.mg/story/20261027-166inv-104228",
+    "date": "2026-10-27",
+    "byline": "陳彥宇"
+  },
+  {
+    "id": "src-ettoday-3261894",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "沈伯洋拋市民大道南北縫合　徐巧芯酸荒謬",
+    "url": "https://www.ettoday.net/news/20261028/3261894.htm",
+    "date": "2026-10-28",
+    "byline": "黃翊婷"
+  },
+  {
+    "id": "src-chinatimes-20261027001223",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "台北市長選舉號次出爐！沈伯洋3號、 蔣萬安5號",
+    "url": "https://www.chinatimes.com/realtimenews/20261027001223-260407",
+    "date": "2026-10-27",
+    "byline": "邱芊"
+  },
+  {
+    "id": "src-tvbs-4041834",
+    "kind": "新聞",
+    "outlet": "TVBS新聞網",
+    "title": "2026九合一選舉抽籤出爐！蔣萬安5號、沈伯洋3號，22縣市長候選人號次一次看",
+    "url": "https://news.tvbs.com.tw/politics/4041834",
+    "date": "2026-10-27",
+    "byline": "陳宥婷"
+  },
+  {
+    "id": "src-cna-202610270125",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋推政策白皮書　文庫本「洋流誌」詮釋5主軸",
+    "url": "https://www.cna.com.tw/news/aloc/202610270125.aspx",
+    "date": "2026-10-27",
+    "byline": "劉建邦"
+  },
+  {
+    "id": "src-udn-9836876",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "蔣萬安競總成立…三子再合體 在野大團結",
+    "url": "https://udn.com/news/story/124652/9836876",
+    "date": "2026-10-26",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-tvbs-4041599",
+    "kind": "新聞",
+    "outlet": "TVBS新聞網",
+    "title": "國民大會專訪／藍營選民不表態成隱憂　蔣萬安籲勇敢投票「勿事後才後悔」",
+    "url": "https://news.tvbs.com.tw/politics/4041599",
+    "date": "2026-10-26",
+    "byline": "黃芊昀"
   }
 ]
