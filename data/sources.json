@@ -2302,5 +2302,185 @@
     "url": "https://www.setn.com/news/1930887",
     "date": "2026-10-30",
     "byline": "楊士誼"
+  },
+  {
+    "id": "src-cna-202610310083",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋談若上任重要工作　把樹種回來、解決兒虐並改善營養午餐[影]",
+    "url": "https://www.cna.com.tw/news/aloc/202610310083.aspx",
+    "date": "2026-10-31",
+    "byline": "劉建邦"
+  },
+  {
+    "id": "src-cna-202610310088",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "都更議題交鋒　蔣萬安批已讀亂回沈伯洋促強化陪伴機制[影]",
+    "url": "https://www.cna.com.tw/news/aloc/202610310088.aspx",
+    "date": "2026-10-31",
+    "byline": "葉素萍"
+  },
+  {
+    "id": "src-cna-202610310095",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "北市長辯論　蔣萬安批對毒駕態度傲慢　沈伯洋指地方應重預防[影]",
+    "url": "https://www.cna.com.tw/news/aloc/202610310095.aspx",
+    "date": "2026-10-31",
+    "byline": "葉素萍"
+  },
+  {
+    "id": "src-cna-202610310099",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "蔣萬安問市民大道藝文廊帶　沈伯洋答縫合做人流串接",
+    "url": "https://www.cna.com.tw/news/aloc/202610310099.aspx",
+    "date": "2026-10-31",
+    "byline": "黃麗芸"
+  },
+  {
+    "id": "src-cna-202610310101",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋質疑食安、兒虐議題雙標　蔣萬安反擊不熟市府處理",
+    "url": "https://www.cna.com.tw/news/aloc/202610310101.aspx",
+    "date": "2026-10-31",
+    "byline": "葉蓁芸"
+  },
+  {
+    "id": "src-cna-202610310107",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋質疑誤砍茄苳樹　蔣萬安反指講錯三章一Q[影]",
+    "url": "https://www.cna.com.tw/news/aloc/202610310107.aspx",
+    "date": "2026-10-31",
+    "byline": "李念庭"
+  },
+  {
+    "id": "src-cna-202610310112",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "媒體問都更　沈伯洋提3作法增韌性、蔣萬安舉都更八箭成果",
+    "url": "https://www.cna.com.tw/news/aloc/202610310112.aspx",
+    "date": "2026-10-31",
+    "byline": "葉蓁芸、劉建邦"
+  },
+  {
+    "id": "src-cna-202610310117",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "蔣萬安結論質疑沈伯洋搖擺雙標　敬佩柯文哲公正客觀",
+    "url": "https://www.cna.com.tw/news/aloc/202610310117.aspx",
+    "date": "2026-10-31",
+    "byline": "王承中"
+  },
+  {
+    "id": "src-tvbs-4043859",
+    "kind": "新聞",
+    "outlet": "TVBS新聞網",
+    "title": "台北市長辯論／沈伯洋提上任百日3作為　首先「把樹種回來！」",
+    "url": "https://news.tvbs.com.tw/politics/4043859",
+    "date": "2026-10-31",
+    "byline": "潘袁詩羽"
+  },
+  {
+    "id": "src-tvbs-4043906",
+    "kind": "新聞",
+    "outlet": "TVBS新聞網",
+    "title": "台北市長辯論／沈伯洋拋都更三大主張　蔣萬安指「市府早已在做」",
+    "url": "https://news.tvbs.com.tw/politics/4043906",
+    "date": "2026-10-31",
+    "byline": "陳正敬"
+  },
+  {
+    "id": "src-bt-202610310006",
+    "kind": "新聞",
+    "outlet": "今周刊",
+    "title": "台北市長辯論／申論：沈伯洋允上任100天內改善「這三件事」…蔣萬安再提輝達鮮奶大巨蛋政績",
+    "url": "https://www.businesstoday.com.tw/article/category/183027/post/202610310006/",
+    "date": "2026-10-31",
+    "byline": "蘇芳禾"
+  },
+  {
+    "id": "src-bt-202610310009",
+    "kind": "新聞",
+    "outlet": "今周刊",
+    "title": "台北市長辯論／蔣萬安「九連問」追昔發言...沈伯洋嗆「回來當立委！」交叉詰問後加碼要LINE再約戰",
+    "url": "https://www.businesstoday.com.tw/article/category/183027/post/202610310009/",
+    "date": "2026-10-31",
+    "byline": "鄭鴻達"
+  },
+  {
+    "id": "src-udn-9848767",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "直球對決！辯論攻勢拋「都市更新案例」問沈伯洋…蔣萬安轟：已讀亂回",
+    "url": "https://udn.com/news/story/124652/9848767",
+    "date": "2026-10-31",
+    "byline": "林麗玉、洪子凱"
+  },
+  {
+    "id": "src-udn-9848892",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "比耐震都更 沈伯洋提初篩3階段 蔣萬安酸回：這些我們早就在做",
+    "url": "https://udn.com/news/story/124652/9848892",
+    "date": "2026-10-31",
+    "byline": "林麗玉、林佳彣"
+  },
+  {
+    "id": "src-chinatimes-20261031002043",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "北市長辯論》媒體問都更議題   沈伯洋提三階段機制   蔣萬安：早就在做",
+    "url": "https://www.chinatimes.com/realtimenews/20261031002043-260407",
+    "date": "2026-10-31",
+    "byline": "莊雅婷、丁世傑、趙雙傑、姚志平"
+  },
+  {
+    "id": "src-setn-1931242",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "北市長辯論／蔣萬安首問都更轟不懂市政！沈伯洋反擊：不能只秀漂亮數據",
+    "url": "https://www.setn.com/news/1931242",
+    "date": "2026-10-31",
+    "byline": "陳慈鈴（編輯）"
+  },
+  {
+    "id": "src-setn-1931309",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "北市長辯論／蔣萬安質疑AI廊帶！沈伯洋：我長得像卓榮泰、蘇巧慧嗎？",
+    "url": "https://www.setn.com/news/1931309",
+    "date": "2026-10-31",
+    "byline": "陳慈鈴（編輯）"
+  },
+  {
+    "id": "src-nownews-6888115",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "北市辯論／東門茄苳樹誤砍！沈伯洋追問SOP哪出錯？蔣萬安提數據",
+    "url": "https://www.nownews.com/news/6888115",
+    "date": "2026-10-31",
+    "byline": "胡郁欣"
+  },
+  {
+    "id": "src-ctwant-504659",
+    "kind": "新聞",
+    "outlet": "CTWANT",
+    "title": "北市長辯論／松山機場遷移攻防　沈伯洋質疑選前急推、蔣萬安：112年就向政院表態",
+    "url": "https://www.ctwant.com/article/504659/",
+    "date": "2026-10-31",
+    "byline": "徐立諺"
+  },
+  {
+    "id": "vid-0IlnD7rfC88",
+    "kind": "影片",
+    "outlet": "三立新聞網SETN",
+    "title": "【直播完整版】2026台北市長候選人電視辯論會 蔣萬安、沈伯洋正面交鋒｜三立新聞網 SETN.com",
+    "url": "https://www.youtube.com/watch?v=0IlnD7rfC88",
+    "date": "2026-10-31",
+    "byline": null
   }
 ]
