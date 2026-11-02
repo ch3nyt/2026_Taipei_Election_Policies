@@ -2482,5 +2482,86 @@
     "url": "https://www.youtube.com/watch?v=0IlnD7rfC88",
     "date": "2026-10-31",
     "byline": null
+  },
+  {
+    "id": "src-cna-202611010078",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "勞動政見公開講　沈伯洋暢述「台北有靠3」等政見",
+    "url": "https://www.cna.com.tw/news/aipl/202611010078.aspx",
+    "date": "2026-11-01",
+    "byline": "黃麗芸"
+  },
+  {
+    "id": "src-cna-202611010177",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋開箱大安文山大秘寶　暢述從水圳到茶山等5政見",
+    "url": "https://www.cna.com.tw/news/aipl/202611010177.aspx",
+    "date": "2026-11-01",
+    "byline": "黃麗芸"
+  },
+  {
+    "id": "src-cna-202611010132",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "蔣萬安允清潔隊員　不等中央核定、先調高夜點費推首都福利",
+    "url": "https://www.cna.com.tw/news/aipl/202611010132.aspx",
+    "date": "2026-11-01",
+    "byline": "楊淑閔"
+  },
+  {
+    "id": "src-udn-9850304",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "影／勞動政見公開講 蔣萬安承諾「落實勞檢、強化職災防護」",
+    "url": "https://udn.com/news/story/124652/9850304",
+    "date": "2026-11-01",
+    "byline": "潘俊宏"
+  },
+  {
+    "id": "src-setn-1931772",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "搶攻基層勞工選票！沈伯洋拋出五大政策：勞工AI支持、育兒津貼加碼",
+    "url": "https://www.setn.com/news/1931772",
+    "date": "2026-11-01",
+    "byline": "盧素梅"
+  },
+  {
+    "id": "src-setn-1931941",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "「0到6歲腸病毒疫苗免費」沈伯洋開箱大安、文山五大政策　重點一次看",
+    "url": "https://www.setn.com/news/1931941",
+    "date": "2026-11-01",
+    "byline": "林瑞恩"
+  },
+  {
+    "id": "src-ettoday-3264415",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "搶勞工票！蔣萬安向工會拋4項利多承諾　「即刻調高夜點費」",
+    "url": "https://www.ettoday.net/news/20261101/3264415.htm",
+    "date": "2026-11-01",
+    "byline": "鄭佩玟"
+  },
+  {
+    "id": "src-ettoday-3264551",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "搶攻三明治世代！　沈伯洋開箱大安文山五大秘寶",
+    "url": "https://www.ettoday.net/news/20261101/3264551.htm",
+    "date": "2026-11-01",
+    "byline": "詹詠淇"
+  },
+  {
+    "id": "src-epochtimes-14880898",
+    "kind": "新聞",
+    "outlet": "大紀元",
+    "title": "台北市長選戰聚焦勞權 蔣萬安、沈伯洋提政見",
+    "url": "https://www.epochtimes.com/b5/26/11/1/n14880898.htm",
+    "date": "2026-11-01",
+    "byline": "吳旻洲"
   }
 ]
