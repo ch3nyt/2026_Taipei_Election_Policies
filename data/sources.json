@@ -2725,5 +2725,41 @@
     "url": "https://www.chinatimes.com/newspapers/20261103000545-260107",
     "date": "2026-11-03",
     "byline": "黃敬文"
+  },
+  {
+    "id": "src-cna-202611040342",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "改善行人地獄情形  北市安心行展成果、116年2.0版上路",
+    "url": "https://www.cna.com.tw/news/aloc/202611040342.aspx",
+    "date": "2026-11-04",
+    "byline": "楊淑閔"
+  },
+  {
+    "id": "src-udn-9857448",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "擘畫北市交通安心行4年計畫 蔣萬安：因應高齡化打造行人友善環境",
+    "url": "https://udn.com/news/story/7323/9857448",
+    "date": "2026-11-04",
+    "byline": "邱書昱"
+  },
+  {
+    "id": "src-tvbs-4046016",
+    "kind": "新聞",
+    "outlet": "TVBS新聞網",
+    "title": "喊話「不排斥兩岸交流」！沈伯洋提續辦雙城論壇4條件",
+    "url": "https://news.tvbs.com.tw/politics/4046016",
+    "date": "2026-11-04",
+    "byline": "潘袁詩羽"
+  },
+  {
+    "id": "src-setn-1933640",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "當選後不辦雙城論壇？沈伯洋直言：要守住資安、中國不軍演和設政治前提",
+    "url": "https://www.setn.com/news/1933640",
+    "date": "2026-11-04",
+    "byline": "楊士誼"
   }
 ]
