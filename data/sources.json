@@ -2617,5 +2617,113 @@
     "url": "https://www.nownews.com/news/6888778",
     "date": "2026-11-02",
     "byline": "陳韻年"
+  },
+  {
+    "id": "src-udn-9851609",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "生養育「母嬰一條龍」照護 蔣萬安曝逾1700件申請、還有Line24小時諮詢",
+    "url": "https://udn.com/news/story/6656/9851609",
+    "date": "2026-11-02",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-chinatimes-20261102002442",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "與沈伯洋「家庭一站式」撞題？ 蔣萬安視察聯合諮詢：能做的早就在做",
+    "url": "https://www.chinatimes.com/realtimenews/20261102002442-260407",
+    "date": "2026-11-02",
+    "byline": "黃敬文"
+  },
+  {
+    "id": "src-cdns-1484243",
+    "kind": "新聞",
+    "outlet": "中華日報",
+    "title": "北市婦幼一條龍 照護逾1700件",
+    "url": "https://www.cdns.com.tw/articles/1484243",
+    "date": "2026-11-02",
+    "byline": "孫曜樟"
+  },
+  {
+    "id": "src-chinatimes-20261103002336",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "社子島開發有解？沈伯洋拋「第三方案」揭關鍵做法",
+    "url": "https://www.chinatimes.com/realtimenews/20261103002336-260407",
+    "date": "2026-11-03",
+    "byline": "袁茵"
+  },
+  {
+    "id": "src-pts-834020",
+    "kind": "新聞",
+    "outlet": "公視新聞網",
+    "title": "沈伯洋主張社子島開發優先 蔣萬安：與松機遷建不衝突",
+    "url": "https://news.pts.org.tw/article/834020",
+    "date": "2026-11-03",
+    "byline": "黃姵涵、陳柏諭、張旻儒"
+  },
+  {
+    "id": "src-epochtimes-tw-517460",
+    "kind": "新聞",
+    "outlet": "大紀元",
+    "title": "優先改建社子島 沈伯洋拋「綜合方案」",
+    "url": "https://www.epochtimes.com.tw/n517460/",
+    "date": "2026-11-03",
+    "byline": "常懷仁、林丞奕"
+  },
+  {
+    "id": "src-nownews-6888919",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "沈伯洋稱社子島改建優於遷松機 蔣萬安愣：難道一次只能做一事？",
+    "url": "https://www.nownews.com/news/6888919",
+    "date": "2026-11-03",
+    "byline": "蘇柏銓"
+  },
+  {
+    "id": "src-newtalk-1069004",
+    "kind": "新聞",
+    "outlet": "Newtalk新聞",
+    "title": "蔣萬安拚4年後公托免抽籤 沈春華：政策支票未來要被檢驗",
+    "url": "https://newtalk.tw/news/view/2026-11-03/1069004",
+    "date": "2026-11-03",
+    "byline": "周煊惠"
+  },
+  {
+    "id": "src-nownews-6888933",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "上沈春華節目開政策支票！蔣萬安：4年後小朋友公托不用抽籤",
+    "url": "https://www.nownews.com/news/6888933",
+    "date": "2026-11-03",
+    "byline": "蘇柏銓"
+  },
+  {
+    "id": "src-nownews-6888947",
+    "kind": "新聞",
+    "outlet": "NOWnews今日新聞",
+    "title": "為何年輕人不挺？蔣萬安重提砍樹 沈春華聽不下去：別再提了！",
+    "url": "https://www.nownews.com/news/6888947",
+    "date": "2026-11-03",
+    "byline": "蘇柏銓"
+  },
+  {
+    "id": "src-chinatimes-20261104000035",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "打臉沈伯洋雙導師制  葉元之揭真相批不倫不類：本質是草包",
+    "url": "https://www.chinatimes.com/realtimenews/20261104000035-260407",
+    "date": "2026-11-04",
+    "byline": "祝潤霖"
+  },
+  {
+    "id": "src-chinatimes-20261103000545",
+    "kind": "新聞",
+    "outlet": "中國時報",
+    "title": "三寶爸挺育兒 蔣萬安推到府照顧",
+    "url": "https://www.chinatimes.com/newspapers/20261103000545-260107",
+    "date": "2026-11-03",
+    "byline": "黃敬文"
   }
 ]
