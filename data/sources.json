@@ -2860,5 +2860,59 @@
     "url": "https://www.nownews.com/news/6888659",
     "date": "2026-11-02",
     "byline": "林翊涵"
+  },
+  {
+    "id": "src-newtalk-1069880",
+    "kind": "新聞",
+    "outlet": "Newtalk新聞",
+    "title": "「大洋流」內湖南港站聚集兩萬人 沈伯洋結合港湖特色說明政見",
+    "url": "https://newtalk.tw/news/view/2026-11-07/1069880",
+    "date": "2026-11-07",
+    "byline": "李宣萱"
+  },
+  {
+    "id": "src-ltn-5633209",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "沈伯洋提港湖政見大秘寶 緩解塞車住工合一、商圈振興及縫合",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633209",
+    "date": "2026-11-08",
+    "byline": "董冠怡"
+  },
+  {
+    "id": "src-udn-9864230",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "「雙洋」同台聊政策！李洋首上造勢場避談選舉 與沈伯洋大談運動願景",
+    "url": "https://udn.com/news/story/124652/9864230",
+    "date": "2026-11-07",
+    "byline": "洪子凱"
+  },
+  {
+    "id": "src-chinatimes-20261107003259",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "沈伯洋都更政策土地「不能說」？ 蔣辦：口號無限 答案不見！",
+    "url": "https://www.chinatimes.com/realtimenews/20261107003259-260407",
+    "date": "2026-11-07",
+    "byline": "丁世傑"
+  },
+  {
+    "id": "src-ettoday-3268227",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "沈伯洋拋都更政策土地盤點卻不說？　蔣辦酸：口號無限、答案不見",
+    "url": "https://www.ettoday.net/news/20261107/3268227.htm",
+    "date": "2026-11-07",
+    "byline": "陳家祥"
+  },
+  {
+    "id": "src-ettoday-3268230",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "李洋站台初體驗　跟沈伯洋站肥皂箱暢談運動政策半小時",
+    "url": "https://www.ettoday.net/news/20261107/3268230.htm",
+    "date": "2026-11-07",
+    "byline": "杜冠霖"
   }
 ]
