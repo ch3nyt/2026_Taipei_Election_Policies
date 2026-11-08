@@ -2914,5 +2914,122 @@
     "url": "https://www.ettoday.net/news/20261107/3268230.htm",
     "date": "2026-11-07",
     "byline": "杜冠霖"
+  },
+  {
+    "id": "src-ettoday-3268029",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "沈伯洋再祭2招住宅政策　老宅服務團、閒置空屋投入包租代管",
+    "url": "https://www.ettoday.net/news/20261107/3268029.htm",
+    "date": "2026-11-07",
+    "byline": "杜冠霖"
+  },
+  {
+    "id": "src-taisounds-20261107-housing",
+    "kind": "新聞",
+    "outlet": "太報（Yahoo奇摩新聞轉載）",
+    "title": "沈伯洋住宅政策再加碼　老宅延壽推單一窗口、活化空屋興辦社宅",
+    "url": "https://tw.news.yahoo.com/%E6%B2%88%E4%BC%AF%E6%B4%8B%E4%BD%8F%E5%AE%85%E6%94%BF%E7%AD%96%E5%86%8D%E5%8A%A0%E7%A2%BC-%E8%80%81%E5%AE%85%E5%BB%B6%E5%A3%BD%E6%8E%A8%E5%96%AE-%E7%AA%97%E5%8F%A3-%E6%B4%BB%E5%8C%96%E7%A9%BA%E5%B1%8B%E8%88%88%E8%BE%A6%E7%A4%BE%E5%AE%85-071950765.html",
+    "date": "2026-11-07",
+    "byline": "林佳鋒"
+  },
+  {
+    "id": "src-ltn-5633268",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "一搭一唱？蔣競辦質疑沈伯洋選後才說 都發局週末發文稱都已在執行路上",
+    "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5633268",
+    "date": "2026-11-08",
+    "byline": "董冠怡"
+  },
+  {
+    "id": "src-ltn-5633933",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "都發局缺人還週末回應住宅政策 沈伯洋：沒必要幫蔣市長競辦回覆",
+    "url": "https://news.ltn.com.tw/news/politics/breakingnews/5633933",
+    "date": "2026-11-08",
+    "byline": "董冠怡"
+  },
+  {
+    "id": "src-tvbs-4047415",
+    "kind": "新聞",
+    "outlet": "TVBS新聞網",
+    "title": "社宅政策挨酸早就做！沈伯洋反擊都發局：別為了選舉幫蔣護航",
+    "url": "https://news.tvbs.com.tw/politics/4047415",
+    "date": "2026-11-08",
+    "byline": "陳正敬"
+  },
+  {
+    "id": "src-setn-1935426",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "都發局假日發稿駁社宅政見　沈伯洋酸：沒有必要為了選舉幫蔣競辦護航",
+    "url": "https://www.setn.com/news/1935426",
+    "date": "2026-11-08",
+    "byline": "盧素梅"
+  },
+  {
+    "id": "src-chinatimes-20261108002309",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "沈伯洋稱都更政見「選後再說」蔣萬安開嗆：政策不能靠瞎猜",
+    "url": "https://www.chinatimes.com/realtimenews/20261108002309-260407",
+    "date": "2026-11-08",
+    "byline": "黃敬文"
+  },
+  {
+    "id": "src-cnews-235261108a07",
+    "kind": "新聞",
+    "outlet": "匯流新聞網",
+    "title": "喊話沈伯洋公辦政見會說清楚都更　蔣萬安：不要又是瞎猜",
+    "url": "https://cnews.com.tw/235261108a07",
+    "date": "2026-11-08",
+    "byline": "潘語綺"
+  },
+  {
+    "id": "src-udn-9865720",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "都更過招 蔣萬安酸沈伯洋「選後再說」",
+    "url": "https://udn.com/vote2026/story/124652/9865720",
+    "date": "2026-11-09",
+    "byline": "林麗玉、洪子凱"
+  },
+  {
+    "id": "src-udn-9865353",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "搶攻青年票！蔣萬安細數政策 拋單身族優先入住幸福住宅",
+    "url": "https://udn.com/news/story/124652/9865353",
+    "date": "2026-11-08",
+    "byline": "邱書昱"
+  },
+  {
+    "id": "src-udn-9865371",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "青年後援會成立 蔣萬安提單身優先幸福住宅搶青年票",
+    "url": "https://udn.com/news/story/124652/9865371",
+    "date": "2026-11-08",
+    "byline": "曾吉松"
+  },
+  {
+    "id": "src-ebc-579729",
+    "kind": "新聞",
+    "outlet": "東森新聞",
+    "title": "選前假日再拚場！蔣青年後援會 沈邀火舞團表演",
+    "url": "https://news.ebc.net.tw/news/politics/579729",
+    "date": "2026-11-08",
+    "byline": "東森新聞"
+  },
+  {
+    "id": "src-nextapple-20261108-academia",
+    "kind": "新聞",
+    "outlet": "壹蘋新聞網",
+    "title": "學界成立後援會　近1300人連署！沈伯洋：起初目標50人",
+    "url": "https://news.nextapple.com/politics/20261108/4EF5ACB4A8A65791D3FED062A5D6CFC8",
+    "date": "2026-11-08",
+    "byline": "李易昌"
   }
 ]
