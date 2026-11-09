@@ -3031,5 +3031,86 @@
     "url": "https://news.nextapple.com/politics/20261108/4EF5ACB4A8A65791D3FED062A5D6CFC8",
     "date": "2026-11-08",
     "byline": "李易昌"
+  },
+  {
+    "id": "src-cna-202611090078",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋提文化幣加碼　蔣萬安指沈在立院可趕快推動",
+    "url": "https://www.cna.com.tw/news/aloc/202611090078.aspx",
+    "date": "2026-11-09",
+    "byline": "楊淑閔"
+  },
+  {
+    "id": "src-ltnart-5634284",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "沈伯洋拋新政見  台北市文化幣加碼延伸至30歲  理由曝光",
+    "url": "https://art.ltn.com.tw/article/breakingnews/5634284",
+    "date": "2026-11-09",
+    "byline": "凌美雪"
+  },
+  {
+    "id": "src-chinatimes-20261109003881",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "沈伯洋拋北市加碼文化幣   蔣萬安「好的建議都會評估」：立院可先推",
+    "url": "https://www.chinatimes.com/realtimenews/20261109003881-260407",
+    "date": "2026-11-09",
+    "byline": "袁茵"
+  },
+  {
+    "id": "src-cna-202611090103",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "文化幣加碼交鋒　沈伯洋：蔣萬安可能沒跟到政見進度",
+    "url": "https://www.cna.com.tw/news/aloc/202611090103.aspx",
+    "date": "2026-11-09",
+    "byline": "黃麗芸"
+  },
+  {
+    "id": "src-pts-834975",
+    "kind": "新聞",
+    "outlet": "公視新聞網",
+    "title": "蔣萬安以施政成果拚連任 沈伯洋推都更、公務員減壓政策",
+    "url": "https://news.pts.org.tw/article/834975",
+    "date": "2026-11-09",
+    "byline": "黃姵涵、陳柏諭"
+  },
+  {
+    "id": "src-cna-202608140154",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "北市好孕專車補助提高至1萬元　懷孕至產後一年都可用",
+    "url": "https://www.cna.com.tw/news/aloc/202608140154.aspx",
+    "date": "2026-08-14",
+    "byline": "葉蓁芸"
+  },
+  {
+    "id": "src-ltn-5539926",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "北市好孕專車補助加碼到1萬！產後1年都能用 預計10月上路",
+    "url": "https://news.ltn.com.tw/news/life/breakingnews/5539926",
+    "date": "2026-08-14",
+    "byline": null
+  },
+  {
+    "id": "src-setn-1936094",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "沈伯洋新政見「加碼發錢」　上萬人讚：最好快點當選",
+    "url": "https://www.setn.com/news/1936094",
+    "date": "2026-11-09",
+    "byline": "倪譽瑋"
+  },
+  {
+    "id": "src-cts-202611093099131",
+    "kind": "新聞",
+    "outlet": "華視新聞網",
+    "title": "沈拋文化幣加碼政策　蔣：在立法院可以趕快推動",
+    "url": "https://news.cts.com.tw/cts/politics/202611/202611093099131.html",
+    "date": "2026-11-09",
+    "byline": "綜合報導"
   }
 ]
