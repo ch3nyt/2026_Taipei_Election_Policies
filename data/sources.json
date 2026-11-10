@@ -3112,5 +3112,41 @@
     "url": "https://news.cts.com.tw/cts/politics/202611/202611093099131.html",
     "date": "2026-11-09",
     "byline": "綜合報導"
+  },
+  {
+    "id": "src-cts-202611103099364",
+    "kind": "新聞",
+    "outlet": "華視新聞網（中央社稿）",
+    "title": "蔣萬安盼打造淡水河親水空間　強調城市治理不靠口號",
+    "url": "https://news.cts.com.tw/cna/local/202611/202611103099364.html",
+    "date": "2026-11-10",
+    "byline": "楊淑閔（中央社）"
+  },
+  {
+    "id": "src-ltn-5635728",
+    "kind": "新聞",
+    "outlet": "自由時報電子報",
+    "title": "北市淡水河岸增亮點 敦煌碼頭停遊艇、玩風帆",
+    "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5635728",
+    "date": "2026-11-10",
+    "byline": "何玉華"
+  },
+  {
+    "id": "src-udn-9869557",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "賞淡水河夕陽新景點！蔣萬安視察淡水河岸改造 敦煌碼頭年底完工啟用",
+    "url": "https://udn.com/news/story/7266/9869557",
+    "date": "2026-11-10",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-ettoday-3269511",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "12日請假拼選舉　蔣萬安：城市治理不靠口號「靠魄力落實」",
+    "url": "https://www.ettoday.net/news/20261110/3269511.htm",
+    "date": "2026-11-10",
+    "byline": "陳家祥"
   }
 ]
