@@ -3292,5 +3292,86 @@
     "url": "https://udn.com/news/story/124652/9875470",
     "date": "2026-11-13",
     "byline": "林媛玲、楊正海、邱書昱"
+  },
+  {
+    "id": "src-pts-835749",
+    "kind": "新聞",
+    "outlet": "公視新聞網",
+    "title": "北市公辦政見發表蔣提4年施政 沈攻兒虐、營養午餐議題",
+    "url": "https://news.pts.org.tw/article/835749",
+    "date": "2026-11-14",
+    "byline": "黃子杰、方雋淮、張梓嘉"
+  },
+  {
+    "id": "src-cts-202611143101130",
+    "kind": "新聞",
+    "outlet": "華視新聞網（中央社稿）",
+    "title": "台北市長選舉政見會　蔣萬安稱說到做到盼市民續支持",
+    "url": "https://news.cts.com.tw/cna/local/202611/202611143101130.html",
+    "date": "2026-11-14",
+    "byline": "葉蓁芸（中央社）"
+  },
+  {
+    "id": "src-nextapple-20261114-050BFB",
+    "kind": "新聞",
+    "outlet": "壹蘋新聞網",
+    "title": "政見發表會細數政績「30分鐘演說全文」一次看　蔣萬安嗆：台北不是口號實驗室",
+    "url": "https://news.nextapple.com/politics/20261114/050BFB81FD5CA60CC66FE060E69DD133",
+    "date": "2026-11-14",
+    "byline": "李俊毅"
+  },
+  {
+    "id": "src-nextapple-20261114-04914F",
+    "kind": "新聞",
+    "outlet": "壹蘋新聞網",
+    "title": "政見發表會拋5大面向　沈伯洋喊：我的市府就是要為大家全力以赴",
+    "url": "https://news.nextapple.com/politics/20261114/04914F9009A01CF7DA555656094BD8AF",
+    "date": "2026-11-14",
+    "byline": "李俊毅"
+  },
+  {
+    "id": "src-bt-202611140013",
+    "kind": "新聞",
+    "outlet": "今周刊",
+    "title": "台北市長政見發表會／沈伯洋HEART五面向出發「從有到好」：我的市府要為市民全力以赴",
+    "url": "https://www.businesstoday.com.tw/article/category/183027/post/202611140013/",
+    "date": "2026-11-14",
+    "byline": "數位內容部"
+  },
+  {
+    "id": "src-rti-1051521",
+    "kind": "新聞",
+    "outlet": "中央廣播電臺",
+    "title": "台北市長選戰╱沈伯洋首場公辦政見以HEART為核心、下回強調執行力",
+    "url": "https://www.rti.org.tw/news?uid=3&pid=1051521",
+    "date": "2026-11-14",
+    "byline": "吳琍君"
+  },
+  {
+    "id": "src-setn-1892032",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "不只3萬元月子加菜金！台北市婚育政策好康一次看",
+    "url": "https://www.setn.com/news/1892032",
+    "date": "2026-08-19",
+    "byline": "李鴻典"
+  },
+  {
+    "id": "vid-7hv01iR7jlg",
+    "kind": "影片",
+    "outlet": "民視新聞網",
+    "title": "【直播完整版】1114 政策願景沈伯洋、蔣萬安再度交鋒！ 台北市長候選人政見發表會登場｜民視快新聞｜",
+    "url": "https://www.youtube.com/watch?v=7hv01iR7jlg",
+    "date": "2026-11-14",
+    "byline": null
+  },
+  {
+    "id": "vid-6iJeAHCU9vw",
+    "kind": "影片",
+    "outlet": "寰宇新聞",
+    "title": "🔴Live／【倒數14天】台北市長公辦政見會首交鋒 蔣萬安.沈伯洋等6候選人政見對決 ｜#寰宇新聞",
+    "url": "https://www.youtube.com/watch?v=6iJeAHCU9vw",
+    "date": "2026-11-14",
+    "byline": null
   }
 ]
