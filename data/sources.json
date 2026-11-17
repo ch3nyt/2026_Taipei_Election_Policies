@@ -3508,5 +3508,50 @@
     "url": "https://www.ettoday.net/news/20260818/3221092.htm",
     "date": "2026-08-18",
     "byline": "杜冠霖"
+  },
+  {
+    "id": "src-rti-1051887",
+    "kind": "新聞",
+    "outlet": "中央廣播電臺",
+    "title": "台北市長選戰／翡翠水庫光電再交鋒 蔣萬安追問立場 沈伯洋表態不贊成",
+    "url": "https://www.rti.org.tw/news?uid=3&pid=1051887",
+    "date": "2026-11-17",
+    "byline": "鄭佑漢"
+  },
+  {
+    "id": "src-ettoday-3273519",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "翡翠水庫設光電板？　沈伯洋：「昨就SAY NO」藍委中文理解不同",
+    "url": "https://www.ettoday.net/news/20261117/3273519.htm",
+    "date": "2026-11-17",
+    "byline": "杜冠霖"
+  },
+  {
+    "id": "src-chinatimes-20261117002046",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "不對翡翠水庫光電say no？沈伯洋酸陳菁徽：中文理解跟我不同",
+    "url": "https://www.chinatimes.com/realtimenews/20261117002046-260407",
+    "date": "2026-11-17",
+    "byline": "黃敬文、郭吉銓"
+  },
+  {
+    "id": "src-cts-cna-202611173101980",
+    "kind": "新聞",
+    "outlet": "華視新聞網（中央社稿）",
+    "title": "選舉公報政見未提松機遷建　蔣萬安：已清楚說明",
+    "url": "https://news.cts.com.tw/cna/local/202611/202611173101980.html",
+    "date": "2026-11-17",
+    "byline": "葉蓁芸（中央社）"
+  },
+  {
+    "id": "src-mirror-20261117edi045",
+    "kind": "新聞",
+    "outlet": "鏡週刊",
+    "title": "松機遷建不見了　蔣萬安回應扯沈伯洋！黃暐瀚：到底算不算連任政見",
+    "url": "https://www.mirrormedia.mg/story/20261117edi045",
+    "date": "2026-11-17",
+    "byline": "黃雅琪"
   }
 ]
