@@ -3400,5 +3400,113 @@
     "url": "https://www.chinatimes.com/realtimenews/20261115002919-260407",
     "date": "2026-11-15",
     "byline": "黃敬文"
+  },
+  {
+    "id": "src-cec-bulletin-115-taipei-mayor",
+    "kind": "官方",
+    "outlet": "中央選舉委員會選舉及公民投票公報（臺北市選舉委員會編印）",
+    "title": "臺北市第 9 屆市長 / 臺北市議會第 15 屆議員選舉 選舉公報",
+    "url": "https://eebulletin.cec.gov.tw/115/01%E8%87%BA%E5%8C%97%E5%B8%82/01%E5%B8%82%E9%95%B7/%E8%87%BA%E5%8C%97%E5%B8%82%E7%AC%AC9%E5%B1%86%E5%B8%82%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+    "date": "2026-11-16",
+    "byline": null
+  },
+  {
+    "id": "src-ettoday-3273287",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "台北市長選舉公報曝光！　蔣萬安、沈伯洋政見一次看",
+    "url": "https://www.ettoday.net/news/20261116/3273287.htm",
+    "date": "2026-11-16",
+    "byline": "董美琪"
+  },
+  {
+    "id": "src-ettoday-3273351",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "蔣萬安選舉公報政見全文　「安心生活大有可為」詳列36項",
+    "url": "https://www.ettoday.net/news/20261117/3273351.htm",
+    "date": "2026-11-17",
+    "byline": "葉國吏"
+  },
+  {
+    "id": "src-setn-1940000",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "台北市長選舉公報出爐：蔣萬安「未提松山機場遷建」、沈伯洋政見藏亮點",
+    "url": "https://www.setn.com/news/1940000",
+    "date": "2026-11-16",
+    "byline": "林瑞恩"
+  },
+  {
+    "id": "src-rti-1051744",
+    "kind": "新聞",
+    "outlet": "中央廣播電臺",
+    "title": "台北市長選戰／翡翠水庫光電 蔣萬安反對、沈伯洋：先做建築能源",
+    "url": "https://www.rti.org.tw/news?uid=3&pid=1051744",
+    "date": "2026-11-16",
+    "byline": "鄭佑漢"
+  },
+  {
+    "id": "src-udn-9882039",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "翡翠水庫是否裝設光電板？ 沈伯洋稱尊重經濟部：建築物能源較急迫",
+    "url": "https://udn.com/news/story/6656/9882039",
+    "date": "2026-11-16",
+    "byline": "洪子凱"
+  },
+  {
+    "id": "src-udn-9882576",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "翡翠水庫是否設光電板 蔣萬安競辦問沈伯洋：連「我反對」都說不出口？",
+    "url": "https://udn.com/news/story/124652/9882576",
+    "date": "2026-11-16",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-nextapple-20261117-68AE2C",
+    "kind": "新聞",
+    "outlet": "壹蘋新聞網",
+    "title": "蔣萬安「絕對不准」翡翠水庫設光電板　反問沈伯洋：連一句反對都不敢講？",
+    "url": "https://news.nextapple.com/politics/20261117/68AE2CAE17B2C29E6A31FF3CF854F6B3",
+    "date": "2026-11-17",
+    "byline": "李俊毅"
+  },
+  {
+    "id": "src-nextapple-20261116-BA386C",
+    "kind": "新聞",
+    "outlet": "壹蘋新聞網",
+    "title": "沈伯洋會擋下翡翠水庫光電？　他回：尊重經濟部",
+    "url": "https://news.nextapple.com/politics/20261116/BA386C7DC97050C6045B300DF34B5461",
+    "date": "2026-11-16",
+    "byline": "施養正"
+  },
+  {
+    "id": "src-mirror-20261116edi047",
+    "kind": "新聞",
+    "outlet": "鏡週刊",
+    "title": "水利署澄清「未要求翡翠水庫放光電板」　沈伯洋：先把建築物能源做好",
+    "url": "https://www.mirrormedia.mg/story/20261116edi047",
+    "date": "2026-11-16",
+    "byline": "李昶毅"
+  },
+  {
+    "id": "src-cna-202611160271",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "要求翡翠水庫設置光電？水利署澄清：無強制推動情事",
+    "url": "https://www.cna.com.tw/news/afe/202611160271.aspx",
+    "date": "2026-11-16",
+    "byline": "梁家柔"
+  },
+  {
+    "id": "src-ettoday-3221092",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "搭成長津貼加碼！沈伯洋「城市青年基金」政策　大學畢業可領50萬",
+    "url": "https://www.ettoday.net/news/20260818/3221092.htm",
+    "date": "2026-08-18",
+    "byline": "杜冠霖"
   }
 ]
