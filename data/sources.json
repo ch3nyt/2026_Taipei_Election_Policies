@@ -3652,5 +3652,86 @@
     "url": "https://www.mirrordaily.news/story/99236",
     "date": "2026-11-20",
     "byline": "鄭宏斌"
+  },
+  {
+    "id": "src-chinatimes-20261121002541",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "擘畫未來20年藍圖 蔣萬安提「東南西北4大軸線」翻轉台北",
+    "url": "https://www.chinatimes.com/realtimenews/20261121002541-260407",
+    "date": "2026-11-21",
+    "byline": "丁上程"
+  },
+  {
+    "id": "src-taisounds-311087",
+    "kind": "新聞",
+    "outlet": "太報",
+    "title": "推東南西北建設藍圖　蔣萬安：誓讓台北掌握百年一遇發展契機",
+    "url": "https://www.taisounds.com/news/content/71/311087",
+    "date": "2026-11-21",
+    "byline": "周志豪"
+  },
+  {
+    "id": "src-cna-202611210111",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "夏莉絲案　沈伯洋允當選首日組跨局處專案小組",
+    "url": "https://www.cna.com.tw/news/aloc/202611210111.aspx",
+    "date": "2026-11-21",
+    "byline": "林長順"
+  },
+  {
+    "id": "src-ttv-11511210001100W",
+    "kind": "新聞",
+    "outlet": "台視新聞網",
+    "title": "夏莉絲家長當面陳情 沈伯洋簽承諾書：就任首日成立專案小組",
+    "url": "https://news.ttv.com.tw/news/11511210001100W",
+    "date": "2026-11-21",
+    "byline": null
+  },
+  {
+    "id": "src-cts-202611213103813",
+    "kind": "新聞",
+    "outlet": "華視新聞網",
+    "title": "台北市長政見會！　蔣萬安.沈伯洋交鋒「無菸.兒虐」",
+    "url": "https://news.cts.com.tw/cts/politics/202611/202611213103813.html",
+    "date": "2026-11-21",
+    "byline": "綜合報導"
+  },
+  {
+    "id": "src-cna-202611210084",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋提對公務員4承諾　北市府：蔣萬安早已在做",
+    "url": "https://www.cna.com.tw/news/aloc/202611210084.aspx",
+    "date": "2026-11-21",
+    "byline": "劉建邦、葉蓁芸"
+  },
+  {
+    "id": "src-cna-202611210205",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋出席觀光政策座談會　盼打造台北成登山城",
+    "url": "https://www.cna.com.tw/news/aipl/202611210205.aspx",
+    "date": "2026-11-21",
+    "byline": "劉建邦"
+  },
+  {
+    "id": "vid-0aQYBIyBmJM",
+    "kind": "影片",
+    "outlet": "臺北市選舉委員會",
+    "title": "第9屆市長選舉候選人公辦政見發表會-第二場次",
+    "url": "https://www.youtube.com/watch?v=0aQYBIyBmJM",
+    "date": "2026-11-21",
+    "byline": null
+  },
+  {
+    "id": "vid-byvwSe4PP74",
+    "kind": "影片",
+    "outlet": "民視新聞網",
+    "title": "【直播完整版】1121 沈伯洋、蔣萬安再交鋒！ 2026台北市長第二場公辦政見發表會｜民視快新聞｜",
+    "url": "https://www.youtube.com/watch?v=byvwSe4PP74",
+    "date": "2026-11-21",
+    "byline": null
   }
 ]
