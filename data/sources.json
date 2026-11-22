@@ -3733,5 +3733,68 @@
     "url": "https://www.youtube.com/watch?v=byvwSe4PP74",
     "date": "2026-11-21",
     "byline": null
+  },
+  {
+    "id": "src-ettoday-3276171",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "加速存第一桶金！蔣萬安拋青年儲蓄補貼　月存5000「市府加碼3成」",
+    "url": "https://www.ettoday.net/news/20261121/3276171.htm",
+    "date": "2026-11-21",
+    "byline": "陳家祥"
+  },
+  {
+    "id": "src-setn-1942865",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "助青年存第一桶金！蔣萬安拋儲蓄補貼政見　每月存5000市府加碼3成",
+    "url": "https://www.setn.com/news/1942865",
+    "date": "2026-11-21",
+    "byline": "程正邦"
+  },
+  {
+    "id": "src-chinatimes-20261121002496",
+    "kind": "新聞",
+    "outlet": "中時新聞網",
+    "title": "蔣萬安推青年儲蓄補貼 月存5000「市府加碼3成」",
+    "url": "https://www.chinatimes.com/realtimenews/20261121002496-260407",
+    "date": "2026-11-21",
+    "byline": "丁上程"
+  },
+  {
+    "id": "src-ftnn-597950",
+    "kind": "新聞",
+    "outlet": "FTNN新聞網",
+    "title": "蔣萬安拋青年儲蓄新政！每月存5000元「市府加碼1500」　助年輕人攢第一桶金",
+    "url": "https://www.ftnn.com.tw/news/597950",
+    "date": "2026-11-21",
+    "byline": "鄧宇婷"
+  },
+  {
+    "id": "src-cna-202611220158",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "卓榮泰批蔣萬安團隊抹黑　保證翡翠水庫不設光電",
+    "url": "https://www.cna.com.tw/news/aipl/202611220158.aspx",
+    "date": "2026-11-22",
+    "byline": "黃旭昇"
+  },
+  {
+    "id": "src-ettoday-3276604",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "嗆蔣萬安造謠　卓榮泰：翡翠水庫以前、現在、以後都不會有光電板",
+    "url": "https://www.ettoday.net/news/20261122/3276604.htm",
+    "date": "2026-11-22",
+    "byline": "詹詠淇"
+  },
+  {
+    "id": "src-cna-202611220123",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "婦人為都更案下跪陳情　蔣萬安：會關注住戶安置",
+    "url": "https://www.cna.com.tw/news/aloc/202611220123.aspx",
+    "date": "2026-11-22",
+    "byline": "楊淑閔"
   }
 ]
