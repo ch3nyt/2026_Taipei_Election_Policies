@@ -3796,5 +3796,50 @@
     "url": "https://www.cna.com.tw/news/aloc/202611220123.aspx",
     "date": "2026-11-22",
     "byline": "楊淑閔"
+  },
+  {
+    "id": "src-ettoday-3275863",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "蔣萬安出招反制水庫光電！成立「台灣好水聯盟」　邀縣市長們連署",
+    "url": "https://www.ettoday.net/news/20261121/3275863.htm",
+    "date": "2026-11-21",
+    "byline": "陳怡潔"
+  },
+  {
+    "id": "src-newtalk-1072391",
+    "kind": "新聞",
+    "outlet": "Newtalk新聞",
+    "title": "藍營昨「水庫光電板退場」提案進二讀 蔣萬安今發起「好水聯盟」邀全台首長候選人簽署",
+    "url": "https://newtalk.tw/news/view/2026-11-21/1072391",
+    "date": "2026-11-21",
+    "byline": "李宣萱"
+  },
+  {
+    "id": "src-udn-9896704",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "讓人民喝得安心！蔣萬安曝「好水聯盟」成員 宣示將堅守2大主張",
+    "url": "https://udn.com/news/story/124652/9896704",
+    "date": "2026-11-23",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-setn-1942740",
+    "kind": "新聞",
+    "outlet": "三立新聞網",
+    "title": "談夏莉絲兒虐！沈伯洋政見發表會喊「搶回這一步」：寧可多管也別遲到",
+    "url": "https://www.setn.com/news/1942740",
+    "date": "2026-11-21",
+    "byline": "楊士誼"
+  },
+  {
+    "id": "src-udn-9893413",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "沈伯洋政見會狂轟蔣市府 結尾強調「正面選戰、不會造謠抹黑」",
+    "url": "https://udn.com/news/story/124652/9893413",
+    "date": "2026-11-21",
+    "byline": "洪子凱"
   }
 ]
