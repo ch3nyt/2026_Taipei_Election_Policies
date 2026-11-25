@@ -3841,5 +3841,77 @@
     "url": "https://udn.com/news/story/124652/9893413",
     "date": "2026-11-21",
     "byline": "洪子凱"
+  },
+  {
+    "id": "src-cna-202608280108",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "北市推自動駕駛公車　蔣萬安：規劃116年投入4輛實測",
+    "url": "https://www.cna.com.tw/news/aloc/202608280108.aspx",
+    "date": "2026-08-28",
+    "byline": "劉建邦、葉蓁芸"
+  },
+  {
+    "id": "src-udn-9644173",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "北市推無人公車等計畫斥資近12億 蔣萬安將赴議會專案報告",
+    "url": "https://udn.com/news/story/7323/9644173",
+    "date": "2026-07-22",
+    "byline": "林麗玉"
+  },
+  {
+    "id": "src-cna-202606220274",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "北市將試辦無人自駕公車　沈伯洋競辦：未見配套",
+    "url": "https://www.cna.com.tw/news/aloc/202606220274.aspx",
+    "date": "2026-06-22",
+    "byline": "黃麗芸"
+  },
+  {
+    "id": "src-cna-202611240154",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "北市推自動駕駛公車　賴士葆將提案助地方政府發揮",
+    "url": "https://www.cna.com.tw/news/aipl/202611240154.aspx",
+    "date": "2026-11-24",
+    "byline": "劉冠廷"
+  },
+  {
+    "id": "src-rti-1053445",
+    "kind": "新聞",
+    "outlet": "中央廣播電臺",
+    "title": "台北市長選戰／蔣萬安曝無人自駕公車時程 沈伯洋建議北士科試辦",
+    "url": "https://www.rti.org.tw/news?pid=1053445&uid=3",
+    "date": "2026-11-24",
+    "byline": "鄭佑漢"
+  },
+  {
+    "id": "src-cts-202611243104847",
+    "kind": "新聞",
+    "outlet": "華視新聞網",
+    "title": "藍委提專法推AI自駕公車　蔣：明年上路　沈：可討論",
+    "url": "https://news.cts.com.tw/cts/politics/202611/202611243104847.html",
+    "date": "2026-11-24",
+    "byline": "綜合報導"
+  },
+  {
+    "id": "src-puma-policy-transport",
+    "kind": "官方",
+    "outlet": "沈伯洋台北市長競選官方網站",
+    "title": "沈伯洋提四大交通政見　讓綠色通勤選項＋1",
+    "url": "https://puma.taipei/policies/%E4%BA%A4%E9%80%9A%E6%94%BF%E7%AD%96",
+    "date": "2026-09-16",
+    "byline": null
+  },
+  {
+    "id": "src-ettoday-3217458",
+    "kind": "新聞",
+    "outlet": "ETtoday新聞雲",
+    "title": "沈伯洋拋「TPASS納共享機車」　許甫點3問題：拿稅金買單不切實際空想",
+    "url": "https://www.ettoday.net/news/20260811/3217458.htm",
+    "date": "2026-08-11",
+    "byline": "郭運興"
   }
 ]
