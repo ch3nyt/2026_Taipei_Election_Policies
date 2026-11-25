@@ -3913,5 +3913,32 @@
     "url": "https://www.ettoday.net/news/20260811/3217458.htm",
     "date": "2026-08-11",
     "byline": "郭運興"
+  },
+  {
+    "id": "src-cna-202611250122",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "沈伯洋登時代雜誌　談城市韌性與反制中國認知戰",
+    "url": "https://www.cna.com.tw/news/aipl/202611250122.aspx",
+    "date": "2026-11-25",
+    "byline": "編譯：張茗喧"
+  },
+  {
+    "id": "src-udn-9901794",
+    "kind": "新聞",
+    "outlet": "聯合新聞網",
+    "title": "沈伯洋質疑雙城論壇成效 主張台北與北京辦論壇",
+    "url": "https://udn.com/news/story/125078/9901794",
+    "date": "2026-11-25",
+    "byline": "林宸誼"
+  },
+  {
+    "id": "src-cna-202611250067",
+    "kind": "新聞",
+    "outlet": "中央社",
+    "title": "陳吉寧落馬引發震撼  國台辦：繼續支持雙城論壇舉辦",
+    "url": "https://www.cna.com.tw/news/acn/202611250067.aspx",
+    "date": "2026-11-25",
+    "byline": "張淑伶"
   }
 ]
