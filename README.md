@@ -1,5 +1,7 @@
 # 2026 台北市長政見對照
 
+> **In English.** A side-by-side, source-linked comparison of the policy platforms of the two main candidates in the 2026 Taipei mayoral election (Chiang Wan-an and Puma Shen), organised into 15 topics. Every record links to the news report or video it came from, and both candidates are held to the same inclusion standard and wording rules ([METHODOLOGY.md](METHODOLOGY.md)). `scripts/validate.py` checks every record against the schema and exports a CSV; `scripts/build_site.py` pre-renders the pages so they can be read without JavaScript; `tools/` transcribes campaign videos locally so claims can be traced to a timestamp. Corrections go through a public issue template. The site is in Traditional Chinese.
+
 **👉 網站：https://ch3nyt.github.io/2026_Taipei_Election_Policies/**
 
 **🎯 政策盲測：https://ch3nyt.github.io/2026_Taipei_Election_Policies/quiz.html**
